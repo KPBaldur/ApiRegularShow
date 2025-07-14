@@ -1,0 +1,146 @@
+[
+  {
+    "id": "COMC001",
+    "titulo": "Manic Moshers",
+    "tipo": "principal",
+    "numero_issues": "1-2",
+    "autores": ["KC Green"],
+    "ilustradores": ["Al Strejlau"],
+    "publicacion": "2013"
+  },
+  {
+    "id": "COMC002",
+    "titulo": "The Perfect Haircut",
+    "tipo": "principal",
+    "numero_issues": "4-5",
+    "autores": ["KC Green"],
+    "ilustradores": ["Al Strejlau"],
+    "publicacion": "2013"
+  },
+  {
+    "id": "COMC003",
+    "titulo": "Art Appreciation",
+    "tipo": "principal",
+    "numero_issues": "6",
+    "autores": ["Jeremy Lawson"],
+    "ilustradores": [],
+    "publicacion": "2013"
+  },
+  {
+    "id": "COMC004",
+    "titulo": "Sick Selfies",
+    "tipo": "principal",
+    "numero_issues": "7-8",
+    "autores": ["Nick Sumida"],
+    "ilustradores": ["Al Strejlau"],
+    "publicacion": "2013"
+  },
+  {
+    "id": "COMC005",
+    "titulo": "Garage Sale",
+    "tipo": "principal",
+    "numero_issues": "9-12",
+    "autores": ["KC Green"],
+    "ilustradores": ["Al Strejlau"],
+    "publicacion": "2013"
+  },
+  {
+    "id": "COMC006",
+    "titulo": "Eileen Day",
+    "tipo": "principal",
+    "numero_issues": "13",
+    "autores": ["Minty Lewis"],
+    "ilustradores": ["Al Strejlau"],
+    "publicacion": "2013"
+  },
+  {
+    "id": "COMC007",
+    "titulo": "Coffee Yuppies",
+    "tipo": "principal",
+    "numero_issues": "14-16",
+    "autores": ["KC Green"],
+    "ilustradores": ["Al Strejlau"],
+    "publicacion": "2013"
+  },
+  {
+    "id": "COMC008",
+    "titulo": "My Own Private Gumball",
+    "tipo": "principal",
+    "numero_issues": "17-20",
+    "autores": ["Nick Sumida"],
+    "ilustradores": ["Al Strejlau"],
+    "publicacion": "2013"
+  },
+  {
+    "id": "COMC009",
+    "titulo": "Grey Goo",
+    "tipo": "principal",
+    "numero_issues": "21",
+    "autores": ["Kevin Church"],
+    "ilustradores": ["Mad Rupert"],
+    "publicacion": "2014"
+  },
+  {
+    "id": "COMC010",
+    "titulo": "Cherished Childhood Children's Movie Night",
+    "tipo": "principal",
+    "numero_issues": "22-24",
+    "autores": ["Mad Rupert"],
+    "ilustradores": ["Al Strejlau"],
+    "publicacion": "2014"
+  },
+  {
+    "id": "COMC011",
+    "titulo": "Fitness",
+    "tipo": "principal",
+    "numero_issues": "25",
+    "autores": ["Kevin Church"],
+    "ilustradores": ["Mad Rupert"],
+    "publicacion": "2014"
+  },
+  {
+    "id": "COMC012",
+    "titulo": "Fan Fiction",
+    "tipo": "principal",
+    "numero_issues": "26-28",
+    "autores": ["Mad Rupert"],
+    "ilustradores": ["Wook Jin Clark"],
+    "publicacion": "2014"
+  },
+  {
+    "id": "COMC013",
+    "titulo": "Crystal Catastrophe",
+    "tipo": "principal",
+    "numero_issues": "29-32",
+    "autores": ["Mad Rupert"],
+    "ilustradores": ["Laura Howell"],
+    "publicacion": "2014"
+  },
+  {
+    "id": "COMC014",
+    "titulo": "Kaiju Ex",
+    "tipo": "principal",
+    "numero_issues": "33",
+    "autores": ["Shanna Matuszak"],
+    "ilustradores": ["Will Kirkby"],
+    "publicacion": "2014"
+  },
+  {
+    "id": "COMC015",
+    "titulo": "Real Deal Heroes",
+    "tipo": "principal",
+    "numero_issues": "34-36",
+    "autores": ["Ulises Farinas", "Erick Freitas"],
+    "ilustradores": ["Laura Howell"],
+    "publicacion": "2014"
+  },
+  {
+    "id": "COMC016",
+    "titulo": "Apocalypse Benson",
+    "tipo": "principal",
+    "numero_issues": "37-40",
+    "autores": ["Mad Rupert"],
+    "ilustradores": ["Laura Howell"],
+    "publicacion": "2014"
+  }
+]

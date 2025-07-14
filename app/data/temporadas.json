@@ -1,0 +1,58 @@
+[
+  {
+    "id": "TEMP01",
+    "numero_temporada": 1,
+    "numero_capitulos": 12,
+    "anio_estreno": 2010,
+    "resumen": "Mordecai y Rigby, dos amigos flojos, trabajan en un parque y se meten en problemas surrealistas mientras intentan evitar el trabajo y divertirse. Se presentan los personajes principales y el tono absurdo de la serie."
+  },
+  {
+    "id": "TEMP02",
+    "numero_temporada": 2,
+    "numero_capitulos": 28,
+    "anio_estreno": 2010,
+    "resumen": "La serie profundiza en la vida de los personajes, sus relaciones y aventuras cada vez más extrañas. Se exploran temas de amistad, rivalidad y situaciones sobrenaturales en el parque."
+  },
+  {
+    "id": "TEMP03",
+    "numero_temporada": 3,
+    "numero_capitulos": 39,
+    "anio_estreno": 2011,
+    "resumen": "Mordecai y Rigby enfrentan nuevos retos, desde torneos de videojuegos hasta viajes en el tiempo. Se desarrollan más los personajes secundarios y se introducen historias más complejas."
+  },
+  {
+    "id": "TEMP04",
+    "numero_temporada": 4,
+    "numero_capitulos": 37,
+    "anio_estreno": 2012,
+    "resumen": "La dinámica del grupo cambia con la llegada de nuevos personajes y la evolución de las relaciones amorosas. El parque enfrenta amenazas cada vez más grandes y absurdas."
+  },
+  {
+    "id": "TEMP05",
+    "numero_temporada": 5,
+    "numero_capitulos": 40,
+    "anio_estreno": 2013,
+    "resumen": "Se exploran historias de origen, eventos especiales y cambios importantes en la vida de los personajes, como bodas y rupturas. La serie mantiene su humor y creatividad."
+  },
+  {
+    "id": "TEMP06",
+    "numero_temporada": 6,
+    "numero_capitulos": 28,
+    "anio_estreno": 2014,
+    "resumen": "El parque vive nuevas aventuras, desde competencias hasta invasiones de patos y viajes internacionales. Los personajes enfrentan desafíos personales y grupales."
+  },
+  {
+    "id": "TEMP07",
+    "numero_temporada": 7,
+    "numero_capitulos": 26,
+    "anio_estreno": 2015,
+    "resumen": "La serie se acerca a su final con historias más maduras, reencuentros, despedidas y la preparación para el desenlace épico."
+  },
+  {
+    "id": "TEMP08",
+    "numero_temporada": 8,
+    "numero_capitulos": 22,
+    "anio_estreno": 2016,
+    "resumen": "El parque y sus empleados son enviados al espacio, enfrentando desafíos cósmicos y una batalla final que define el destino de todos. La serie concluye con un cierre emotivo y épico."
+  }
+]
