@@ -2,9 +2,19 @@ from fastapi import FastAPI
 from app.routers import personajes, capitulos, temporadas, comics
 
 app = FastAPI(
-    tittle="Regular Show API",
-    description= "API publica para obtener informacion de la serie Regular Show.",
-    version="1.0.0"
+    title="Regular Show API",
+    description="API pública para obtener información de la serie Regular Show, incluyendo personajes, capítulos, temporadas y cómics.",
+    version="1.0.0",
+    contact={
+        "name": "Kevin P.",
+        "url": "https://github.com/KevinP-Antartica/ApiRegularShow",
+        "email": "kevinp@example.com"
+    },
+    license_info={
+        "name": "MIT License",
+        "url": "https://opensource.org/licenses/MIT"
+    },
+    terms_of_service="https://github.com/KevinP-Antartica/ApiRegularShow#terms"
 )
 
 app.include_router(personajes.router)
