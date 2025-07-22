@@ -1,6 +1,7 @@
 [
     {
         "id": "CHARCT001",
+        "imagen_url": "https://i.imgur.com/HjNfOFG.png",
         "nombre": "Mordecai (Mordecai)",
         "nombre_ingles": "Mordecai",
         "nombre_latino": "Mordecai",
@@ -19,10 +20,12 @@
         "profesion": "Guardabosques del parque",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
-        "estado": "Vivo"
+        "estado": "Vivo",
+        "imagen_url": "https://i.imgur.com/placeholder.png"
     },
     {
         "id": "CHARCT003",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Benson (Benson)",
         "nombre_ingles": "Benson",
         "nombre_latino": "Benson",
@@ -34,6 +37,7 @@
     },
     {
         "id": "CHARCT004",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Skips (Skips)",
         "nombre_ingles": "Skips",
         "nombre_latino": "Skips",
@@ -45,6 +49,7 @@
     },
     {
         "id": "CHARCT005",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Pops (Papaleta)",
         "nombre_ingles": "Pops",
         "nombre_latino": "Papaleta",
@@ -56,6 +61,7 @@
     },
     {
         "id": "CHARCT006",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Muscle Man (Musculoso)",
         "nombre_ingles": "Muscle Man",
         "nombre_latino": "Musculoso",
@@ -67,6 +73,7 @@
     },
     {
         "id": "CHARCT007",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "High Five Ghost (Fantasmín)",
         "nombre_ingles": "High Five Ghost",
         "nombre_latino": "Fantasmín",
@@ -78,6 +85,7 @@
     },
     {
         "id": "CHARCT008",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Eileen (Eileen)",
         "nombre_ingles": "Eileen",
         "nombre_latino": "Eileen",
@@ -89,6 +97,7 @@
     },
     {
         "id": "CHARCT009",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Margaret (Margaret)",
         "nombre_ingles": "Margaret",
         "nombre_latino": "Margaret",
@@ -100,6 +109,7 @@
     },
     {
         "id": "CHARCT010",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Thomas (Thomas)",
         "nombre_ingles": "Thomas",
         "nombre_latino": "Thomas",
@@ -111,6 +121,7 @@
     },
     {
         "id": "CHARCT011",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "CJ (CJ / Nube)",
         "nombre_ingles": "CJ",
         "nombre_latino": "Nube",
@@ -122,6 +133,7 @@
     },
     {
         "id": "CHARCT012",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Starla (Starla)",
         "nombre_ingles": "Starla",
         "nombre_latino": "Starla",
@@ -133,6 +145,7 @@
     },
     {
         "id": "CHARCT013",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Mr. Maellard (Papá de Papaleta)",
         "nombre_ingles": "Mr. Maellard",
         "nombre_latino": "Papá de Papaleta",
@@ -144,6 +157,7 @@
     },
     {
         "id": "CHARCT014",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Muscle Dad (Papá de Musculoso)",
         "nombre_ingles": "Muscle Dad",
         "nombre_latino": "Papá de Musculoso",
@@ -155,6 +169,7 @@
     },
     {
         "id": "CHARCT015",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Anti-Pops (Anti-Papaleta)",
         "nombre_ingles": "Anti-Pops",
         "nombre_latino": "Anti-Papaleta",
@@ -166,6 +181,7 @@
     },
     {
         "id": "CHARCT016",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Garrett Bobby Ferguson (Garrett Bobby Ferguson)",
         "nombre_ingles": "Garrett Bobby Ferguson",
         "nombre_latino": "Garrett Bobby Ferguson",
@@ -177,6 +193,7 @@
     },
     {
         "id": "CHARCT017",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Death (La Muerte)",
         "nombre_ingles": "Death",
         "nombre_latino": "La Muerte",
@@ -188,6 +205,7 @@
     },
     {
         "id": "CHARCT018",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Techmo (Tecmo)",
         "nombre_ingles": "Techmo",
         "nombre_latino": "Tecmo",
@@ -199,6 +217,7 @@
     },
     {
         "id": "CHARCT019",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Don (Don)",
         "nombre_ingles": "Don",
         "nombre_latino": "Don",
@@ -210,6 +229,7 @@
     },
     {
         "id": "CHARCT020",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Cloudy Jay (Jay Nube)",
         "nombre_ingles": "Cloudy Jay",
         "nombre_latino": "Jay Nube",
@@ -221,6 +241,7 @@
     },
     {
         "id": "CHARCT021",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Peeps (Peeps)",
         "nombre_ingles": "Peeps",
         "nombre_latino": "Peeps",
@@ -232,6 +253,7 @@
     },
     {
         "id": "CHARCT022",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Alfred (Mayordomo de Papaleta)",
         "nombre_ingles": "Alfred",
         "nombre_latino": "Mayordomo de Papaleta",
@@ -243,6 +265,7 @@
     },
     {
         "id": "CHARCT023",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Susan (Susan)",
         "nombre_ingles": "Susan",
         "nombre_latino": "Susan",
@@ -254,6 +277,7 @@
     },
     {
         "id": "CHARCT024",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Chance Sureshot (Chance Sureshot)",
         "nombre_ingles": "Chance Sureshot",
         "nombre_latino": "Chance Sureshot",
@@ -265,6 +289,7 @@
     },
     {
         "id": "CHARCT025",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Gene (Gene)",
         "nombre_ingles": "Gene",
         "nombre_latino": "Gene",
@@ -276,6 +301,7 @@
     },
     {
         "id": "CHARCT026",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Celestia (Celestia)",
         "nombre_ingles": "Celestia",
         "nombre_latino": "Celestia",
@@ -287,6 +313,7 @@
     },
     {
         "id": "CHARCT027",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Recap Robot (Robot Recapitulador)",
         "nombre_ingles": "Recap Robot",
         "nombre_latino": "Robot Recapitulador",
@@ -298,6 +325,7 @@
     },
     {
         "id": "CHARCT028",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Party Horse (Caballo Fiestero)",
         "nombre_ingles": "Party Horse",
         "nombre_latino": "Caballo Fiestero",
@@ -309,6 +337,7 @@
     },
     {
         "id": "CHARCT029",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "CJ's Dad (Papá de CJ)",
         "nombre_ingles": "CJ's Dad",
         "nombre_latino": "Papá de CJ",
@@ -320,6 +349,7 @@
     },
     {
         "id": "CHARCT030",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Quips (Chistes)",
         "nombre_ingles": "Quips",
         "nombre_latino": "Chistes",
@@ -331,6 +361,7 @@
     },
     {
         "id": "CHARCT031",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Dr. Henry (Dr. Henry)",
         "nombre_ingles": "Dr. Henry",
         "nombre_latino": "Dr. Henry",
@@ -342,6 +373,7 @@
     },
     {
         "id": "CHARCT032",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Stef (Stef)",
         "nombre_ingles": "Stef",
         "nombre_latino": "Stef",
@@ -353,6 +385,7 @@
     },
     {
         "id": "CHARCT033",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Pam (Pam)",
         "nombre_ingles": "Pam",
         "nombre_latino": "Pam",
@@ -364,6 +397,7 @@
     },
     {
         "id": "CHARCT034",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Gary (Gary)",
         "nombre_ingles": "Gary",
         "nombre_latino": "Gary",
@@ -375,6 +409,7 @@
     },
     {
         "id": "CHARCT035",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Low Five Ghost (Fantasmón)",
         "nombre_ingles": "Low Five Ghost",
         "nombre_latino": "Fantasmón",
@@ -386,6 +421,7 @@
     },
     {
         "id": "CHARCT036",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Mona (Mona)",
         "nombre_ingles": "Mona",
         "nombre_latino": "Mona",
@@ -397,6 +433,7 @@
     },
     {
         "id": "CHARCT037",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Benson's Mom (Mamá de Benson)",
         "nombre_ingles": "Benson's Mom",
         "nombre_latino": "Mamá de Benson",
@@ -408,6 +445,7 @@
     },
     {
         "id": "CHARCT038",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Benson's Dad (Papá de Benson)",
         "nombre_ingles": "Benson's Dad",
         "nombre_latino": "Papá de Benson",
