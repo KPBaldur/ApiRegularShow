@@ -1,8 +1,8 @@
+from app.data import data_manager
 from fastapi import APIRouter, HTTPException, Query
-import json
-from pathlib import Path
 from app.models import Personaje
 from typing import List, Optional
+from app.data.data_manager import DataManager
 import random
 
 router = APIRouter(
@@ -10,7 +10,7 @@ router = APIRouter(
     tags=["Personajes"]
 )
 
-DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "personajes.json"
+data_manager = DataManager()
 
 @router.get("/", response_model=List[Personaje])
 def obtener_personajes(
@@ -21,9 +21,8 @@ def obtener_personajes(
     estado: Optional[str] = None,
     profesion: Optional[str] = None
 ):
-    with open(DATA_PATH, "r", encoding="utf-8") as file:
-        data = json.load(file)
-    # Filtros
+    data = data_manager.get_data("personajes")
+
     if nombre:
         data = [p for p in data if nombre.lower() in p["nombre"].lower()]
     if raza:
@@ -32,24 +31,25 @@ def obtener_personajes(
         data = [p for p in data if estado.lower() in p["estado"].lower()]
     if profesion:
         data = [p for p in data if profesion.lower() in p["profesion"].lower()]
-    return data[skip:skip+limit]
+
+    return data[skip:skip + limit]
+
 
 @router.get("/aleatorio/5", response_model=List[Personaje])
 def obtener_5_personajes_aleatorios():
-    with open(DATA_PATH, "r", encoding="utf-8") as file:
-        data = json.load(file)
+    data = data_manager.get_data("personajes")
     return random.sample(data, min(5, len(data)))
+
 
 @router.get("/aleatorio/10", response_model=List[Personaje])
 def obtener_10_personajes_aleatorios():
-    with open(DATA_PATH, "r", encoding="utf-8") as file:
-        data = json.load(file)
+    data = data_manager.get_data("personajes")
     return random.sample(data, min(10, len(data)))
+
 
 @router.get("/{id}", response_model=Personaje)
 def obtener_personaje_por_id(id: str):
-    with open(DATA_PATH, "r", encoding="utf-8") as file:
-        data = json.load(file)
+    data = data_manager.get_data("personajes")
     for personaje in data:
         if personaje["id"] == id:
             return personaje
