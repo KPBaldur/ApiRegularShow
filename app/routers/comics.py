@@ -1,15 +1,15 @@
 from fastapi import APIRouter, HTTPException, Query
-import json
-from pathlib import Path
 from app.models import Comic
 from typing import List, Optional
+from app.data.data_manager import DataManager
 
 router = APIRouter(
     prefix="/comics",
     tags=["Comics"]
 )
 
-DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "comics.json"
+data_manager = DataManager()
+
 
 @router.get("/", response_model=List[Comic])
 def obtener_comics(
@@ -20,8 +20,8 @@ def obtener_comics(
     autor: Optional[str] = None,
     publicacion: Optional[str] = None
 ):
-    with open(DATA_PATH, "r", encoding="utf-8") as file:
-        data = json.load(file)
+    data = data_manager.get_data("comics")
+
     if titulo:
         data = [c for c in data if titulo.lower() in c["titulo"].lower()]
     if tipo:
@@ -30,12 +30,13 @@ def obtener_comics(
         data = [c for c in data if any(autor.lower() in a.lower() for a in c["autores"])]
     if publicacion:
         data = [c for c in data if publicacion in c["publicacion"]]
-    return data[skip:skip+limit]
+
+    return data[skip:skip + limit]
+
 
 @router.get("/{id}", response_model=Comic)
 def obtener_comic_por_id(id: str):
-    with open(DATA_PATH, "r", encoding="utf-8") as file:
-        data = json.load(file)
+    data = data_manager.get_data("comics")
     for comic in data:
         if comic["id"] == id:
             return comic
