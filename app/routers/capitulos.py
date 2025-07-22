@@ -1,15 +1,14 @@
 from fastapi import APIRouter, HTTPException, Query
-import json
-from pathlib import Path
 from app.models import Capitulo
 from typing import List, Optional
+from app.data.data_manager import DataManager
 
 router = APIRouter(
     prefix="/capitulos",
     tags=["Capitulos"]
 )
 
-DATA_PATH = Path(__file__).resolve().parent.parent / "data" / "capitulos.json"
+data_manager = DataManager()
 
 @router.get("/", response_model=List[Capitulo])
 def obtener_capitulos(
@@ -19,20 +18,20 @@ def obtener_capitulos(
     temporada: Optional[int] = None,
     numero: Optional[int] = None
 ):
-    with open(DATA_PATH, "r", encoding="utf-8") as file:
-        data = json.load(file)
+    data = data_manager.get_data("capitulos")
+
     if titulo:
         data = [c for c in data if titulo.lower() in c["titulo"].lower()]
     if temporada:
         data = [c for c in data if c["temporada"] == temporada]
     if numero:
         data = [c for c in data if c["numero"] == numero]
-    return data[skip:skip+limit]
+
+    return data[skip:skip + limit]
 
 @router.get("/{id}", response_model=Capitulo)
 def obtener_capitulo_por_id(id: str):
-    with open(DATA_PATH, "r", encoding="utf-8") as file:
-        data = json.load(file)
+    data = data_manager.get_data("capitulos")
     for capitulo in data:
         if capitulo["id"] == id:
             return capitulo
