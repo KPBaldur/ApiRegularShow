@@ -1,188 +1,143 @@
-Regular Show Mini Wiki API
+
+# Regular Show Mini Wiki API
+
 API pública para consultar información sobre la serie animada Regular Show: personajes, capítulos, temporadas y cómics.
 
-Características
-Consulta de personajes, capítulos, temporadas y cómics
+---
 
-Filtros y paginación en todos los endpoints
+## 🚀 **Prueba la API en Producción**
+[https://tu-url-en-render.com/docs](https://tu-url-en-render.com/docs)
 
-Respuestas en formato JSON
+Usa la documentación interactiva de Swagger para explorar todos los endpoints fácilmente.
 
-Documentación automática con Swagger y Redoc
+| Recurso    | Endpoint                  |
+|------------|----------------------------|
+| Personajes | `/personajes/`             |
+| Capítulos  | `/capitulos/`              |
+| Temporadas | `/temporadas/`             |
+| Cómics     | `/comics/`                 |
 
-Instalación
-Clona el repositorio:
+---
 
-bash
-Copiar
-Editar
+## 🖥️ **Instalación local (modo desarrollador)**
+
+### 1️⃣ Clona el repositorio:
+```bash
 git clone https://github.com/KPBaldur/ApiRegularShow.git
 cd ApiRegularShow
-Crea y activa un entorno virtual (opcional pero recomendado):
+```
 
-bash
-Copiar
-Editar
+### 2️⃣ Crea y activa un entorno virtual:
+```bash
 python -m venv venv
-venv\Scripts\activate  # En Windows
-source venv/bin/activate  # En Linux/Mac
-Instala las dependencias:
+# En Windows:
+venv\Scripts\activate
+# En Linux/Mac:
+source venv/bin/activate
+```
 
-bash
-Copiar
-Editar
-pip install fastapi uvicorn
-Ejecución
-Lanza el servidor de desarrollo con:
+### 3️⃣ Instala las dependencias:
+```bash
+pip install -r requirements.txt
+```
 
-bash
-Copiar
-Editar
+### 4️⃣ Ejecuta el servidor local:
+```bash
 uvicorn app.main:app --reload
-La API estará disponible en: http://localhost:8000
+```
 
-Documentación Swagger: http://localhost:8000/docs
+📍 **Documentación local:**
+http://localhost:8000/docs
 
-Documentación Redoc: http://localhost:8000/redoc
+---
 
-¿Cómo funciona la API?
-La API lee datos desde archivos JSON ubicados en la carpeta app/data/. Cada endpoint accede a su archivo correspondiente y permite filtrar, buscar y paginar los resultados.
-La documentación interactiva está disponible en /docs y describe todos los modelos y parámetros.
+## 📂 **Estructura del proyecto**
+```
+app/
+├── routers/           # Endpoints (personajes, capitulos, etc.)
+├── data/              # Datos JSON
+├── models.py          # Modelos de datos (Pydantic)
+├── main.py            # Configuración principal de la API
+├── config.py          # Variables de entorno y configuración
+├── errors.py          # Manejo de errores personalizados
+```
 
-Estructura del proyecto:
+---
 
-app/routers/: Endpoints de la API.
+## 🔧 **Endpoints principales**
 
-app/data/: Archivos de datos en formato JSON.
+### 📑 Personajes
+- `GET /personajes`
+- `GET /personajes/{id}`
+- `GET /personajes/aleatorio/5`
+- `GET /personajes/aleatorio/10`
 
-app/models.py: Modelos de datos (Pydantic).
+### 📑 Capítulos
+- `GET /capitulos`
+- `GET /capitulos/{id}`
 
-app/main.py: Configuración principal de la API.
+### 📑 Temporadas
+- `GET /temporadas`
+- `GET /temporadas/{id}`
 
-Ejemplo de respuesta para /personajes/CHARCT001:
+### 📑 Cómics
+- `GET /comics`
+- `GET /comics/{id}`
 
-json
-Copiar
-Editar
-{
-  "id": "CHARCT001",
-  "nombre": "Mordecai (Mordecai)",
-  "nombre_ingles": "Mordecai",
-  "nombre_latino": "Mordecai",
-  "raza": "Arrendajo azul",
-  "profesion": "Guardabosques del parque, artista",
-  "capitulo_aparicion": "The Power (S01E01)",
-  "comic_aparicion": "Aparece en todos los cómics de Regular Show",
-  "estado": "Vivo"
-}
-Endpoints principales
-Personajes
-GET /personajes — Lista de personajes (filtros: nombre, raza, estado, profesión; paginación: skip, limit)
+---
 
-GET /personajes/{id} — Detalle de personaje por ID
+## 💡 **Ejemplos de uso (producción o local)**
 
-GET /personajes/aleatorio/5 — 5 personajes aleatorios
-
-GET /personajes/aleatorio/10 — 10 personajes aleatorios
-
-Capítulos
-GET /capitulos — Lista de capítulos (filtros: título, temporada, número; paginación)
-
-GET /capitulos/{id} — Detalle de capítulo por ID
-
-Temporadas
-GET /temporadas — Lista de temporadas (filtros: año de estreno, número de temporada; paginación)
-
-GET /temporadas/{id} — Detalle de temporada por ID
-
-Cómics
-GET /comics — Lista de cómics (filtros: título, tipo, autor, año de publicación; paginación)
-
-GET /comics/{id} — Detalle de cómic por ID
-
-Ejemplos de uso
-Obtener los primeros 5 personajes:
-
-http
-Copiar
-Editar
+Obtener primeros 5 personajes:
+```
 GET /personajes?skip=0&limit=5
+```
+
 Buscar personajes por raza:
-
-http
-Copiar
-Editar
+```
 GET /personajes?raza=mapache
+```
+
 Filtrar capítulos por temporada:
-
-h
-Copiar
-Editar
+```
 GET /capitulos?temporada=1
-Obtener cómics publicados en 2014:
+```
 
-http
-Copiar
-Editar
+Obtener cómics de 2014:
+```
 GET /comics?publicacion=2014
-Preguntas frecuentes (FAQ)
-¿Qué hago si un endpoint devuelve una lista vacía?
+```
 
-Significa que no hay datos que coincidan con los filtros aplicados. Prueba con otros parámetros o revisa la ortografía.
+---
 
-¿Cómo reporto un error o sugerencia?
+## 🔔 **Preguntas frecuentes (FAQ)**
 
-Puedes abrir un issue en el repositorio de GitHub o contactar al mantenedor vía email.
+### ❓ ¿Por qué me devuelve 404 en `/`?
+La API está pensada para usarse vía `/docs` o directamente por los endpoints.
 
-Ejercicios prácticos
-Básicos
-Listar todos los personajes:
-GET /personajes
+### ❓ ¿Cómo reporto un problema?
+Abre un issue en este repositorio o contáctame.
 
-Buscar personajes por nombre:
-GET /personajes?nombre=rigby
+---
 
-Listar capítulos de la temporada 1:
-GET /capitulos?temporada=1
+## 📃 **Licencia**
+MIT License
 
-Listar cómics publicados en 2013:
-GET /comics?publicacion=2013
+---
 
-Intermedios
-Filtrar personajes vivos de raza “mapache”:
-GET /personajes?raza=mapache&estado=vivo
+## 👨‍💻 **Contacto**
+Kevin Pizarro  
+[Repositorio GitHub: ApiRegularShow](https://github.com/KPBaldur/ApiRegularShow)
 
-Listar títulos de capítulos de la temporada 2:
-GET /capitulos?temporada=2
+---
 
-Buscar cómics de tipo “principal” por autor “KC Green”:
-GET /comics?tipo=principal&autor=KC Green
+## 📝 **Términos de Servicio**
+- Puedes usar esta API con fines educativos, personales o no comerciales.
+- Si la usas en público, otorga créditos al creador.
+- No garantizo disponibilidad continua ni soporte.
+- No puedes revender la API como propia.
 
-Recorrer personajes de 5 en 5:
-GET /personajes?skip=0&limit=5, luego skip=5, etc.
+---
 
-Avanzados
-Script para mostrar un personaje aleatorio cada día usando /personajes/aleatorio/5 y seleccionando uno.
-
-Obtener todos los personajes que aparecen en capítulos de la temporada 2 (requiere combinar datos de /capitulos y /personajes).
-
-Crear un dashboard con estadísticas usando los endpoints de la API.
-
-Integrar la API con un frontend para mostrar información dinámica y filtrada.
-
-Términos de Servicio
-Este servicio de API es de uso libre con las siguientes condiciones:
-
-Puedes usarla con fines educativos, personales o no comerciales.
-
-Si utilizas esta API públicamente o en proyectos, debes reconocer al creador (Kevin P.) y otorgar créditos al proyecto original.
-
-No se garantiza disponibilidad, soporte ni estabilidad continua del servicio.
-
-No está permitido revender esta API como propia ni ofrecerla como producto comercial sin autorización explícita del creador.
-
-Créditos:
-Kevin P. – Repositorio GitHub: ApiRegularShow
-
-Licencia
-MIT
+### 🚩 **Nota final para usuarios:**
+Esta API es un proyecto fan, no oficial. Es solo para fines de práctica, educación y compartir el amor por Regular Show. 🎮✨
