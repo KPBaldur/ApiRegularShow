@@ -36,6 +36,12 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+@app.get("/")
+def root():
+    return {
+        "message": "Regular Show API is running. Visit /docs for documentation.",
+        "documentation": "/docs"
+    }
 
 # Global Errors
 configure_error_handlers(app)
