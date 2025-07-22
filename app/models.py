@@ -1,11 +1,12 @@
 from pydantic import BaseModel, Field
-from typing import List, Optional
+from typing import List
 
 class Personaje(BaseModel):
     id: str = Field(..., description="ID único del personaje", example="CHARCT001")
     nombre: str = Field(..., description="Nombre completo del personaje", example="Mordecai (Mordecai)")
     nombre_ingles: str = Field(..., description="Nombre en inglés", example="Mordecai")
     nombre_latino: str = Field(..., description="Nombre en español latino", example="Mordecai")
+    imagen_url: str = Field(..., description="URL de la imagen del personaje", example="https://i.imgur.com/abcd123.png")
     raza: str = Field(..., description="Raza o especie del personaje", example="Arrendajo azul")
     profesion: str = Field(..., description="Profesión u ocupación", example="Guardabosques del parque, artista")
     capitulo_aparicion: str = Field(..., description="Primer capítulo de aparición", example="The Power (S01E01)")
@@ -20,12 +21,14 @@ class Capitulo(BaseModel):
     fecha_estreno: str = Field(..., description="Fecha de estreno (YYYY-MM-DD)", example="2010-09-06")
     sinopsis: str = Field(..., description="Resumen del capítulo", example="Mordecai y Rigby encuentran un teclado mágico...")
 
+
 class Temporada(BaseModel):
     id: str = Field(..., description="ID único de la temporada", example="TEMP01")
     numero_temporada: int = Field(..., description="Número de la temporada", example=1)
     numero_capitulos: int = Field(..., description="Cantidad de capítulos en la temporada", example=12)
     anio_estreno: int = Field(..., description="Año de estreno", example=2010)
     resumen: str = Field(..., description="Resumen de la temporada", example="Mordecai y Rigby, dos amigos flojos...")
+
 
 class Comic(BaseModel):
     id: str = Field(..., description="ID único del cómic", example="COMC001")
