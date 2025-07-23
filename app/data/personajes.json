@@ -1,7 +1,6 @@
 [
     {
         "id": "CHARCT001",
-        "imagen_url": "https://i.imgur.com/HjNfOFG.png",
         "nombre": "Mordecai (Mordecai)",
         "nombre_ingles": "Mordecai",
         "nombre_latino": "Mordecai",
@@ -9,7 +8,8 @@
         "profesion": "Guardabosques del parque, artista",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
-        "estado": "Vivo"
+        "estado": "Vivo",
+        "imagen_url": "https://i.imgur.com/HjNfOFG.png"
     },
     {
         "id": "CHARCT002",
