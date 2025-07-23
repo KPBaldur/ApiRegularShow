@@ -20,6 +20,8 @@ class Capitulo(BaseModel):
     titulo: str = Field(..., description="Título del capítulo", example="The Power")
     fecha_estreno: str = Field(..., description="Fecha de estreno (YYYY-MM-DD)", example="2010-09-06")
     sinopsis: str = Field(..., description="Resumen del capítulo", example="Mordecai y Rigby encuentran un teclado mágico...")
+    imdb_score: float = Field(..., description="Puntaje IMDb del capítulo", example=8.6)
+    imagen_url: str = Field(..., description="URL de la imagen del capítulo", example="https://cdn.regularshow.com/capitulos/thepower.jpg")
 
 
 class Temporada(BaseModel):
