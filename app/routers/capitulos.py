@@ -36,3 +36,10 @@ def obtener_capitulo_por_id(id: str):
         if capitulo["id"] == id:
             return capitulo
     raise HTTPException(status_code=404, detail="Capítulo no encontrado")
+
+@router.get("/top", response_model=List[Capitulo])
+def obtener_top_capitulos(limit: int = 10):
+    with open(DATA_PATH, "r", encoding="utf-8") as file:
+        data = json.load(file)
+    data.sort(key=lambda c: c.get("IMDb_score", 0), reverse=True)
+    return data[:limit]
