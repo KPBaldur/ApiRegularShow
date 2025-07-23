@@ -35,10 +35,10 @@ def obtener_personajes(
     return data[skip:skip + limit]
 
 
-@router.get("/aleatorio/5", response_model=List[Personaje])
+@router.get("/aleatorio/6", response_model=List[Personaje])
 def obtener_5_personajes_aleatorios():
     data = data_manager.get_data("personajes")
-    return random.sample(data, min(5, len(data)))
+    return random.sample(data, min(6, len(data)))
 
 
 @router.get("/aleatorio/10", response_model=List[Personaje])
