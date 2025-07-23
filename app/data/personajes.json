@@ -21,11 +21,10 @@
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
         "estado": "Vivo",
-        "imagen_url": "https://i.imgur.com/placeholder.png"
+        "imagen_url": "https://i.imgur.com/QbOaeZ5.jpeg"
     },
     {
         "id": "CHARCT003",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Benson (Benson)",
         "nombre_ingles": "Benson",
         "nombre_latino": "Benson",
@@ -33,11 +32,11 @@
         "profesion": "Gerente del parque",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
-        "estado": "Vivo"
+        "estado": "Vivo",
+        "imagen_url": "https://i.imgur.com/jI3Cy7O.png"
     },
     {
         "id": "CHARCT004",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Skips (Skips)",
         "nombre_ingles": "Skips",
         "nombre_latino": "Skips",
@@ -45,7 +44,8 @@
         "profesion": "Mecánico y guardabosques del parque",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
-        "estado": "Vivo"
+        "estado": "Vivo",
+        "imagen_url": "https://i.imgur.com/5pwTHgo.png"
     },
     {
         "id": "CHARCT005",
