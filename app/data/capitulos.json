@@ -4,15 +4,17 @@
     "temporada": 1,
     "numero": 1,
     "titulo": "The Power",
-    "IMDb_score": 8.6,
+    "imdb_score": 8.6,
     "fecha_estreno": "2010-09-06",
-    "sinopsis": "Mordecai y Rigby encuentran un teclado mágico que les permite hacer lo que quieran, pero accidentalmente envían a Skips a la luna y deben rescatarlo." 
+    "sinopsis": "Mordecai y Rigby encuentran un teclado mágico que les permite hacer lo que quieran, pero accidentalmente envían a Skips a la luna y deben rescatarlo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP002TEMP01",
     "temporada": 1,
     "numero": 2,
     "titulo": "Just Set Up the Chairs",
+    "imdb_score": 8.7,
     "fecha_estreno": "2010-09-13",
     "sinopsis": "Mientras preparan una fiesta, Mordecai y Rigby liberan accidentalmente a un monstruo de un videojuego antiguo y deben detenerlo antes de que destruya el parque." 
   },
@@ -21,6 +23,7 @@
     "temporada": 1,
     "numero": 3,
     "titulo": "Caffeinated Concert Tickets",
+    "imdb_score": 8.4,
     "fecha_estreno": "2010-09-20",
     "sinopsis": "Para conseguir entradas a un concierto, Mordecai y Rigby trabajan horas extra y hacen un trato con un grano de café gigante, lo que complica sus planes." 
   },
@@ -29,6 +32,7 @@
     "temporada": 1,
     "numero": 4,
     "titulo": "Death Punchies",
+    "imdb_score": 8.9,
     "fecha_estreno": "2010-09-27",
     "sinopsis": "Rigby aprende un arte marcial especial para vencer a Mordecai en un juego, pero las cosas se salen de control cuando ambos usan movimientos peligrosos." 
   },
@@ -37,6 +41,7 @@
     "temporada": 1,
     "numero": 5,
     "titulo": "Free Cake",
+    "imdb_score": 8.4,
     "fecha_estreno": "2010-10-04",
     "sinopsis": "Mordecai y Rigby intentan conseguir pastel gratis en el cumpleaños de Skips, pero interrumpen un ritual importante y deben salvarlo de los Guardianes de la Juventud Eterna." 
   },
@@ -45,6 +50,7 @@
     "temporada": 1,
     "numero": 6,
     "titulo": "Meat Your Maker",
+    "imdb_score": 8.2,
     "fecha_estreno": "2010-10-11",
     "sinopsis": "Durante una barbacoa, Rigby y Mordecai quedan atrapados en un congelador y reciben ayuda de salchichas vivientes, que luego intentan comerse a todos." 
   },
@@ -53,6 +59,7 @@
     "temporada": 1,
     "numero": 7,
     "titulo": "Grilled Cheese Deluxe",
+    "imdb_score": 8.7,
     "fecha_estreno": "2010-10-18",
     "sinopsis": "Mordecai y Rigby fingen ser astronautas para cortar la fila en un restaurante, pero terminan involucrados en un problema con antimateria." 
   },
@@ -61,6 +68,7 @@
     "temporada": 1,
     "numero": 8,
     "titulo": "The Unicorns Have Got to Go",
+    "imdb_score": 7.4,
     "fecha_estreno": "2010-10-25",
     "sinopsis": "Mordecai compra una colonia para impresionar a Margaret, pero atrae a una pandilla de unicornios problemáticos que causan caos en el parque." 
   },
@@ -69,6 +77,7 @@
     "temporada": 1,
     "numero": 9,
     "titulo": "Prank Callers",
+    "imdb_score": 9.0,
     "fecha_estreno": "2010-11-01",
     "sinopsis": "Mordecai y Rigby intentan hacer bromas telefónicas al Maestro de las Bromas, pero terminan atrapados en 1982 y deben regresar al presente." 
   },
@@ -78,6 +87,7 @@
     "numero": 10,
     "titulo": "Don",
     "fecha_estreno": "2010-11-08",
+    "imdb_score": 8.7,
     "sinopsis": "El parque enfrenta una auditoría y el hermano de Rigby, Don, llega para ayudar, causando celos y problemas entre los hermanos." 
   },
   {
@@ -85,6 +95,7 @@
     "temporada": 1,
     "numero": 11,
     "titulo": "Rigby's Body",
+    "imdb_score": 8.4,
     "fecha_estreno": "2010-11-15",
     "sinopsis": "Después de comer demasiada comida chatarra, el cuerpo de Rigby lo abandona y Mordecai y Skips deben ayudarlo a recuperarlo antes del anochecer." 
   },
@@ -93,6 +104,7 @@
     "temporada": 1,
     "numero": 12,
     "titulo": "Mordecai and the Rigbys",
+    "imdb_score": 9.2,
     "fecha_estreno": "2010-11-22",
     "sinopsis": "Mordecai y Rigby fingen tener una banda para impresionar a Margaret, pero deben aprender a tocar de verdad cuando sus futuros yoes aparecen para ayudarlos." 
   },
@@ -101,6 +113,7 @@
     "temporada": 2,
     "numero": 1,
     "titulo": "Ello Gov'nor",
+    "imdb_score": 9.0,
     "fecha_estreno": "2010-11-29",
     "sinopsis": "Rigby desarrolla un miedo irracional a un taxi británico después de ver una película de terror. Mordecai intenta ayudarlo a superar su temor." 
   },
@@ -109,6 +122,7 @@
     "temporada": 2,
     "numero": 2,
     "titulo": "It's Time",
+    "imdb_score": 8.7,
     "fecha_estreno": "2011-01-03",
     "sinopsis": "Mordecai y Rigby discuten por Margaret y terminan viajando en el tiempo tras destruir todos los relojes. Mordecai debe arreglar el pasado." 
   },
@@ -117,6 +131,7 @@
     "temporada": 2,
     "numero": 3,
     "titulo": "Appreciation Day",
+    "imdb_score": 8.4,
     "fecha_estreno": "2011-01-10",
     "sinopsis": "Mordecai y Rigby intentan mejorar su reputación en el parque escribiendo historias falsas en el libro de registros, pero todo se vuelve realidad." 
   },
@@ -125,6 +140,7 @@
     "temporada": 2,
     "numero": 4,
     "titulo": "Peeps",
+    "imdb_score": 8.7,
     "fecha_estreno": "2011-01-17",
     "sinopsis": "Benson instala cámaras de vigilancia para vigilar a Mordecai y Rigby, pero terminan invocando a Peeps, un ojo gigante que los espía a todos." 
   },
@@ -133,6 +149,7 @@
     "temporada": 2,
     "numero": 5,
     "titulo": "Dizzy",
+    "imdb_score": 8.3,
     "fecha_estreno": "2011-01-24",
     "sinopsis": "Pops debe dar un discurso, pero sufre de miedo escénico. Mordecai y Rigby lo ayudan a enfrentarlo entrando en su mente." 
   },
@@ -141,6 +158,7 @@
     "temporada": 2,
     "numero": 6,
     "titulo": "My Mom",
+    "imdb_score": 8.0,
     "fecha_estreno": "2011-01-31",
     "sinopsis": "Mordecai y Rigby deben soportar las bromas de Muscle Man y High-Five Ghost, pero todo se complica cuando los chistes se salen de control." 
   },
@@ -149,6 +167,7 @@
     "temporada": 2,
     "numero": 7,
     "titulo": "High Score",
+    "imdb_score": 9.1,
     "fecha_estreno": "2011-02-07",
     "sinopsis": "Mordecai y Rigby intentan vencer el récord de un videojuego, enfrentándose a Garrett Bobby Ferguson, el mejor jugador del universo." 
   },
@@ -157,6 +176,7 @@
     "temporada": 2,
     "numero": 8,
     "titulo": "Rage Against the TV",
+    "imdb_score": 9.3,
     "fecha_estreno": "2011-02-14",
     "sinopsis": "Cuando su televisor se rompe antes de vencer a un jefe final, Mordecai y Rigby buscan desesperadamente una forma de terminar su videojuego." 
   },
@@ -165,6 +185,7 @@
     "temporada": 2,
     "numero": 9,
     "titulo": "Party Pete",
+    "imdb_score": 8.6,
     "fecha_estreno": "2011-02-21",
     "sinopsis": "Mordecai y Rigby organizan una fiesta y contratan a Party Pete, pero la situación se descontrola cuando Pete bebe demasiada RadiCola." 
   },
@@ -173,6 +194,7 @@
     "temporada": 2,
     "numero": 10,
     "titulo": "Brain Eraser",
+    "imdb_score": 8.9,
     "fecha_estreno": "2011-02-25",
     "sinopsis": "Mordecai ve a Pops desnudo y hará todo lo posible por olvidar la imagen, incluso usando una extraña cinta de video." 
   },
@@ -181,6 +203,7 @@
     "temporada": 2,
     "numero": 11,
     "titulo": "Benson Be Gone",
+    "imdb_score": 8.5,
     "fecha_estreno": "2011-02-28",
     "sinopsis": "Benson es degradado y reemplazado por una nueva gerente, pero descubre que ella es una amenaza para el parque y debe recuperar su puesto." 
   },
@@ -189,6 +212,7 @@
     "temporada": 2,
     "numero": 12,
     "titulo": "But I Have a Receipt",
+    "imdb_score": 8.5,
     "fecha_estreno": "2011-03-07",
     "sinopsis": "Mordecai y Rigby intentan devolver un juego de mesa defectuoso, pero el gerente los atrapa dentro del juego y deben escapar." 
   },
@@ -197,6 +221,7 @@
     "temporada": 2,
     "numero": 13,
     "titulo": "This is My Jam",
+    "imdb_score": 9.0,
     "fecha_estreno": "2011-03-28",
     "sinopsis": "Rigby no puede sacar una canción pegajosa de su cabeza, y la melodía termina tomando vida propia y molestando a todos." 
   },
@@ -205,6 +230,7 @@
     "temporada": 2,
     "numero": 14,
     "titulo": "Muscle Woman",
+    "imdb_score": 7.5,
     "fecha_estreno": "2011-04-04",
     "sinopsis": "Muscle Man termina con su novia Starla y Mordecai y Rigby intentan reunirlos, pero Starla se enamora de Mordecai." 
   },
@@ -213,6 +239,7 @@
     "temporada": 2,
     "numero": 15,
     "titulo": "Temp Check",
+    "imdb_score": 8.6,
     "fecha_estreno": "2011-04-11",
     "sinopsis": "Rigby contrata a un reemplazo para hacer su trabajo, pero el nuevo empleado planea suplantarlo y tomar su lugar en el parque." 
   },
@@ -221,6 +248,7 @@
     "temporada": 2,
     "numero": 16,
     "titulo": "Jinx",
+    "imdb_score": 8.9,
     "fecha_estreno": "2011-04-18",
     "sinopsis": "Rigby es maldecido y no puede hablar sin recibir un golpe. Intenta romper la maldición, pero libera a un demonio de sí mismo." 
   },
@@ -229,6 +257,7 @@
     "temporada": 2,
     "numero": 17,
     "titulo": "See You There",
+    "imdb_score": 7.8,
     "fecha_estreno": "2011-04-25",
     "sinopsis": "Muscle Man no invita a Mordecai y Rigby a una fiesta. Ellos intentan colarse y terminan convertidos en fantasmas por accidente." 
   },
@@ -237,6 +266,7 @@
     "temporada": 2,
     "numero": 18,
     "titulo": "Do Me a Solid",
+    "imdb_score": 8.5,
     "fecha_estreno": "2011-05-02",
     "sinopsis": "Mordecai y Rigby se hacen favores mutuos, pero la situación se complica cuando un favor amenaza con destruir la casa." 
   },
@@ -245,6 +275,7 @@
     "temporada": 2,
     "numero": 19,
     "titulo": "Grave Sights",
+    "imdb_score": 9.3,
     "fecha_estreno": "2011-05-09",
     "sinopsis": "Durante una noche de cine en el cementerio, Mordecai y Rigby accidentalmente despiertan a los zombis y deben salvar a todos." 
   },
@@ -253,6 +284,7 @@
     "temporada": 2,
     "numero": 20,
     "titulo": "Really Real Wrestling",
+    "imdb_score": 8.5,
     "fecha_estreno": "2011-05-16",
     "sinopsis": "Mordecai y Rigby quieren ir a un evento de lucha libre, pero deben cuidar a Pops, quien termina participando en el ring." 
   },
@@ -261,6 +293,7 @@
     "temporada": 2,
     "numero": 21,
     "titulo": "Over the Top",
+    "imdb_score": 9.1,
     "fecha_estreno": "2011-05-23",
     "sinopsis": "Skips pierde en un concurso de fuerza contra Rigby y debe enfrentarse a la Muerte para recuperar el alma de su amigo." 
   },
@@ -269,6 +302,7 @@
     "temporada": 2,
     "numero": 22,
     "titulo": "The Night Owl",
+    "imdb_score": 9.0,
     "fecha_estreno": "2011-05-30",
     "sinopsis": "Mordecai, Rigby, Muscle Man y High-Five Ghost compiten en un concurso de radio para ganar un auto, pero el presentador los engaña." 
   },
@@ -277,6 +311,7 @@
     "temporada": 2,
     "numero": 23,
     "titulo": "A Bunch of Baby Ducks",
+    "imdb_score": 9.3,
     "fecha_estreno": "2011-06-06",
     "sinopsis": "Mordecai y Rigby encuentran unos patitos en la fuente del parque y deben protegerlos de un coleccionista obsesionado." 
   },
@@ -285,6 +320,7 @@
     "temporada": 2,
     "numero": 24,
     "titulo": "More Smarter",
+    "imdb_score": 8.9,
     "fecha_estreno": "2011-06-13",
     "sinopsis": "Rigby toma una poción para volverse más inteligente que Mordecai, pero ambos terminan demasiado listos para el mundo real." 
   },
@@ -293,6 +329,7 @@
     "temporada": 2,
     "numero": 25,
     "titulo": "First Day",
+    "imdb_score": 8.7,
     "fecha_estreno": "2011-07-11",
     "sinopsis": "Mordecai y Rigby compiten por una silla en su primer día de trabajo, repitiendo la historia del episodio piloto." 
   },
@@ -301,6 +338,7 @@
     "temporada": 2,
     "numero": 26,
     "titulo": "Go Viral",
+    "imdb_score": 8.9,
     "fecha_estreno": "2011-07-18",
     "sinopsis": "Muscle Man reta a Mordecai y Rigby a crear el video viral más popular, desatando una competencia absurda." 
   },
@@ -309,6 +347,7 @@
     "temporada": 2,
     "numero": 27,
     "titulo": "Skunked",
+    "imdb_score": 8.7,
     "fecha_estreno": "2011-07-25",
     "sinopsis": "Rigby es rociado por una mofeta y busca desesperadamente cómo quitarse el olor antes de una cita importante." 
   },
@@ -317,6 +356,7 @@
     "temporada": 2,
     "numero": 28,
     "titulo": "Karaoke Video",
+    "imdb_score": 9.1,
     "fecha_estreno": "2011-08-01",
     "sinopsis": "Mordecai y Rigby deben recuperar un video vergonzoso de karaoke antes de que sus amigos lo vean." 
   },
