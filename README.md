@@ -1,5 +1,6 @@
-
 # Regular Show Mini Wiki API
+![API Deploy](https://img.shields.io/badge/Deployed-Render-2ea44f?logo=render&logoColor=white)
+
 
 API pública para consultar información sobre la serie animada Regular Show: personajes, capítulos, temporadas y cómics.
 
