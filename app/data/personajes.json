@@ -105,19 +105,19 @@
     },
     {
         "id": "CHARCT009",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Margaret (Margaret)",
         "nombre_ingles": "Margaret",
-        "nombre_latino": "Margaret",
+        "nombre_latino": "Margarita",
         "raza": "Cardenal",
         "profesion": "Camarera, luego reportera",
         "capitulo_aparicion": "Caffeinated Concert Tickets (S01E03)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
-        "estado": "Viva"
+        "tipo_personaje": "Secundario",
+        "estado": "Viva",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT010",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Thomas (Thomas)",
         "nombre_ingles": "Thomas",
         "nombre_latino": "Thomas",
@@ -125,11 +125,11 @@
         "profesion": "Espía ruso, guardabosques del parque",
         "capitulo_aparicion": "Exit 9B (S04E01)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
+        "estado": "Vivo",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT011",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "CJ (CJ / Nube)",
         "nombre_ingles": "CJ",
         "nombre_latino": "Nube",
@@ -137,11 +137,12 @@
         "profesion": "Estudiante, luego novia de Mordecai",
         "capitulo_aparicion": "Yes Dude Yes (S04E25)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Viva"
+        "tipo_personaje": "Secundario",
+        "estado": "Viva",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT012",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Starla (Starla)",
         "nombre_ingles": "Starla",
         "nombre_latino": "Starla",
@@ -149,7 +150,9 @@
         "profesion": "Guardabosques del parque, esposa de Musculoso",
         "capitulo_aparicion": "Muscle Woman (S02E14)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
-        "estado": "Viva"
+        "tipo_personaje": "Secundario",
+        "estado": "Viva",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT013",
@@ -161,6 +164,7 @@
         "profesion": "Dueño original del parque",
         "capitulo_aparicion": "Dizzy (S02E05)",
         "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
         "estado": "Muerto"
     },
     {
