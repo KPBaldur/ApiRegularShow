@@ -19,6 +19,7 @@ def obtener_personajes(
     nombre: Optional[str] = None,
     raza: Optional[str] = None,
     estado: Optional[str] = None,
+    tipo_personaje: Optional[str] = None,
     profesion: Optional[str] = None
 ):
     data = data_manager.get_data("personajes")
@@ -36,7 +37,7 @@ def obtener_personajes(
 
 
 @router.get("/aleatorio/6", response_model=List[Personaje])
-def obtener_5_personajes_aleatorios():
+def obtener_6_personajes_aleatorios():
     data = data_manager.get_data("personajes")
     return random.sample(data, min(6, len(data)))
 

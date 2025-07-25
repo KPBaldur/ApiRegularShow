@@ -6,12 +6,13 @@ class Personaje(BaseModel):
     nombre: str = Field(..., description="Nombre completo del personaje", example="Mordecai (Mordecai)")
     nombre_ingles: str = Field(..., description="Nombre en inglés", example="Mordecai")
     nombre_latino: str = Field(..., description="Nombre en español latino", example="Mordecai")
-    imagen_url: str = Field(..., description="URL de la imagen del personaje", example="https://i.imgur.com/abcd123.png")
     raza: str = Field(..., description="Raza o especie del personaje", example="Arrendajo azul")
     profesion: str = Field(..., description="Profesión u ocupación", example="Guardabosques del parque, artista")
     capitulo_aparicion: str = Field(..., description="Primer capítulo de aparición", example="The Power (S01E01)")
     comic_aparicion: str = Field(..., description="Primer cómic de aparición o información relevante", example="Aparece en todos los cómics de Regular Show")
+    tipo_personaje: str = Field(..., description="Relevancia del personaje", example="Principal")
     estado: str = Field(..., description="Estado actual del personaje", example="Vivo")
+    imagen_url: str = Field(..., description="URL de la imagen del personaje", example="https://i.imgur.com/abcd123.png")
 
 class Capitulo(BaseModel):
     id: str = Field(..., description="ID único del capítulo", example="CAP001TEMP01")

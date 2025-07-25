@@ -8,6 +8,7 @@
         "profesion": "Guardabosques del parque, artista",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
+        "tipo_personaje": "Principal",
         "estado": "Vivo",
         "imagen_url": "https://i.imgur.com/HjNfOFG.png"
     },
@@ -20,6 +21,7 @@
         "profesion": "Guardabosques del parque",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
+        "tipo_personaje": "Principal",
         "estado": "Vivo",
         "imagen_url": "https://i.imgur.com/QbOaeZ5.jpeg"
     },
@@ -32,6 +34,7 @@
         "profesion": "Gerente del parque",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
+        "tipo_personaje": "Principal",
         "estado": "Vivo",
         "imagen_url": "https://i.imgur.com/jI3Cy7O.png"
     },
@@ -44,12 +47,12 @@
         "profesion": "Mecánico y guardabosques del parque",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
+        "tipo_personaje": "Principal",
         "estado": "Vivo",
         "imagen_url": "https://i.imgur.com/5pwTHgo.png"
     },
     {
         "id": "CHARCT005",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Pops (Papaleta)",
         "nombre_ingles": "Pops",
         "nombre_latino": "Papaleta",
@@ -57,11 +60,12 @@
         "profesion": "Dueño del parque",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
-        "estado": "Muerto"
+        "tipo_personaje": "Principal",
+        "estado": "Muerto",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT006",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Muscle Man (Musculoso)",
         "nombre_ingles": "Muscle Man",
         "nombre_latino": "Musculoso",
@@ -69,11 +73,12 @@
         "profesion": "Guardabosques del parque",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
-        "estado": "Vivo"
+        "tipo_personaje": "Principal",
+        "estado": "Vivo",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT007",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "High Five Ghost (Fantasmín)",
         "nombre_ingles": "High Five Ghost",
         "nombre_latino": "Fantasmín",
@@ -81,11 +86,12 @@
         "profesion": "Guardabosques del parque",
         "capitulo_aparicion": "Just Set Up the Chairs (S01E02)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
-        "estado": "Vivo"
+        "tipo_personaje": "Principal",
+        "estado": "Vivo",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT008",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Eileen (Eileen)",
         "nombre_ingles": "Eileen",
         "nombre_latino": "Eileen",
@@ -93,7 +99,9 @@
         "profesion": "Camarera, luego guardabosques del parque",
         "capitulo_aparicion": "Brain Eraser (S02E10)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
-        "estado": "Viva"
+        "tipo_personaje": "Secundario",
+        "estado": "Viva",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT009",
@@ -230,21 +238,9 @@
     {
         "id": "CHARCT020",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
-        "nombre": "Cloudy Jay (Jay Nube)",
-        "nombre_ingles": "Cloudy Jay",
-        "nombre_latino": "Jay Nube",
-        "raza": "Nube",
-        "profesion": "Amigo de CJ",
-        "capitulo_aparicion": "New Bro on Campus (S06E02)",
-        "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
-    },
-    {
-        "id": "CHARCT021",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Peeps (Peeps)",
         "nombre_ingles": "Peeps",
-        "nombre_latino": "Peeps",
+        "nombre_latino": "Fisgon",
         "raza": "Ojo gigante",
         "profesion": "Vigilante",
         "capitulo_aparicion": "Peeps (S02E04)",
@@ -252,7 +248,7 @@
         "estado": "Destruido"
     },
     {
-        "id": "CHARCT022",
+        "id": "CHARCT021",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Alfred (Mayordomo de Papaleta)",
         "nombre_ingles": "Alfred",
@@ -264,7 +260,7 @@
         "estado": "Vivo"
     },
     {
-        "id": "CHARCT023",
+        "id": "CHARCT022",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Susan (Susan)",
         "nombre_ingles": "Susan",
@@ -276,7 +272,7 @@
         "estado": "Viva"
     },
     {
-        "id": "CHARCT024",
+        "id": "CHARCT023",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Chance Sureshot (Chance Sureshot)",
         "nombre_ingles": "Chance Sureshot",
@@ -288,7 +284,7 @@
         "estado": "Vivo"
     },
     {
-        "id": "CHARCT025",
+        "id": "CHARCT024",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Gene (Gene)",
         "nombre_ingles": "Gene",
@@ -300,7 +296,7 @@
         "estado": "Vivo"
     },
     {
-        "id": "CHARCT026",
+        "id": "CHARCT025",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Celestia (Celestia)",
         "nombre_ingles": "Celestia",
@@ -312,7 +308,7 @@
         "estado": "Desconocido"
     },
     {
-        "id": "CHARCT027",
+        "id": "CHARCT026",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Recap Robot (Robot Recapitulador)",
         "nombre_ingles": "Recap Robot",
@@ -324,7 +320,7 @@
         "estado": "Vivo"
     },
     {
-        "id": "CHARCT028",
+        "id": "CHARCT027",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Party Horse (Caballo Fiestero)",
         "nombre_ingles": "Party Horse",
@@ -336,7 +332,7 @@
         "estado": "Vivo"
     },
     {
-        "id": "CHARCT029",
+        "id": "CHARCT028",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "CJ's Dad (Papá de CJ)",
         "nombre_ingles": "CJ's Dad",
@@ -348,7 +344,7 @@
         "estado": "Vivo"
     },
     {
-        "id": "CHARCT030",
+        "id": "CHARCT029",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Quips (Chistes)",
         "nombre_ingles": "Quips",
@@ -360,7 +356,7 @@
         "estado": "Vivo"
     },
     {
-        "id": "CHARCT031",
+        "id": "CHARCT030",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Dr. Henry (Dr. Henry)",
         "nombre_ingles": "Dr. Henry",
@@ -372,7 +368,7 @@
         "estado": "Vivo"
     },
     {
-        "id": "CHARCT032",
+        "id": "CHARCT031",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Stef (Stef)",
         "nombre_ingles": "Stef",
@@ -384,7 +380,7 @@
         "estado": "Viva"
     },
     {
-        "id": "CHARCT033",
+        "id": "CHARCT032",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Pam (Pam)",
         "nombre_ingles": "Pam",
@@ -396,7 +392,7 @@
         "estado": "Viva"
     },
     {
-        "id": "CHARCT034",
+        "id": "CHARCT033",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Gary (Gary)",
         "nombre_ingles": "Gary",
@@ -408,7 +404,7 @@
         "estado": "Vivo"
     },
     {
-        "id": "CHARCT035",
+        "id": "CHARCT034",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Low Five Ghost (Fantasmón)",
         "nombre_ingles": "Low Five Ghost",
@@ -420,7 +416,7 @@
         "estado": "Vivo"
     },
     {
-        "id": "CHARCT036",
+        "id": "CHARCT035",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Mona (Mona)",
         "nombre_ingles": "Mona",
@@ -432,7 +428,7 @@
         "estado": "Desconocido"
     },
     {
-        "id": "CHARCT037",
+        "id": "CHARCT036",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Benson's Mom (Mamá de Benson)",
         "nombre_ingles": "Benson's Mom",
@@ -444,7 +440,7 @@
         "estado": "Viva"
     },
     {
-        "id": "CHARCT038",
+        "id": "CHARCT037",
         "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Benson's Dad (Papá de Benson)",
         "nombre_ingles": "Benson's Dad",
