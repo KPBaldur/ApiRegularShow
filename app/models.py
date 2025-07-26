@@ -11,7 +11,6 @@ class Personaje(BaseModel):
     capitulo_aparicion: str = Field(..., description="Primer capítulo de aparición", example="The Power (S01E01)")
     comic_aparicion: str = Field(..., description="Primer cómic de aparición o información relevante", example="Aparece en todos los cómics de Regular Show")
     tipo_personaje: str = Field(..., description="Relevancia del personaje", example="Principal")
-    estado: str = Field(..., description="Estado actual del personaje", example="Vivo")
     imagen_url: str = Field(..., description="URL de la imagen del personaje", example="https://i.imgur.com/abcd123.png")
 
 class Capitulo(BaseModel):

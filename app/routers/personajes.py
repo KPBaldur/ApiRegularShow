@@ -18,7 +18,6 @@ def obtener_personajes(
     limit: int = Query(10, ge=1),
     nombre: Optional[str] = None,
     raza: Optional[str] = None,
-    estado: Optional[str] = None,
     tipo_personaje: Optional[str] = None,
     profesion: Optional[str] = None
 ):
@@ -28,8 +27,8 @@ def obtener_personajes(
         data = [p for p in data if nombre.lower() in p["nombre"].lower()]
     if raza:
         data = [p for p in data if raza.lower() in p["raza"].lower()]
-    if estado:
-        data = [p for p in data if estado.lower() in p["estado"].lower()]
+    if tipo_personaje:
+        data = [p for p in data if tipo_personaje.lower() in p["tipo_personaje"].lower()]
     if profesion:
         data = [p for p in data if profesion.lower() in p["profesion"].lower()]
 

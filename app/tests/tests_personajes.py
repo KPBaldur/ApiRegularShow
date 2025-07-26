@@ -16,6 +16,12 @@ def test_obtener_personajes_filtros():
     data = response.json()
     assert all("Mordecai" in personaje["nombre"] for personaje in data)
 
+def test_obtener_personajes_filtro_tipo():
+    response = client.get("/personajes?tipo_personaje=Principal")
+    assert response.status_code == 200
+    data = response.json()
+    assert all("Principal" in personaje["tipo_personaje"] for personaje in data)
+
 
 def test_obtener_personajes_skip_limit():
     response = client.get("/personajes?skip=0&limit=5")

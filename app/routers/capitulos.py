@@ -39,7 +39,6 @@ def obtener_capitulo_por_id(id: str):
 
 @router.get("/top", response_model=List[Capitulo])
 def obtener_top_capitulos(limit: int = 10):
-    with open(DATA_PATH, "r", encoding="utf-8") as file:
-        data = json.load(file)
-    data.sort(key=lambda c: c.get("IMDb_score", 0), reverse=True)
+    data = data_manager.get_data("capitulos")
+    data.sort(key=lambda c: c.get("imdb_score", 0), reverse=True)
     return data[:limit]
