@@ -4,21 +4,25 @@ from app.routers import personajes, capitulos, temporadas, comics
 from app.errors import configure_error_handlers
 from app.config import settings
 
+
 app = FastAPI(
     title=settings.app_name,
-    description="API pública para obtener información de la serie Regular Show, incluyendo personajes, capítulos, temporadas y cómics.",
+    description="API pública para obtener información de la serie *Regular Show*.",
     version="1.0.0",
+    docs_url="/docs",
+    redoc_url="/redoc",
+    openapi_url="/openapi.json",
     contact={
         "name": "Kevin P.",
-        "url": "https://github.com/KPBaldur/ApiRegularShow",
-        "email": settings.admin_email
+        "url": "https://kpbaldur.github.io/RegularShowWiki/index.html",
+        "email": "kevin.pizarrosanz@gmail.com"
     },
     license_info={
         "name": "MIT License",
         "url": "https://opensource.org/licenses/MIT"
     },
     terms_of_service="https://github.com/KPBaldur/ApiRegularShow#terms"
-)
+)   
 
 # Routers
 app.include_router(personajes.router)
@@ -37,10 +41,12 @@ app.add_middleware(
 )
 
 @app.get("/")
-def root():
+def redirect_to_wiki():
     return {
-        "message": "Regular Show API is running. Visit /docs for documentation.",
-        "documentation": "/docs"
+        "message": "API pública para obtener información de la serie Regular Show. " \
+                   "Esta API permite consultar personajes, capitulos, comics y temporadas. " \
+                   "Está pensada para ser consumida por otros desarrolladores y por la web oficial del proyecto.",
+        "documentation": "Ir a la Wiki del Proyecto (https://kpbaldur.github.io/RegularShowWiki)"
     }
 
 # Global Errors
