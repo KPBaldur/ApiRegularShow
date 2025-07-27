@@ -9,7 +9,6 @@
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
         "tipo_personaje": "Principal",
-        "estado": "Vivo",
         "imagen_url": "https://i.imgur.com/HjNfOFG.png"
     },
     {
@@ -22,7 +21,6 @@
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
         "tipo_personaje": "Principal",
-        "estado": "Vivo",
         "imagen_url": "https://i.imgur.com/QbOaeZ5.jpeg"
     },
     {
@@ -35,7 +33,6 @@
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
         "tipo_personaje": "Principal",
-        "estado": "Vivo",
         "imagen_url": "https://i.imgur.com/jI3Cy7O.png"
     },
     {
@@ -48,7 +45,6 @@
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
         "tipo_personaje": "Principal",
-        "estado": "Vivo",
         "imagen_url": "https://i.imgur.com/5pwTHgo.png"
     },
     {
@@ -61,7 +57,6 @@
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
         "tipo_personaje": "Principal",
-        "estado": "Muerto",
         "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
@@ -74,7 +69,6 @@
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
         "tipo_personaje": "Principal",
-        "estado": "Vivo",
         "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
@@ -87,7 +81,6 @@
         "capitulo_aparicion": "Just Set Up the Chairs (S01E02)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
         "tipo_personaje": "Principal",
-        "estado": "Vivo",
         "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
@@ -100,7 +93,6 @@
         "capitulo_aparicion": "Brain Eraser (S02E10)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
         "tipo_personaje": "Secundario",
-        "estado": "Viva",
         "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
@@ -113,7 +105,6 @@
         "capitulo_aparicion": "Caffeinated Concert Tickets (S01E03)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
         "tipo_personaje": "Secundario",
-        "estado": "Viva",
         "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
@@ -125,7 +116,7 @@
         "profesion": "Espía ruso, guardabosques del parque",
         "capitulo_aparicion": "Exit 9B (S04E01)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo",
+        "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
@@ -138,7 +129,6 @@
         "capitulo_aparicion": "Yes Dude Yes (S04E25)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
-        "estado": "Viva",
         "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
@@ -151,12 +141,10 @@
         "capitulo_aparicion": "Muscle Woman (S02E14)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
         "tipo_personaje": "Secundario",
-        "estado": "Viva",
         "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT013",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Mr. Maellard (Papá de Papaleta)",
         "nombre_ingles": "Mr. Maellard",
         "nombre_latino": "Papá de Papaleta",
@@ -165,11 +153,10 @@
         "capitulo_aparicion": "Dizzy (S02E05)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
-        "estado": "Muerto"
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT014",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Muscle Dad (Papá de Musculoso)",
         "nombre_ingles": "Muscle Dad",
         "nombre_latino": "Papá de Musculoso",
@@ -177,11 +164,11 @@
         "profesion": "Padre de Musculoso",
         "capitulo_aparicion": "Muscle Mentor (S03E22)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Muerto"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT015",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Anti-Pops (Anti-Papaleta)",
         "nombre_ingles": "Anti-Pops",
         "nombre_latino": "Anti-Papaleta",
@@ -189,11 +176,11 @@
         "profesion": "Destructor del universo",
         "capitulo_aparicion": "The Ice Tape (S08E18)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Muerto"
+        "tipo_personaje": "Antagonista",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT016",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Garrett Bobby Ferguson (Garrett Bobby Ferguson)",
         "nombre_ingles": "Garrett Bobby Ferguson",
         "nombre_latino": "Garrett Bobby Ferguson",
@@ -201,11 +188,11 @@
         "profesion": "Campeón de videojuegos",
         "capitulo_aparicion": "High Score (S02E07)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Muerto"
+        "tipo_personaje": "Antagonista",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT017",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Death (La Muerte)",
         "nombre_ingles": "Death",
         "nombre_latino": "La Muerte",
@@ -213,11 +200,11 @@
         "profesion": "Señor de la muerte",
         "capitulo_aparicion": "Over the Top (S02E03)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
-        "estado": "Desconocido"
+        "tipo_personaje": "Antagonista",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT018",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Techmo (Tecmo)",
         "nombre_ingles": "Techmo",
         "nombre_latino": "Tecmo",
@@ -225,11 +212,11 @@
         "profesion": "Mago tecnológico",
         "capitulo_aparicion": "Skips vs. Technology (S03E07)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT019",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Don (Don)",
         "nombre_ingles": "Don",
         "nombre_latino": "Don",
@@ -237,11 +224,11 @@
         "profesion": "Contador",
         "capitulo_aparicion": "Don (S01E10)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT020",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Peeps (Peeps)",
         "nombre_ingles": "Peeps",
         "nombre_latino": "Fisgon",
@@ -249,23 +236,11 @@
         "profesion": "Vigilante",
         "capitulo_aparicion": "Peeps (S02E04)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Destruido"
+        "tipo_personaje": "Antagonista",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT021",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
-        "nombre": "Alfred (Mayordomo de Papaleta)",
-        "nombre_ingles": "Alfred",
-        "nombre_latino": "Mayordomo de Papaleta",
-        "raza": "Humano",
-        "profesion": "Mayordomo",
-        "capitulo_aparicion": "Dizzy (S02E05)",
-        "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
-    },
-    {
-        "id": "CHARCT022",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Susan (Susan)",
         "nombre_ingles": "Susan",
         "nombre_latino": "Susan",
@@ -273,11 +248,11 @@
         "profesion": "Novia de Don",
         "capitulo_aparicion": "Don (S01E10)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Viva"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
-        "id": "CHARCT023",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
+        "id": "CHARCT022",
         "nombre": "Chance Sureshot (Chance Sureshot)",
         "nombre_ingles": "Chance Sureshot",
         "nombre_latino": "Chance Sureshot",
@@ -285,11 +260,11 @@
         "profesion": "Cazador de recompensas",
         "capitulo_aparicion": "Exit 9B (S04E01)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
-        "id": "CHARCT024",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
+        "id": "CHARCT023",
         "nombre": "Gene (Gene)",
         "nombre_ingles": "Gene",
         "nombre_latino": "Gene",
@@ -297,23 +272,36 @@
         "profesion": "Gerente del parque rival",
         "capitulo_aparicion": "Benson Be Gone (S02E11)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
+        "tipo_personaje": "Antagonista",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT024",
+        "nombre": "Benson's Girlfriend (Novia de Benson)",
+        "nombre_ingles": "Benson's Girlfriend",
+        "nombre_latino": "Novia de Benson",
+        "raza": "Humana",
+        "profesion": "Novia de Benson",
+        "capitulo_aparicion": "Benson's Girlfriend (S02E12)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT025",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
-        "nombre": "Celestia (Celestia)",
-        "nombre_ingles": "Celestia",
-        "nombre_latino": "Celestia",
+        
+        "nombre": "Princess Mantis (Princesa Mantis)",
+        "nombre_ingles": "Princess Mantis",
+        "nombre_latino": "Princesa Mantis",
         "raza": "Entidad cósmica",
         "profesion": "Guardián del universo",
-        "capitulo_aparicion": "A Regular Epic Final Battle (S08E20)",
+        "capitulo_aparicion": "Lost and found (S08E05)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Desconocido"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT026",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Recap Robot (Robot Recapitulador)",
         "nombre_ingles": "Recap Robot",
         "nombre_latino": "Robot Recapitulador",
@@ -321,11 +309,11 @@
         "profesion": "Narrador",
         "capitulo_aparicion": "The Key to the Universe (S08E13)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT027",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Party Horse (Caballo Fiestero)",
         "nombre_ingles": "Party Horse",
         "nombre_latino": "Caballo Fiestero",
@@ -333,11 +321,12 @@
         "profesion": "Fiestero",
         "capitulo_aparicion": "Party Horse (S06E21)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+
     },
     {
         "id": "CHARCT028",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "CJ's Dad (Papá de CJ)",
         "nombre_ingles": "CJ's Dad",
         "nombre_latino": "Papá de CJ",
@@ -345,11 +334,11 @@
         "profesion": "Padre de CJ",
         "capitulo_aparicion": "Dumptown U.S.A. (S07E01)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT029",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Quips (Chistes)",
         "nombre_ingles": "Quips",
         "nombre_latino": "Chistes",
@@ -357,11 +346,11 @@
         "profesion": "Tío de Papaleta",
         "capitulo_aparicion": "Quips (S02E17)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT030",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Dr. Henry (Dr. Henry)",
         "nombre_ingles": "Dr. Henry",
         "nombre_latino": "Dr. Henry",
@@ -369,11 +358,11 @@
         "profesion": "Doctor",
         "capitulo_aparicion": "The End of Muscle Man (S06E05)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT031",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Stef (Stef)",
         "nombre_ingles": "Stef",
         "nombre_latino": "Stef",
@@ -381,11 +370,11 @@
         "profesion": "Amiga de Eileen",
         "capitulo_aparicion": "Eileen Flat Screen (S06E07)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Viva"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT032",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Pam (Pam)",
         "nombre_ingles": "Pam",
         "nombre_latino": "Pam",
@@ -393,11 +382,11 @@
         "profesion": "Novia de Benson",
         "capitulo_aparicion": "Pam I Am (S07E18)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Viva"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT033",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Gary (Gary)",
         "nombre_ingles": "Gary",
         "nombre_latino": "Gary",
@@ -405,11 +394,11 @@
         "profesion": "Asistente de la Muerte",
         "capitulo_aparicion": "It's Time (S02E02)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT034",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Low Five Ghost (Fantasmón)",
         "nombre_ingles": "Low Five Ghost",
         "nombre_latino": "Fantasmón",
@@ -417,11 +406,11 @@
         "profesion": "Hermano de Fantasmín",
         "capitulo_aparicion": "High Score (S02E07)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT035",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Mona (Mona)",
         "nombre_ingles": "Mona",
         "nombre_latino": "Mona",
@@ -429,11 +418,11 @@
         "profesion": "Novia de Pops",
         "capitulo_aparicion": "Diary (S06E16)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Desconocido"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT036",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Benson's Mom (Mamá de Benson)",
         "nombre_ingles": "Benson's Mom",
         "nombre_latino": "Mamá de Benson",
@@ -441,11 +430,11 @@
         "profesion": "Madre de Benson",
         "capitulo_aparicion": "The Thanksgiving Special (S05E16)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Viva"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
         "id": "CHARCT037",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png",
         "nombre": "Benson's Dad (Papá de Benson)",
         "nombre_ingles": "Benson's Dad",
         "nombre_latino": "Papá de Benson",
@@ -453,6 +442,283 @@
         "profesion": "Padre de Benson",
         "capitulo_aparicion": "The Thanksgiving Special (S05E16)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Vivo"
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT038",
+        "nombre": "Rigby's Mom (Mamá de Rigby)",
+        "nombre_ingles": "Rigby's Mom",
+        "nombre_latino": "Mamá de Rigby",
+        "raza": "Mapache",
+        "profesion": "Madre de Rigby",
+        "capitulo_aparicion": "Rigby's Body (S01E11)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT039",
+        "nombre": "Rigby's Dad (Papá de Rigby)",
+        "nombre_ingles": "Rigby's Dad",
+        "nombre_latino": "Papá de Rigby",
+        "raza": "Mapache",
+        "profesion": "Padre de Rigby",
+        "capitulo_aparicion": "Rigby's Body (S01E11)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT040",
+        "nombre": "Mordecai's Mom (Mamá de Mordecai)",
+        "nombre_ingles": "Mordecai's Mom",
+        "nombre_latino": "Mamá de Mordecai",
+        "raza": "Arrendajo azul",
+        "profesion": "Madre de Mordecai",
+        "capitulo_aparicion": "Mordecai and the Rigbys (S04E02)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT041",
+        "nombre": "Mordecai's Dad (Papá de Mordecai)",
+        "nombre_ingles": "Mordecai's Dad",
+        "nombre_latino": "Papá de Mordecai",
+        "raza": "Arrendajo azul",
+        "profesion": "Padre de Mordecai",
+        "capitulo_aparicion": "Mordecai and the Rigbys (S04E02)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT042",
+        "nombre": "The Hammer (El Martillo)",
+        "nombre_ingles": "The Hammer",
+        "nombre_latino": "El Martillo",
+        "raza": "Martillo antropomórfico",
+        "profesion": "Entrenador de boxeo",
+        "capitulo_aparicion": "The Hammer (S02E08)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT043",
+        "nombre": "The Baby Ducks (Los Patitos)",
+        "nombre_ingles": "The Baby Ducks",
+        "nombre_latino": "Los Patitos",
+        "raza": "Patos bebés",
+        "profesion": "Mascotas del parque",
+        "capitulo_aparicion": "The Power (S01E01)",
+        "comic_aparicion": "Aparece en los cómics de Regular Show",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT044",
+        "nombre": "The Guardian (El Guardián)",
+        "nombre_ingles": "The Guardian",
+        "nombre_latino": "El Guardián",
+        "raza": "Entidad cósmica",
+        "profesion": "Guardián de la juventud eterna",
+        "capitulo_aparicion": "Free Cake (S01E05)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT045",
+        "nombre": "The Guardian's Brother (El Hermano del Guardián)",
+        "nombre_ingles": "The Guardian's Brother",
+        "nombre_latino": "El Hermano del Guardián",
+        "raza": "Entidad cósmica",
+        "profesion": "Hermano del Guardián",
+        "capitulo_aparicion": "Free Cake (S01E05)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT046",
+        "nombre": "The Coffee Bean (El Grano de Café)",
+        "nombre_ingles": "The Coffee Bean",
+        "nombre_latino": "El Grano de Café",
+        "raza": "Grano de café gigante",
+        "profesion": "Vendedor de café",
+        "capitulo_aparicion": "Caffeinated Concert Tickets (S01E03)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT047",
+        "nombre": "The Unicorns (Los Unicornios)",
+        "nombre_ingles": "The Unicorns",
+        "nombre_latino": "Los Unicornios",
+        "raza": "Unicornios",
+        "profesion": "Pandilla problemática",
+        "capitulo_aparicion": "The Unicorns Have Got to Go (S01E08)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Antagonista",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT048",
+        "nombre": "The Prank Callers (Los Bromistas Telefónicos)",
+        "nombre_ingles": "The Prank Callers",
+        "nombre_latino": "Los Bromistas Telefónicos",
+        "raza": "Humanos",
+        "profesion": "Bromistas",
+        "capitulo_aparicion": "Prank Callers (S01E09)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT049",
+        "nombre": "The Hot Dogs (Las Salchichas)",
+        "nombre_ingles": "The Hot Dogs",
+        "nombre_latino": "Las Salchichas",
+        "raza": "Salchichas vivientes",
+        "profesion": "Salchichas rebeldes",
+        "capitulo_aparicion": "Meat Your Maker (S01E06)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Antagonista",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT050",
+        "nombre": "The Astronauts (Los Astronautas)",
+        "nombre_ingles": "The Astronauts",
+        "nombre_latino": "Los Astronautas",
+        "raza": "Humanos",
+        "profesion": "Astronautas",
+        "capitulo_aparicion": "Grilled Cheese Deluxe (S01E07)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT051",
+        "nombre": "The Video Game Monster (El Monstruo del Videojuego)",
+        "nombre_ingles": "The Video Game Monster",
+        "nombre_latino": "El Monstruo del Videojuego",
+        "raza": "Monstruo digital",
+        "profesion": "Villano de videojuego",
+        "capitulo_aparicion": "Just Set Up the Chairs (S01E02)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Antagonista",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT052",
+        "nombre": "The Keyboard (El Teclado)",
+        "nombre_ingles": "The Keyboard",
+        "nombre_latino": "El Teclado",
+        "raza": "Teclado mágico",
+        "profesion": "Objeto mágico",
+        "capitulo_aparicion": "The Power (S01E01)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT053",
+        "nombre": "The Death Kwon Do Master (El Maestro de Death Kwon Do)",
+        "nombre_ingles": "The Death Kwon Do Master",
+        "nombre_latino": "El Maestro de Death Kwon Do",
+        "raza": "Humano",
+        "profesion": "Maestro de artes marciales",
+        "capitulo_aparicion": "Death Punchies (S01E04)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT054",
+        "nombre": "The Auditor (El Auditor)",
+        "nombre_ingles": "The Auditor",
+        "nombre_latino": "El Auditor",
+        "raza": "Humano",
+        "profesion": "Auditor del parque",
+        "capitulo_aparicion": "Don (S01E10)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT055",
+        "nombre": "The Junk Food (La Comida Chatarra)",
+        "nombre_ingles": "The Junk Food",
+        "nombre_latino": "La Comida Chatarra",
+        "raza": "Comida antropomórfica",
+        "profesion": "Comida rebelde",
+        "capitulo_aparicion": "Rigby's Body (S01E11)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Antagonista",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT056",
+        "nombre": "The Giant Floating Baby Head (La Cabeza Gigante de Bebé)",
+        "nombre_ingles": "The Giant Floating Baby Head",
+        "nombre_latino": "La Cabeza Gigante de Bebé",
+        "raza": "Cabeza de bebé gigante",
+        "profesion": "Bebé espacial",
+        "capitulo_aparicion": "The Power (S01E01)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT057",
+        "nombre": "The Park Visitors (Los Visitantes del Parque)",
+        "nombre_ingles": "The Park Visitors",
+        "nombre_latino": "Los Visitantes del Parque",
+        "raza": "Humanos",
+        "profesion": "Visitantes",
+        "capitulo_aparicion": "The Power (S01E01)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT058",
+        "nombre": "The Park Animals (Los Animales del Parque)",
+        "nombre_ingles": "The Park Animals",
+        "nombre_latino": "Los Animales del Parque",
+        "raza": "Varios animales",
+        "profesion": "Animales del parque",
+        "capitulo_aparicion": "The Power (S01E01)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT059",
+        "nombre": "The Park Equipment (El Equipamiento del Parque)",
+        "nombre_ingles": "The Park Equipment",
+        "nombre_latino": "El Equipamiento del Parque",
+        "raza": "Equipamiento antropomórfico",
+        "profesion": "Equipamiento del parque",
+        "capitulo_aparicion": "The Power (S01E01)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+    },
+    {
+        "id": "CHARCT060",
+        "nombre": "The Park Trees (Los Árboles del Parque)",
+        "nombre_ingles": "The Park Trees",
+        "nombre_latino": "Los Árboles del Parque",
+        "raza": "Árboles antropomórficos",
+        "profesion": "Árboles del parque",
+        "capitulo_aparicion": "The Power (S01E01)",
+        "comic_aparicion": "No aparece en los cómics",
+        "tipo_personaje": "Secundario",
+        "imagen_url": "https://i.imgur.com/imagen-generica.png"
     }
 ]
