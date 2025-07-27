@@ -38,14 +38,6 @@ def obtener_personajes(
 
     return data[skip:skip + limit]
 
-@router.get("/{id}", response_model=Personaje)
-def obtener_personaje_por_id(id: str):
-    data = data_manager.get_data("personajes")
-    for personaje in data:
-        if personaje["id"] == id:
-            return personaje
-    raise HTTPException(status_code=404, detail="Personaje no encontrado")
-
 @router.get("/todos", response_model=List[Personaje])
 def obtener_todos_los_personajes():
     data = data_manager.get_data("personajes")
@@ -89,3 +81,11 @@ def obtener_personajes_por_tipo(tipo_personaje: str):
     if not resultado:
         raise HTTPException(status_code=404, detail="No se encontraron personajes de ese tipo")
     return resultado
+
+@router.get("/{id}", response_model=Personaje)
+def obtener_personaje_por_id(id: str):
+    data = data_manager.get_data("personajes")
+    for personaje in data:
+        if personaje["id"] == id:
+            return personaje
+    raise HTTPException(status_code=404, detail="Personaje no encontrado")
