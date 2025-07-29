@@ -277,11 +277,11 @@
     },
     {
         "id": "CHARCT024",
-        "nombre": "Benson's Girlfriend (Novia de Benson)",
-        "nombre_ingles": "Benson's Girlfriend",
-        "nombre_latino": "Novia de Benson",
+        "nombre": "Audrey",
+        "nombre_ingles": "Audrey",
+        "nombre_latino": "Audrey",
         "raza": "Humana",
-        "profesion": "Novia de Benson",
+        "profesion": "Desconocido",
         "capitulo_aparicion": "Benson's Girlfriend (S02E12)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
@@ -289,15 +289,14 @@
     },
     {
         "id": "CHARCT025",
-        
-        "nombre": "Princess Mantis (Princesa Mantis)",
-        "nombre_ingles": "Princess Mantis",
-        "nombre_latino": "Princesa Mantis",
-        "raza": "Entidad cósmica",
-        "profesion": "Guardián del universo",
-        "capitulo_aparicion": "Lost and found (S08E05)",
+        "nombre": "Huge Head",
+        "nombre_ingles": "Huge Head",
+        "nombre_latino": "Huge Head",
+        "raza": "Humano",
+        "profesion": "Luchador",
+        "capitulo_aparicion": "Tent Trouble (S05E36)",
         "comic_aparicion": "No aparece en los cómics",
-        "tipo_personaje": "Secundario",
+        "tipo_personaje": "Antagonista",
         "imagen_url": "https://i.imgur.com/imagen-generica.png"
     },
     {
