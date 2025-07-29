@@ -57,7 +57,7 @@
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
         "tipo_personaje": "Principal",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "https://i.imgur.com/zBDD7TC.png"
     },
     {
         "id": "CHARCT006",
@@ -69,7 +69,7 @@
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
         "tipo_personaje": "Principal",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "https://i.imgur.com/BSNzVZg.png"
     },
     {
         "id": "CHARCT007",
@@ -81,7 +81,7 @@
         "capitulo_aparicion": "Just Set Up the Chairs (S01E02)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
         "tipo_personaje": "Principal",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "https://i.imgur.com/qBpX6an.png"
     },
     {
         "id": "CHARCT008",
@@ -93,7 +93,7 @@
         "capitulo_aparicion": "Brain Eraser (S02E10)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
         "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "https://i.imgur.com/ouoDujt.png"
     },
     {
         "id": "CHARCT009",
@@ -105,7 +105,7 @@
         "capitulo_aparicion": "Caffeinated Concert Tickets (S01E03)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
         "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "https://i.imgur.com/cT08IAV.png"
     },
     {
         "id": "CHARCT010",
@@ -117,7 +117,7 @@
         "capitulo_aparicion": "Exit 9B (S04E01)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "https://i.imgur.com/XcF0Vcm.png"
     },
     {
         "id": "CHARCT011",
@@ -129,7 +129,7 @@
         "capitulo_aparicion": "Yes Dude Yes (S04E25)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "https://i.imgur.com/LQMONHi.png"
     },
     {
         "id": "CHARCT012",
@@ -141,7 +141,7 @@
         "capitulo_aparicion": "Muscle Woman (S02E14)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
         "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "https://i.imgur.com/RSW0sd0.png"
     },
     {
         "id": "CHARCT013",
@@ -161,7 +161,7 @@
         "nombre_ingles": "Muscle Dad",
         "nombre_latino": "Papá de Musculoso",
         "raza": "Humanoide verde",
-        "profesion": "Padre de Musculoso",
+        "profesion": "Conductor de carretilla",
         "capitulo_aparicion": "Muscle Mentor (S03E22)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
