@@ -574,7 +574,7 @@
         "capitulo_aparicion": "Prank Callers (S01E09)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "https://i.imgur.com/72In3Bl.png"
     },
     {
         "id": "CHARCT049",
@@ -586,7 +586,7 @@
         "capitulo_aparicion": "Meat Your Maker (S01E06)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Antagonista",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "https://i.imgur.com/1fgbOPG.png"
     },
     {
         "id": "CHARCT050",
@@ -598,34 +598,22 @@
         "capitulo_aparicion": "Grilled Cheese Deluxe (S01E07)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "https://i.imgur.com/zMlRbSh.png"
     },
     {
         "id": "CHARCT051",
-        "nombre": "The Video Game Monster (El Monstruo del Videojuego)",
-        "nombre_ingles": "The Video Game Monster",
-        "nombre_latino": "El Monstruo del Videojuego",
+        "nombre": "The Destroyer of Worlds (El Destructor de Mundos)",
+        "nombre_ingles": "The Destroyer of Worlds",
+        "nombre_latino": "El Destructor de Mundos",
         "raza": "Monstruo digital",
         "profesion": "Villano de videojuego",
         "capitulo_aparicion": "Just Set Up the Chairs (S01E02)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Antagonista",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "hhttps://i.imgur.com/NaA4FfF.png"
     },
     {
         "id": "CHARCT052",
-        "nombre": "The Keyboard (El Teclado)",
-        "nombre_ingles": "The Keyboard",
-        "nombre_latino": "El Teclado",
-        "raza": "Teclado mágico",
-        "profesion": "Objeto mágico",
-        "capitulo_aparicion": "The Power (S01E01)",
-        "comic_aparicion": "No aparece en los cómics",
-        "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
-    },
-    {
-        "id": "CHARCT053",
         "nombre": "The Death Kwon Do Master (El Maestro de Death Kwon Do)",
         "nombre_ingles": "The Death Kwon Do Master",
         "nombre_latino": "El Maestro de Death Kwon Do",
@@ -634,90 +622,6 @@
         "capitulo_aparicion": "Death Punchies (S01E04)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
-    },
-    {
-        "id": "CHARCT054",
-        "nombre": "The Auditor (El Auditor)",
-        "nombre_ingles": "The Auditor",
-        "nombre_latino": "El Auditor",
-        "raza": "Humano",
-        "profesion": "Auditor del parque",
-        "capitulo_aparicion": "Don (S01E10)",
-        "comic_aparicion": "No aparece en los cómics",
-        "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
-    },
-    {
-        "id": "CHARCT055",
-        "nombre": "The Junk Food (La Comida Chatarra)",
-        "nombre_ingles": "The Junk Food",
-        "nombre_latino": "La Comida Chatarra",
-        "raza": "Comida antropomórfica",
-        "profesion": "Comida rebelde",
-        "capitulo_aparicion": "Rigby's Body (S01E11)",
-        "comic_aparicion": "No aparece en los cómics",
-        "tipo_personaje": "Antagonista",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
-    },
-    {
-        "id": "CHARCT056",
-        "nombre": "The Giant Floating Baby Head (La Cabeza Gigante de Bebé)",
-        "nombre_ingles": "The Giant Floating Baby Head",
-        "nombre_latino": "La Cabeza Gigante de Bebé",
-        "raza": "Cabeza de bebé gigante",
-        "profesion": "Bebé espacial",
-        "capitulo_aparicion": "The Power (S01E01)",
-        "comic_aparicion": "No aparece en los cómics",
-        "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
-    },
-    {
-        "id": "CHARCT057",
-        "nombre": "The Park Visitors (Los Visitantes del Parque)",
-        "nombre_ingles": "The Park Visitors",
-        "nombre_latino": "Los Visitantes del Parque",
-        "raza": "Humanos",
-        "profesion": "Visitantes",
-        "capitulo_aparicion": "The Power (S01E01)",
-        "comic_aparicion": "No aparece en los cómics",
-        "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
-    },
-    {
-        "id": "CHARCT058",
-        "nombre": "The Park Animals (Los Animales del Parque)",
-        "nombre_ingles": "The Park Animals",
-        "nombre_latino": "Los Animales del Parque",
-        "raza": "Varios animales",
-        "profesion": "Animales del parque",
-        "capitulo_aparicion": "The Power (S01E01)",
-        "comic_aparicion": "No aparece en los cómics",
-        "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
-    },
-    {
-        "id": "CHARCT059",
-        "nombre": "The Park Equipment (El Equipamiento del Parque)",
-        "nombre_ingles": "The Park Equipment",
-        "nombre_latino": "El Equipamiento del Parque",
-        "raza": "Equipamiento antropomórfico",
-        "profesion": "Equipamiento del parque",
-        "capitulo_aparicion": "The Power (S01E01)",
-        "comic_aparicion": "No aparece en los cómics",
-        "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
-    },
-    {
-        "id": "CHARCT060",
-        "nombre": "The Park Trees (Los Árboles del Parque)",
-        "nombre_ingles": "The Park Trees",
-        "nombre_latino": "Los Árboles del Parque",
-        "raza": "Árboles antropomórficos",
-        "profesion": "Árboles del parque",
-        "capitulo_aparicion": "The Power (S01E01)",
-        "comic_aparicion": "No aparece en los cómics",
-        "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "https://i.imgur.com/OOQHMa3.png"
     }
 ]
