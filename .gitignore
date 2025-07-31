@@ -32,3 +32,4 @@ build/
 # Otros archivos innecesarios
 .DS_Store
 Thumbs.db
+app/routers/__pycache__/personajes.cpython-313.pyc
