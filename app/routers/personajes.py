@@ -45,6 +45,17 @@ def obtener_todos_los_personajes():
         raise HTTPException(status_code=404, detail="No hay personajes disponibles")
     return data
 
+@router.get("/principales", response_model=List[Personaje])
+def obtener_personajes_principales():
+    data = data_manager.get_data("personajes")
+    principales = [p for p in data if p.get("tipo_personaje", "").lower() == "principal"]
+    
+    if not principales:
+        raise HTTPException(status_code=404, detail="No se encontraron personajes principales")
+    
+    return principales
+
+
 @router.get("/aleatorio/6", response_model=List[Personaje])
 def obtener_6_personajes_aleatorios():
     data = data_manager.get_data("personajes")
