@@ -30,6 +30,7 @@ class Temporada(BaseModel):
     numero_capitulos: int = Field(..., description="Cantidad de capítulos en la temporada", example=12)
     anio_estreno: int = Field(..., description="Año de estreno", example=2010)
     resumen: str = Field(..., description="Resumen de la temporada", example="Mordecai y Rigby, dos amigos flojos...")
+    capitulos: Optional[List[str]] = Field(default_factory=list, description="ID's de capitulos de la temporada", example=["CAP001TEMP01", "CAP002TEMP01"])
 
 
 class Comic(BaseModel):

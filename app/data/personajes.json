@@ -297,7 +297,7 @@
         "capitulo_aparicion": "Tent Trouble (S05E36)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Antagonista",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "https://i.imgur.com/gDJ40xq.png"
     },
     {
         "id": "CHARCT026",
@@ -530,15 +530,15 @@
     },
     {
         "id": "CHARCT045",
-        "nombre": "The Guardian's Brother (El Hermano del Guardián)",
-        "nombre_ingles": "The Guardian's Brother",
-        "nombre_latino": "El Hermano del Guardián",
-        "raza": "Entidad cósmica",
-        "profesion": "Hermano del Guardián",
-        "capitulo_aparicion": "Free Cake (S01E05)",
+        "nombre": "The Death Kwon Do Master (El Maestro de Death Kwon Do)",
+        "nombre_ingles": "The Death Kwon Do Master",
+        "nombre_latino": "El Maestro de Death Kwon Do",
+        "raza": "Humano",
+        "profesion": "Maestro de artes marciales",
+        "capitulo_aparicion": "Death Punchies (S01E04)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/imagen-generica.png"
+        "imagen_url": "https://i.imgur.com/OOQHMa3.png"
     },
     {
         "id": "CHARCT046",
@@ -611,17 +611,5 @@
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Antagonista",
         "imagen_url": "https://i.imgur.com/NaA4FfF.png"
-    },
-    {
-        "id": "CHARCT052",
-        "nombre": "The Death Kwon Do Master (El Maestro de Death Kwon Do)",
-        "nombre_ingles": "The Death Kwon Do Master",
-        "nombre_latino": "El Maestro de Death Kwon Do",
-        "raza": "Humano",
-        "profesion": "Maestro de artes marciales",
-        "capitulo_aparicion": "Death Punchies (S01E04)",
-        "comic_aparicion": "No aparece en los cómics",
-        "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/OOQHMa3.png"
     }
 ]
