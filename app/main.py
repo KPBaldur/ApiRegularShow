@@ -3,6 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from app.routers import personajes, capitulos, temporadas, comics
 from app.errors import configure_error_handlers
 from app.config import settings
+from fastapi.responses import RedirectResponse
 
 
 app = FastAPI(
@@ -48,6 +49,14 @@ def redirect_to_wiki():
                    "Está pensada para ser consumida por otros desarrolladores y por la web oficial del proyecto.",
         "documentation": "Ir a la Wiki del Proyecto (https://kpbaldur.github.io/RegularShowWiki)"
     }
+
+@app.get("/docs", include_in_schema=False)
+async def redirect_docs():
+    return RedirectResponse("https://kpbaldur.github.io/RegularShowWiki", status_code=307)
+
+@app.get("/redoc", include_in_schema=False)
+async def redirect_redoc():
+    return RedirectResponse("https://kpbaldur.github.io/RegularShowWiki", status_code=307)
 
 # Global Errors
 configure_error_handlers(app)
