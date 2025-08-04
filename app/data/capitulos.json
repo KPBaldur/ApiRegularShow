@@ -16,7 +16,8 @@
     "titulo": "Just Set Up the Chairs",
     "imdb_score": 8.7,
     "fecha_estreno": "2010-09-13",
-    "sinopsis": "Mientras preparan una fiesta, Mordecai y Rigby liberan accidentalmente a un monstruo de un videojuego antiguo y deben detenerlo antes de que destruya el parque." 
+    "sinopsis": "Mientras preparan una fiesta, Mordecai y Rigby liberan accidentalmente a un monstruo de un videojuego antiguo y deben detenerlo antes de que destruya el parque.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP003TEMP01",
@@ -25,7 +26,8 @@
     "titulo": "Caffeinated Concert Tickets",
     "imdb_score": 8.4,
     "fecha_estreno": "2010-09-20",
-    "sinopsis": "Para conseguir entradas a un concierto, Mordecai y Rigby trabajan horas extra y hacen un trato con un grano de café gigante, lo que complica sus planes." 
+    "sinopsis": "Para conseguir entradas a un concierto, Mordecai y Rigby trabajan horas extra y hacen un trato con un grano de café gigante, lo que complica sus planes.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP004TEMP01",
@@ -34,7 +36,8 @@
     "titulo": "Death Punchies",
     "imdb_score": 8.9,
     "fecha_estreno": "2010-09-27",
-    "sinopsis": "Rigby aprende un arte marcial especial para vencer a Mordecai en un juego, pero las cosas se salen de control cuando ambos usan movimientos peligrosos." 
+    "sinopsis": "Rigby aprende un arte marcial especial para vencer a Mordecai en un juego, pero las cosas se salen de control cuando ambos usan movimientos peligrosos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP005TEMP01",
@@ -43,7 +46,8 @@
     "titulo": "Free Cake",
     "imdb_score": 8.4,
     "fecha_estreno": "2010-10-04",
-    "sinopsis": "Mordecai y Rigby intentan conseguir pastel gratis en el cumpleaños de Skips, pero interrumpen un ritual importante y deben salvarlo de los Guardianes de la Juventud Eterna." 
+    "sinopsis": "Mordecai y Rigby intentan conseguir pastel gratis en el cumpleaños de Skips, pero interrumpen un ritual importante y deben salvarlo de los Guardianes de la Juventud Eterna.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP006TEMP01",
@@ -52,7 +56,8 @@
     "titulo": "Meat Your Maker",
     "imdb_score": 8.2,
     "fecha_estreno": "2010-10-11",
-    "sinopsis": "Durante una barbacoa, Rigby y Mordecai quedan atrapados en un congelador y reciben ayuda de salchichas vivientes, que luego intentan comerse a todos." 
+    "sinopsis": "Durante una barbacoa, Rigby y Mordecai quedan atrapados en un congelador y reciben ayuda de salchichas vivientes, que luego intentan comerse a todos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP007TEMP01",
@@ -61,7 +66,8 @@
     "titulo": "Grilled Cheese Deluxe",
     "imdb_score": 8.7,
     "fecha_estreno": "2010-10-18",
-    "sinopsis": "Mordecai y Rigby fingen ser astronautas para cortar la fila en un restaurante, pero terminan involucrados en un problema con antimateria." 
+    "sinopsis": "Mordecai y Rigby fingen ser astronautas para cortar la fila en un restaurante, pero terminan involucrados en un problema con antimateria.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP008TEMP01",
@@ -70,7 +76,8 @@
     "titulo": "The Unicorns Have Got to Go",
     "imdb_score": 7.4,
     "fecha_estreno": "2010-10-25",
-    "sinopsis": "Mordecai compra una colonia para impresionar a Margaret, pero atrae a una pandilla de unicornios problemáticos que causan caos en el parque." 
+    "sinopsis": "Mordecai compra una colonia para impresionar a Margaret, pero atrae a una pandilla de unicornios problemáticos que causan caos en el parque.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP009TEMP01",
@@ -79,16 +86,18 @@
     "titulo": "Prank Callers",
     "imdb_score": 9.0,
     "fecha_estreno": "2010-11-01",
-    "sinopsis": "Mordecai y Rigby intentan hacer bromas telefónicas al Maestro de las Bromas, pero terminan atrapados en 1982 y deben regresar al presente." 
+    "sinopsis": "Mordecai y Rigby intentan hacer bromas telefónicas al Maestro de las Bromas, pero terminan atrapados en 1982 y deben regresar al presente.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
-  { 
+  {
     "id": "CAP010TEMP01",
     "temporada": 1,
     "numero": 10,
     "titulo": "Don",
     "fecha_estreno": "2010-11-08",
     "imdb_score": 8.7,
-    "sinopsis": "El parque enfrenta una auditoría y el hermano de Rigby, Don, llega para ayudar, causando celos y problemas entre los hermanos." 
+    "sinopsis": "El parque enfrenta una auditoría y el hermano de Rigby, Don, llega para ayudar, causando celos y problemas entre los hermanos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP011TEMP01",
@@ -97,7 +106,8 @@
     "titulo": "Rigby's Body",
     "imdb_score": 8.4,
     "fecha_estreno": "2010-11-15",
-    "sinopsis": "Después de comer demasiada comida chatarra, el cuerpo de Rigby lo abandona y Mordecai y Skips deben ayudarlo a recuperarlo antes del anochecer." 
+    "sinopsis": "Después de comer demasiada comida chatarra, el cuerpo de Rigby lo abandona y Mordecai y Skips deben ayudarlo a recuperarlo antes del anochecer.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP012TEMP01",
@@ -106,7 +116,8 @@
     "titulo": "Mordecai and the Rigbys",
     "imdb_score": 9.2,
     "fecha_estreno": "2010-11-22",
-    "sinopsis": "Mordecai y Rigby fingen tener una banda para impresionar a Margaret, pero deben aprender a tocar de verdad cuando sus futuros yoes aparecen para ayudarlos." 
+    "sinopsis": "Mordecai y Rigby fingen tener una banda para impresionar a Margaret, pero deben aprender a tocar de verdad cuando sus futuros yoes aparecen para ayudarlos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP001TEMP02",
@@ -115,7 +126,8 @@
     "titulo": "Ello Gov'nor",
     "imdb_score": 9.0,
     "fecha_estreno": "2010-11-29",
-    "sinopsis": "Rigby desarrolla un miedo irracional a un taxi británico después de ver una película de terror. Mordecai intenta ayudarlo a superar su temor." 
+    "sinopsis": "Rigby desarrolla un miedo irracional a un taxi británico después de ver una película de terror. Mordecai intenta ayudarlo a superar su temor.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP002TEMP02",
@@ -124,7 +136,8 @@
     "titulo": "It's Time",
     "imdb_score": 8.7,
     "fecha_estreno": "2011-01-03",
-    "sinopsis": "Mordecai y Rigby discuten por Margaret y terminan viajando en el tiempo tras destruir todos los relojes. Mordecai debe arreglar el pasado." 
+    "sinopsis": "Mordecai y Rigby discuten por Margaret y terminan viajando en el tiempo tras destruir todos los relojes. Mordecai debe arreglar el pasado.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP003TEMP02",
@@ -133,7 +146,8 @@
     "titulo": "Appreciation Day",
     "imdb_score": 8.4,
     "fecha_estreno": "2011-01-10",
-    "sinopsis": "Mordecai y Rigby intentan mejorar su reputación en el parque escribiendo historias falsas en el libro de registros, pero todo se vuelve realidad." 
+    "sinopsis": "Mordecai y Rigby intentan mejorar su reputación en el parque escribiendo historias falsas en el libro de registros, pero todo se vuelve realidad.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP004TEMP02",
@@ -142,7 +156,8 @@
     "titulo": "Peeps",
     "imdb_score": 8.7,
     "fecha_estreno": "2011-01-17",
-    "sinopsis": "Benson instala cámaras de vigilancia para vigilar a Mordecai y Rigby, pero terminan invocando a Peeps, un ojo gigante que los espía a todos." 
+    "sinopsis": "Benson instala cámaras de vigilancia para vigilar a Mordecai y Rigby, pero terminan invocando a Peeps, un ojo gigante que los espía a todos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP005TEMP02",
@@ -151,7 +166,8 @@
     "titulo": "Dizzy",
     "imdb_score": 8.3,
     "fecha_estreno": "2011-01-24",
-    "sinopsis": "Pops debe dar un discurso, pero sufre de miedo escénico. Mordecai y Rigby lo ayudan a enfrentarlo entrando en su mente." 
+    "sinopsis": "Pops debe dar un discurso, pero sufre de miedo escénico. Mordecai y Rigby lo ayudan a enfrentarlo entrando en su mente.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP006TEMP02",
@@ -160,7 +176,8 @@
     "titulo": "My Mom",
     "imdb_score": 8.0,
     "fecha_estreno": "2011-01-31",
-    "sinopsis": "Mordecai y Rigby deben soportar las bromas de Muscle Man y High-Five Ghost, pero todo se complica cuando los chistes se salen de control." 
+    "sinopsis": "Mordecai y Rigby deben soportar las bromas de Muscle Man y High-Five Ghost, pero todo se complica cuando los chistes se salen de control.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP007TEMP02",
@@ -169,7 +186,8 @@
     "titulo": "High Score",
     "imdb_score": 9.1,
     "fecha_estreno": "2011-02-07",
-    "sinopsis": "Mordecai y Rigby intentan vencer el récord de un videojuego, enfrentándose a Garrett Bobby Ferguson, el mejor jugador del universo." 
+    "sinopsis": "Mordecai y Rigby intentan vencer el récord de un videojuego, enfrentándose a Garrett Bobby Ferguson, el mejor jugador del universo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP008TEMP02",
@@ -178,7 +196,8 @@
     "titulo": "Rage Against the TV",
     "imdb_score": 9.3,
     "fecha_estreno": "2011-02-14",
-    "sinopsis": "Cuando su televisor se rompe antes de vencer a un jefe final, Mordecai y Rigby buscan desesperadamente una forma de terminar su videojuego." 
+    "sinopsis": "Cuando su televisor se rompe antes de vencer a un jefe final, Mordecai y Rigby buscan desesperadamente una forma de terminar su videojuego.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP009TEMP02",
@@ -187,7 +206,8 @@
     "titulo": "Party Pete",
     "imdb_score": 8.6,
     "fecha_estreno": "2011-02-21",
-    "sinopsis": "Mordecai y Rigby organizan una fiesta y contratan a Party Pete, pero la situación se descontrola cuando Pete bebe demasiada RadiCola." 
+    "sinopsis": "Mordecai y Rigby organizan una fiesta y contratan a Party Pete, pero la situación se descontrola cuando Pete bebe demasiada RadiCola.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP010TEMP02",
@@ -196,7 +216,8 @@
     "titulo": "Brain Eraser",
     "imdb_score": 8.9,
     "fecha_estreno": "2011-02-25",
-    "sinopsis": "Mordecai ve a Pops desnudo y hará todo lo posible por olvidar la imagen, incluso usando una extraña cinta de video." 
+    "sinopsis": "Mordecai ve a Pops desnudo y hará todo lo posible por olvidar la imagen, incluso usando una extraña cinta de video.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP011TEMP02",
@@ -205,7 +226,8 @@
     "titulo": "Benson Be Gone",
     "imdb_score": 8.5,
     "fecha_estreno": "2011-02-28",
-    "sinopsis": "Benson es degradado y reemplazado por una nueva gerente, pero descubre que ella es una amenaza para el parque y debe recuperar su puesto." 
+    "sinopsis": "Benson es degradado y reemplazado por una nueva gerente, pero descubre que ella es una amenaza para el parque y debe recuperar su puesto.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP012TEMP02",
@@ -214,7 +236,8 @@
     "titulo": "But I Have a Receipt",
     "imdb_score": 8.5,
     "fecha_estreno": "2011-03-07",
-    "sinopsis": "Mordecai y Rigby intentan devolver un juego de mesa defectuoso, pero el gerente los atrapa dentro del juego y deben escapar." 
+    "sinopsis": "Mordecai y Rigby intentan devolver un juego de mesa defectuoso, pero el gerente los atrapa dentro del juego y deben escapar.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP013TEMP02",
@@ -223,7 +246,8 @@
     "titulo": "This is My Jam",
     "imdb_score": 9.0,
     "fecha_estreno": "2011-03-28",
-    "sinopsis": "Rigby no puede sacar una canción pegajosa de su cabeza, y la melodía termina tomando vida propia y molestando a todos." 
+    "sinopsis": "Rigby no puede sacar una canción pegajosa de su cabeza, y la melodía termina tomando vida propia y molestando a todos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP014TEMP02",
@@ -232,7 +256,8 @@
     "titulo": "Muscle Woman",
     "imdb_score": 7.5,
     "fecha_estreno": "2011-04-04",
-    "sinopsis": "Muscle Man termina con su novia Starla y Mordecai y Rigby intentan reunirlos, pero Starla se enamora de Mordecai." 
+    "sinopsis": "Muscle Man termina con su novia Starla y Mordecai y Rigby intentan reunirlos, pero Starla se enamora de Mordecai.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP015TEMP02",
@@ -241,7 +266,8 @@
     "titulo": "Temp Check",
     "imdb_score": 8.6,
     "fecha_estreno": "2011-04-11",
-    "sinopsis": "Rigby contrata a un reemplazo para hacer su trabajo, pero el nuevo empleado planea suplantarlo y tomar su lugar en el parque." 
+    "sinopsis": "Rigby contrata a un reemplazo para hacer su trabajo, pero el nuevo empleado planea suplantarlo y tomar su lugar en el parque.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP016TEMP02",
@@ -250,7 +276,8 @@
     "titulo": "Jinx",
     "imdb_score": 8.9,
     "fecha_estreno": "2011-04-18",
-    "sinopsis": "Rigby es maldecido y no puede hablar sin recibir un golpe. Intenta romper la maldición, pero libera a un demonio de sí mismo." 
+    "sinopsis": "Rigby es maldecido y no puede hablar sin recibir un golpe. Intenta romper la maldición, pero libera a un demonio de sí mismo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP017TEMP02",
@@ -259,7 +286,8 @@
     "titulo": "See You There",
     "imdb_score": 7.8,
     "fecha_estreno": "2011-04-25",
-    "sinopsis": "Muscle Man no invita a Mordecai y Rigby a una fiesta. Ellos intentan colarse y terminan convertidos en fantasmas por accidente." 
+    "sinopsis": "Muscle Man no invita a Mordecai y Rigby a una fiesta. Ellos intentan colarse y terminan convertidos en fantasmas por accidente.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP018TEMP02",
@@ -268,7 +296,8 @@
     "titulo": "Do Me a Solid",
     "imdb_score": 8.5,
     "fecha_estreno": "2011-05-02",
-    "sinopsis": "Mordecai y Rigby se hacen favores mutuos, pero la situación se complica cuando un favor amenaza con destruir la casa." 
+    "sinopsis": "Mordecai y Rigby se hacen favores mutuos, pero la situación se complica cuando un favor amenaza con destruir la casa.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP019TEMP02",
@@ -277,7 +306,8 @@
     "titulo": "Grave Sights",
     "imdb_score": 9.3,
     "fecha_estreno": "2011-05-09",
-    "sinopsis": "Durante una noche de cine en el cementerio, Mordecai y Rigby accidentalmente despiertan a los zombis y deben salvar a todos." 
+    "sinopsis": "Durante una noche de cine en el cementerio, Mordecai y Rigby accidentalmente despiertan a los zombis y deben salvar a todos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP020TEMP02",
@@ -286,7 +316,8 @@
     "titulo": "Really Real Wrestling",
     "imdb_score": 8.5,
     "fecha_estreno": "2011-05-16",
-    "sinopsis": "Mordecai y Rigby quieren ir a un evento de lucha libre, pero deben cuidar a Pops, quien termina participando en el ring." 
+    "sinopsis": "Mordecai y Rigby quieren ir a un evento de lucha libre, pero deben cuidar a Pops, quien termina participando en el ring.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP021TEMP02",
@@ -295,7 +326,8 @@
     "titulo": "Over the Top",
     "imdb_score": 9.1,
     "fecha_estreno": "2011-05-23",
-    "sinopsis": "Skips pierde en un concurso de fuerza contra Rigby y debe enfrentarse a la Muerte para recuperar el alma de su amigo." 
+    "sinopsis": "Skips pierde en un concurso de fuerza contra Rigby y debe enfrentarse a la Muerte para recuperar el alma de su amigo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP022TEMP02",
@@ -304,7 +336,8 @@
     "titulo": "The Night Owl",
     "imdb_score": 9.0,
     "fecha_estreno": "2011-05-30",
-    "sinopsis": "Mordecai, Rigby, Muscle Man y High-Five Ghost compiten en un concurso de radio para ganar un auto, pero el presentador los engaña." 
+    "sinopsis": "Mordecai, Rigby, Muscle Man y High-Five Ghost compiten en un concurso de radio para ganar un auto, pero el presentador los engaña.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP023TEMP02",
@@ -313,7 +346,8 @@
     "titulo": "A Bunch of Baby Ducks",
     "imdb_score": 9.3,
     "fecha_estreno": "2011-06-06",
-    "sinopsis": "Mordecai y Rigby encuentran unos patitos en la fuente del parque y deben protegerlos de un coleccionista obsesionado." 
+    "sinopsis": "Mordecai y Rigby encuentran unos patitos en la fuente del parque y deben protegerlos de un coleccionista obsesionado.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP024TEMP02",
@@ -322,7 +356,8 @@
     "titulo": "More Smarter",
     "imdb_score": 8.9,
     "fecha_estreno": "2011-06-13",
-    "sinopsis": "Rigby toma una poción para volverse más inteligente que Mordecai, pero ambos terminan demasiado listos para el mundo real." 
+    "sinopsis": "Rigby toma una poción para volverse más inteligente que Mordecai, pero ambos terminan demasiado listos para el mundo real.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP025TEMP02",
@@ -331,7 +366,8 @@
     "titulo": "First Day",
     "imdb_score": 8.7,
     "fecha_estreno": "2011-07-11",
-    "sinopsis": "Mordecai y Rigby compiten por una silla en su primer día de trabajo, repitiendo la historia del episodio piloto." 
+    "sinopsis": "Mordecai y Rigby compiten por una silla en su primer día de trabajo, repitiendo la historia del episodio piloto.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP026TEMP02",
@@ -340,7 +376,8 @@
     "titulo": "Go Viral",
     "imdb_score": 8.9,
     "fecha_estreno": "2011-07-18",
-    "sinopsis": "Muscle Man reta a Mordecai y Rigby a crear el video viral más popular, desatando una competencia absurda." 
+    "sinopsis": "Muscle Man reta a Mordecai y Rigby a crear el video viral más popular, desatando una competencia absurda.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP027TEMP02",
@@ -349,7 +386,8 @@
     "titulo": "Skunked",
     "imdb_score": 8.7,
     "fecha_estreno": "2011-07-25",
-    "sinopsis": "Rigby es rociado por una mofeta y busca desesperadamente cómo quitarse el olor antes de una cita importante." 
+    "sinopsis": "Rigby es rociado por una mofeta y busca desesperadamente cómo quitarse el olor antes de una cita importante.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP028TEMP02",
@@ -358,7 +396,8 @@
     "titulo": "Karaoke Video",
     "imdb_score": 9.1,
     "fecha_estreno": "2011-08-01",
-    "sinopsis": "Mordecai y Rigby deben recuperar un video vergonzoso de karaoke antes de que sus amigos lo vean." 
+    "sinopsis": "Mordecai y Rigby deben recuperar un video vergonzoso de karaoke antes de que sus amigos lo vean.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP001TEMP03",
@@ -366,7 +405,8 @@
     "numero": 1,
     "titulo": "Stick Hockey",
     "fecha_estreno": "2011-09-19",
-    "sinopsis": "Benson tira la mesa de hockey de Mordecai y Rigby, pero luego se siente culpable y trata de recuperarla para ellos." 
+    "sinopsis": "Benson tira la mesa de hockey de Mordecai y Rigby, pero luego se siente culpable y trata de recuperarla para ellos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP002TEMP03",
@@ -374,7 +414,8 @@
     "numero": 2,
     "titulo": "Bet to Be Blonde",
     "fecha_estreno": "2011-09-26",
-    "sinopsis": "Rigby gana una apuesta y obliga a Mordecai a hacerse un permanente rubio, lo que causa situaciones graciosas en el parque." 
+    "sinopsis": "Rigby gana una apuesta y obliga a Mordecai a hacerse un permanente rubio, lo que causa situaciones graciosas en el parque.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP003TEMP03",
@@ -382,7 +423,8 @@
     "numero": 3,
     "titulo": "Skips Strikes",
     "fecha_estreno": "2011-10-03",
-    "sinopsis": "Skips demuestra ser un excelente jugador de bolos, pero debe enfrentarse al equipo de la Muerte para salvar a sus amigos." 
+    "sinopsis": "Skips demuestra ser un excelente jugador de bolos, pero debe enfrentarse al equipo de la Muerte para salvar a sus amigos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP004TEMP03",
@@ -390,7 +432,8 @@
     "numero": 4,
     "titulo": "Terror Tales of the Park",
     "fecha_estreno": "2011-10-10",
-    "sinopsis": "Los empleados del parque cuentan historias de terror durante la noche, cada una con un giro sobrenatural y divertido." 
+    "sinopsis": "Los empleados del parque cuentan historias de terror durante la noche, cada una con un giro sobrenatural y divertido.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP005TEMP03",
@@ -398,7 +441,8 @@
     "numero": 5,
     "titulo": "Camping Can Be Cool",
     "fecha_estreno": "2011-10-17",
-    "sinopsis": "Mordecai quiere impresionar a Margaret durante un campamento, pero las cosas no salen como esperaba." 
+    "sinopsis": "Mordecai quiere impresionar a Margaret durante un campamento, pero las cosas no salen como esperaba.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP006TEMP03",
@@ -406,7 +450,8 @@
     "numero": 6,
     "titulo": "Slam Dunk",
     "fecha_estreno": "2011-10-24",
-    "sinopsis": "Mordecai y Rigby retan a Muscle Man y High-Five Ghost a un partido de baloncesto para ganar tiempo en la computadora." 
+    "sinopsis": "Mordecai y Rigby retan a Muscle Man y High-Five Ghost a un partido de baloncesto para ganar tiempo en la computadora.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP007TEMP03",
@@ -414,7 +459,8 @@
     "numero": 7,
     "titulo": "Cool Bikes",
     "fecha_estreno": "2011-11-07",
-    "sinopsis": "Mordecai y Rigby intentan impresionar a Benson para recuperar el acceso al carrito del parque." 
+    "sinopsis": "Mordecai y Rigby intentan impresionar a Benson para recuperar el acceso al carrito del parque.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP008TEMP03",
@@ -422,7 +468,8 @@
     "numero": 8,
     "titulo": "House Rules",
     "fecha_estreno": "2011-11-14",
-    "sinopsis": "Cansados de las reglas de Benson, Mordecai y Rigby deciden vivir sin ellas, pero pronto se dan cuenta de las consecuencias." 
+    "sinopsis": "Cansados de las reglas de Benson, Mordecai y Rigby deciden vivir sin ellas, pero pronto se dan cuenta de las consecuencias.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP009TEMP03",
@@ -430,7 +477,8 @@
     "numero": 9,
     "titulo": "Rap It Up",
     "fecha_estreno": "2011-11-21",
-    "sinopsis": "Pops entra a una batalla de rap para demostrar que no es un perdedor, sorprendiendo a todos con su talento." 
+    "sinopsis": "Pops entra a una batalla de rap para demostrar que no es un perdedor, sorprendiendo a todos con su talento.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP010TEMP03",
@@ -438,7 +486,8 @@
     "numero": 10,
     "titulo": "Cruisin'",
     "fecha_estreno": "2011-11-28",
-    "sinopsis": "Mordecai y Rigby apuestan con Margaret y Eileen que pueden conseguir el número de una chica durante una salida nocturna." 
+    "sinopsis": "Mordecai y Rigby apuestan con Margaret y Eileen que pueden conseguir el número de una chica durante una salida nocturna.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP011TEMP03",
@@ -446,7 +495,8 @@
     "numero": 11,
     "titulo": "Under the Hood",
     "fecha_estreno": "2011-12-12",
-    "sinopsis": "Mordecai y Rigby deben eliminar grafitis en el parque, enfrentándose a desafíos inesperados." 
+    "sinopsis": "Mordecai y Rigby deben eliminar grafitis en el parque, enfrentándose a desafíos inesperados.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP012TEMP03",
@@ -454,7 +504,8 @@
     "numero": 12,
     "titulo": "Weekend at Benson's",
     "fecha_estreno": "2012-01-16",
-    "sinopsis": "Mordecai y Rigby dejan inconsciente a Benson accidentalmente y tratan de ocultarlo para evitar problemas." 
+    "sinopsis": "Mordecai y Rigby dejan inconsciente a Benson accidentalmente y tratan de ocultarlo para evitar problemas.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP013TEMP03",
@@ -462,7 +513,8 @@
     "numero": 13,
     "titulo": "Fortune Cookie",
     "fecha_estreno": "2012-01-23",
-    "sinopsis": "Rigby intercambia galletas de la fortuna con Benson, lo que desencadena una serie de eventos extraños." 
+    "sinopsis": "Rigby intercambia galletas de la fortuna con Benson, lo que desencadena una serie de eventos extraños.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP014TEMP03",
@@ -470,7 +522,8 @@
     "numero": 14,
     "titulo": "Think Positive",
     "fecha_estreno": "2012-01-30",
-    "sinopsis": "Pops le pide a Benson que deje de gritarle a Mordecai y Rigby, lo que cambia la dinámica en el parque." 
+    "sinopsis": "Pops le pide a Benson que deje de gritarle a Mordecai y Rigby, lo que cambia la dinámica en el parque.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP015TEMP03",
@@ -478,7 +531,8 @@
     "numero": 15,
     "titulo": "Skips vs. Technology",
     "fecha_estreno": "2012-02-06",
-    "sinopsis": "Skips intenta ayudar a Mordecai y Rigby con problemas de computadora, enfrentándose a la tecnología moderna." 
+    "sinopsis": "Skips intenta ayudar a Mordecai y Rigby con problemas de computadora, enfrentándose a la tecnología moderna.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP016TEMP03",
@@ -486,7 +540,8 @@
     "numero": 16,
     "titulo": "Butt Dial",
     "fecha_estreno": "2012-02-13",
-    "sinopsis": "Mordecai envía accidentalmente un mensaje vergonzoso a Margaret y hará todo para recuperarlo antes de que lo escuche." 
+    "sinopsis": "Mordecai envía accidentalmente un mensaje vergonzoso a Margaret y hará todo para recuperarlo antes de que lo escuche.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP017TEMP03",
@@ -494,7 +549,8 @@
     "numero": 17,
     "titulo": "Eggscellent",
     "fecha_estreno": "2012-02-27",
-    "sinopsis": "Mordecai quiere ganar un sombrero para Rigby en un concurso de comer huevos, enfrentando un reto extremo." 
+    "sinopsis": "Mordecai quiere ganar un sombrero para Rigby en un concurso de comer huevos, enfrentando un reto extremo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP018TEMP03",
@@ -502,7 +558,8 @@
     "numero": 18,
     "titulo": "Gut Model",
     "fecha_estreno": "2012-03-05",
-    "sinopsis": "Muscle Man se convierte en modelo de abdomen, pero la fama trae problemas inesperados." 
+    "sinopsis": "Muscle Man se convierte en modelo de abdomen, pero la fama trae problemas inesperados.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP019TEMP03",
@@ -510,7 +567,8 @@
     "numero": 19,
     "titulo": "Video Game Wizards",
     "fecha_estreno": "2012-03-26",
-    "sinopsis": "Mordecai y Skips participan en un torneo de videojuegos, mientras Rigby se pone celoso." 
+    "sinopsis": "Mordecai y Skips participan en un torneo de videojuegos, mientras Rigby se pone celoso.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP020TEMP03",
@@ -518,7 +576,8 @@
     "numero": 20,
     "titulo": "Big Winner",
     "fecha_estreno": "2012-04-02",
-    "sinopsis": "Mordecai y Rigby le dan a Muscle Man un boleto de lotería falso, lo que desencadena una serie de enredos." 
+    "sinopsis": "Mordecai y Rigby le dan a Muscle Man un boleto de lotería falso, lo que desencadena una serie de enredos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP021TEMP03",
@@ -526,7 +585,8 @@
     "numero": 21,
     "titulo": "The Best Burger in the World",
     "fecha_estreno": "2012-04-09",
-    "sinopsis": "Mordecai y Rigby deben terminar sus tareas para poder probar la mejor hamburguesa del mundo." 
+    "sinopsis": "Mordecai y Rigby deben terminar sus tareas para poder probar la mejor hamburguesa del mundo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP022TEMP03",
@@ -534,7 +594,8 @@
     "numero": 22,
     "titulo": "Replaced",
     "fecha_estreno": "2012-04-16",
-    "sinopsis": "Mordecai y Rigby descubren que Benson planea reemplazarlos y buscan la forma de evitarlo." 
+    "sinopsis": "Mordecai y Rigby descubren que Benson planea reemplazarlos y buscan la forma de evitarlo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP023TEMP03",
@@ -542,7 +603,8 @@
     "numero": 23,
     "titulo": "Trash Boat",
     "fecha_estreno": "2012-04-23",
-    "sinopsis": "Rigby cambia su nombre a Trash Boat para ser más genial, pero las cosas no salen como esperaba." 
+    "sinopsis": "Rigby cambia su nombre a Trash Boat para ser más genial, pero las cosas no salen como esperaba.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP024TEMP03",
@@ -550,7 +612,8 @@
     "numero": 24,
     "titulo": "Fists of Justice",
     "fecha_estreno": "2012-04-30",
-    "sinopsis": "Mordecai y Rigby deben hacer todas las tareas de Skips por un día, enfrentando grandes desafíos." 
+    "sinopsis": "Mordecai y Rigby deben hacer todas las tareas de Skips por un día, enfrentando grandes desafíos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP025TEMP03",
@@ -558,7 +621,8 @@
     "numero": 25,
     "titulo": "Yes Dude Yes",
     "fecha_estreno": "2012-05-07",
-    "sinopsis": "Mordecai busca una nueva chica para olvidar a Margaret, pero la situación se complica." 
+    "sinopsis": "Mordecai busca una nueva chica para olvidar a Margaret, pero la situación se complica.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP026TEMP03",
@@ -566,7 +630,8 @@
     "numero": 26,
     "titulo": "Busted Cart",
     "fecha_estreno": "2012-05-14",
-    "sinopsis": "Mordecai y Rigby dañan el carrito del parque y deben acompañar a Benson en un viaje para repararlo." 
+    "sinopsis": "Mordecai y Rigby dañan el carrito del parque y deben acompañar a Benson en un viaje para repararlo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP027TEMP03",
@@ -574,7 +639,8 @@
     "numero": 27,
     "titulo": "Dead at Eight",
     "fecha_estreno": "2012-05-28",
-    "sinopsis": "Mordecai y Rigby deben cuidar al hijo de la Muerte, enfrentando situaciones paranormales." 
+    "sinopsis": "Mordecai y Rigby deben cuidar al hijo de la Muerte, enfrentando situaciones paranormales.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP028TEMP03",
@@ -582,7 +648,8 @@
     "numero": 28,
     "titulo": "Access Denied",
     "fecha_estreno": "2012-06-04",
-    "sinopsis": "Mordecai y Rigby quieren ir a la fiesta de cumpleaños de Margaret en un club exclusivo y harán lo imposible por entrar." 
+    "sinopsis": "Mordecai y Rigby quieren ir a la fiesta de cumpleaños de Margaret en un club exclusivo y harán lo imposible por entrar.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP029TEMP03",
@@ -590,7 +657,8 @@
     "numero": 29,
     "titulo": "Muscle Mentor",
     "fecha_estreno": "2012-06-11",
-    "sinopsis": "Rigby recibe mentoría de Muscle Man para mejorar en el trabajo, pero el entrenamiento es extremo." 
+    "sinopsis": "Rigby recibe mentoría de Muscle Man para mejorar en el trabajo, pero el entrenamiento es extremo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP030TEMP03",
@@ -598,7 +666,8 @@
     "numero": 30,
     "titulo": "Trucker Hall of Fame",
     "fecha_estreno": "2012-06-18",
-    "sinopsis": "Mordecai y Rigby ayudan a Muscle Man a llevar las cenizas de su padre al Salón de la Fama de los Camioneros." 
+    "sinopsis": "Mordecai y Rigby ayudan a Muscle Man a llevar las cenizas de su padre al Salón de la Fama de los Camioneros.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP031TEMP03",
@@ -606,7 +675,8 @@
     "numero": 31,
     "titulo": "Out of Commission",
     "fecha_estreno": "2012-06-25",
-    "sinopsis": "Mordecai y Rigby destruyen accidentalmente el carrito del parque y deben encontrar una manera de reemplazarlo antes de que Benson se entere." 
+    "sinopsis": "Mordecai y Rigby destruyen accidentalmente el carrito del parque y deben encontrar una manera de reemplazarlo antes de que Benson se entere.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP032TEMP03",
@@ -614,7 +684,8 @@
     "numero": 32,
     "titulo": "Fancy Restaurant",
     "fecha_estreno": "2012-07-16",
-    "sinopsis": "Mordecai y Margaret van a una cita en un restaurante elegante, pero Rigby y Eileen los siguen y causan problemas." 
+    "sinopsis": "Mordecai y Margaret van a una cita en un restaurante elegante, pero Rigby y Eileen los siguen y causan problemas.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP033TEMP03",
@@ -622,7 +693,8 @@
     "numero": 33,
     "titulo": "Diary",
     "fecha_estreno": "2012-07-23",
-    "sinopsis": "Rigby encuentra el diario de Mordecai y lo lee en secreto, lo que provoca un conflicto entre los amigos." 
+    "sinopsis": "Rigby encuentra el diario de Mordecai y lo lee en secreto, lo que provoca un conflicto entre los amigos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP034TEMP03",
@@ -630,7 +702,8 @@
     "numero": 34,
     "titulo": "The Best VHS in the World",
     "fecha_estreno": "2012-07-30",
-    "sinopsis": "Mordecai y Rigby buscan la mejor cinta VHS para impresionar a sus amigos, pero la competencia es feroz." 
+    "sinopsis": "Mordecai y Rigby buscan la mejor cinta VHS para impresionar a sus amigos, pero la competencia es feroz.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP035TEMP03",
@@ -638,7 +711,8 @@
     "numero": 35,
     "titulo": "Prankless",
     "fecha_estreno": "2012-08-06",
-    "sinopsis": "Mordecai y Rigby deciden dejar de hacer bromas, pero pronto descubren que la vida sin ellas es aburrida." 
+    "sinopsis": "Mordecai y Rigby deciden dejar de hacer bromas, pero pronto descubren que la vida sin ellas es aburrida.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP036TEMP03",
@@ -646,7 +720,8 @@
     "numero": 36,
     "titulo": "Death Bear",
     "fecha_estreno": "2012-08-13",
-    "sinopsis": "Mordecai y Rigby deben enfrentarse a un oso peligroso que fue traído accidentalmente al parque." 
+    "sinopsis": "Mordecai y Rigby deben enfrentarse a un oso peligroso que fue traído accidentalmente al parque.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP037TEMP03",
@@ -654,7 +729,8 @@
     "numero": 37,
     "titulo": "Fuzzy Dice",
     "fecha_estreno": "2012-08-20",
-    "sinopsis": "Mordecai y Rigby encuentran unos dados de peluche con poderes misteriosos que complican su día." 
+    "sinopsis": "Mordecai y Rigby encuentran unos dados de peluche con poderes misteriosos que complican su día.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP038TEMP03",
@@ -662,7 +738,8 @@
     "numero": 38,
     "titulo": "Sugar Rush",
     "fecha_estreno": "2012-08-27",
-    "sinopsis": "El parque se queda sin azúcar y Mordecai y Rigby deben conseguir más antes de que Benson se enoje." 
+    "sinopsis": "El parque se queda sin azúcar y Mordecai y Rigby deben conseguir más antes de que Benson se enoje.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP039TEMP03",
@@ -670,7 +747,8 @@
     "numero": 39,
     "titulo": "Bad Kiss",
     "fecha_estreno": "2012-09-03",
-    "sinopsis": "Mordecai arruina su primer beso con Margaret y viaja en el tiempo con Rigby para intentar arreglarlo." 
+    "sinopsis": "Mordecai arruina su primer beso con Margaret y viaja en el tiempo con Rigby para intentar arreglarlo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP001TEMP04",
@@ -678,7 +756,8 @@
     "numero": 1,
     "titulo": "Exit 9B",
     "fecha_estreno": "2012-10-01",
-    "sinopsis": "Un villano del pasado regresa para destruir el parque y los empleados deben unir fuerzas para salvarlo de la desaparición." 
+    "sinopsis": "Un villano del pasado regresa para destruir el parque y los empleados deben unir fuerzas para salvarlo de la desaparición.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP002TEMP04",
@@ -686,7 +765,8 @@
     "numero": 2,
     "titulo": "Starter Pack",
     "fecha_estreno": "2012-10-08",
-    "sinopsis": "Mordecai y Rigby compran un paquete de inicio para adultos, pero terminan atrapados en una rutina aburrida y monótona." 
+    "sinopsis": "Mordecai y Rigby compran un paquete de inicio para adultos, pero terminan atrapados en una rutina aburrida y monótona.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP003TEMP04",
@@ -694,7 +774,8 @@
     "numero": 3,
     "titulo": "Terror Tales of the Park II",
     "fecha_estreno": "2012-10-15",
-    "sinopsis": "Los empleados del parque cuentan nuevas historias de terror durante Halloween, cada una con un giro sobrenatural." 
+    "sinopsis": "Los empleados del parque cuentan nuevas historias de terror durante Halloween, cada una con un giro sobrenatural.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP004TEMP04",
@@ -702,7 +783,8 @@
     "numero": 4,
     "titulo": "Pie Contest",
     "fecha_estreno": "2012-10-22",
-    "sinopsis": "Mordecai y Rigby participan en un concurso de pasteles, pero la competencia se vuelve peligrosa y fuera de control." 
+    "sinopsis": "Mordecai y Rigby participan en un concurso de pasteles, pero la competencia se vuelve peligrosa y fuera de control.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP005TEMP04",
@@ -710,7 +792,8 @@
     "numero": 5,
     "titulo": "150 Piece Kit",
     "fecha_estreno": "2012-10-29",
-    "sinopsis": "Mordecai y Rigby compran un kit de herramientas, pero armarlo resulta ser una tarea mucho más difícil de lo esperado." 
+    "sinopsis": "Mordecai y Rigby compran un kit de herramientas, pero armarlo resulta ser una tarea mucho más difícil de lo esperado.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP006TEMP04",
@@ -718,7 +801,8 @@
     "numero": 6,
     "titulo": "Bald Spot",
     "fecha_estreno": "2012-11-05",
-    "sinopsis": "Muscle Man descubre que tiene una calva y hará todo lo posible para ocultarla antes de su boda." 
+    "sinopsis": "Muscle Man descubre que tiene una calva y hará todo lo posible para ocultarla antes de su boda.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP007TEMP04",
@@ -726,7 +810,8 @@
     "numero": 7,
     "titulo": "Guy's Night",
     "fecha_estreno": "2012-11-12",
-    "sinopsis": "Benson organiza una noche de chicos, pero la diversión se complica cuando deciden ir a un club exclusivo." 
+    "sinopsis": "Benson organiza una noche de chicos, pero la diversión se complica cuando deciden ir a un club exclusivo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP008TEMP04",
@@ -734,7 +819,8 @@
     "numero": 8,
     "titulo": "One Pull Up",
     "fecha_estreno": "2012-11-19",
-    "sinopsis": "Rigby intenta hacer una sola dominada para impresionar a los demás, pero se enfrenta a un reto inesperado." 
+    "sinopsis": "Rigby intenta hacer una sola dominada para impresionar a los demás, pero se enfrenta a un reto inesperado.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP009TEMP04",
@@ -742,7 +828,8 @@
     "numero": 9,
     "titulo": "The Christmas Special",
     "fecha_estreno": "2012-12-03",
-    "sinopsis": "El parque debe proteger un regalo especial de Navidad que podría salvar el mundo de una gran amenaza." 
+    "sinopsis": "El parque debe proteger un regalo especial de Navidad que podría salvar el mundo de una gran amenaza.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP010TEMP04",
@@ -750,7 +837,8 @@
     "numero": 10,
     "titulo": "T.G.I. Tuesday",
     "fecha_estreno": "2012-12-10",
-    "sinopsis": "Mordecai y Rigby intentan hacer que los martes sean más divertidos, pero sus planes se salen de control." 
+    "sinopsis": "Mordecai y Rigby intentan hacer que los martes sean más divertidos, pero sus planes se salen de control.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP011TEMP04",
@@ -758,7 +846,8 @@
     "numero": 11,
     "titulo": "Firework Run",
     "fecha_estreno": "2013-01-07",
-    "sinopsis": "El grupo debe conseguir fuegos artificiales para una fiesta, enfrentándose a una peligrosa banda rival." 
+    "sinopsis": "El grupo debe conseguir fuegos artificiales para una fiesta, enfrentándose a una peligrosa banda rival.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP012TEMP04",
@@ -766,7 +855,8 @@
     "numero": 12,
     "titulo": "The Longest Weekend",
     "fecha_estreno": "2013-01-14",
-    "sinopsis": "Muscle Man y Starla intentan pasar un fin de semana juntos, pero los amigos de Muscle Man complican sus planes." 
+    "sinopsis": "Muscle Man y Starla intentan pasar un fin de semana juntos, pero los amigos de Muscle Man complican sus planes.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP013TEMP04",
@@ -774,7 +864,8 @@
     "numero": 13,
     "titulo": "Sandwich of Death",
     "fecha_estreno": "2013-01-21",
-    "sinopsis": "Mordecai y Rigby deben conseguir un sándwich especial para salvar a Benson de un destino mortal." 
+    "sinopsis": "Mordecai y Rigby deben conseguir un sándwich especial para salvar a Benson de un destino mortal.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP014TEMP04",
@@ -782,7 +873,8 @@
     "numero": 14,
     "titulo": "Ace Balthazar Lives",
     "fecha_estreno": "2013-01-28",
-    "sinopsis": "Mordecai y Rigby intentan demostrar que una leyenda urbana sobre un rockero es real." 
+    "sinopsis": "Mordecai y Rigby intentan demostrar que una leyenda urbana sobre un rockero es real.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP015TEMP04",
@@ -790,7 +882,8 @@
     "numero": 15,
     "titulo": "Do or Diaper",
     "fecha_estreno": "2013-02-04",
-    "sinopsis": "Benson hace una apuesta con Mordecai y Rigby: si no terminan su trabajo, deberán usar pañales por un día." 
+    "sinopsis": "Benson hace una apuesta con Mordecai y Rigby: si no terminan su trabajo, deberán usar pañales por un día.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP016TEMP04",
@@ -798,7 +891,8 @@
     "numero": 16,
     "titulo": "Quips",
     "fecha_estreno": "2013-02-11",
-    "sinopsis": "El primo de Skips, Quips, visita el parque y causa problemas con sus bromas constantes." 
+    "sinopsis": "El primo de Skips, Quips, visita el parque y causa problemas con sus bromas constantes.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP017TEMP04",
@@ -806,7 +900,8 @@
     "numero": 17,
     "titulo": "Caveman",
     "fecha_estreno": "2013-02-18",
-    "sinopsis": "Mordecai y Rigby encuentran a un cavernícola congelado y tratan de adaptarlo a la vida moderna." 
+    "sinopsis": "Mordecai y Rigby encuentran a un cavernícola congelado y tratan de adaptarlo a la vida moderna.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP018TEMP04",
@@ -814,7 +909,8 @@
     "numero": 18,
     "titulo": "That's My Television",
     "fecha_estreno": "2013-02-25",
-    "sinopsis": "Mordecai y Rigby intentan recuperar un televisor antiguo que tiene un valor sentimental para Pops." 
+    "sinopsis": "Mordecai y Rigby intentan recuperar un televisor antiguo que tiene un valor sentimental para Pops.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP019TEMP04",
@@ -822,7 +918,8 @@
     "numero": 19,
     "titulo": "A Bunch of Full Grown Geese",
     "fecha_estreno": "2013-03-04",
-    "sinopsis": "El parque es invadido por gansos agresivos y los empleados deben encontrar la forma de expulsarlos." 
+    "sinopsis": "El parque es invadido por gansos agresivos y los empleados deben encontrar la forma de expulsarlos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP020TEMP04",
@@ -830,7 +927,8 @@
     "numero": 20,
     "titulo": "Fool Me Twice",
     "fecha_estreno": "2013-03-11",
-    "sinopsis": "Mordecai y Rigby planean una gran broma para el Día de los Inocentes, pero las cosas se complican." 
+    "sinopsis": "Mordecai y Rigby planean una gran broma para el Día de los Inocentes, pero las cosas se complican.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP021TEMP04",
@@ -838,7 +936,8 @@
     "numero": 21,
     "titulo": "Limousine Lunchtime",
     "fecha_estreno": "2013-03-18",
-    "sinopsis": "Mordecai y Rigby alquilan una limusina para almorzar, pero el paseo se convierte en una aventura peligrosa." 
+    "sinopsis": "Mordecai y Rigby alquilan una limusina para almorzar, pero el paseo se convierte en una aventura peligrosa.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP022TEMP04",
@@ -846,7 +945,8 @@
     "numero": 22,
     "titulo": "Picking Up Margaret",
     "fecha_estreno": "2013-03-25",
-    "sinopsis": "Mordecai y Rigby ayudan a Margaret a mudarse, pero el día se complica con una serie de obstáculos." 
+    "sinopsis": "Mordecai y Rigby ayudan a Margaret a mudarse, pero el día se complica con una serie de obstáculos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP023TEMP04",
@@ -854,7 +954,8 @@
     "numero": 23,
     "titulo": "K.I.L.I.T. Radio",
     "fecha_estreno": "2013-04-01",
-    "sinopsis": "El grupo intenta ganar un concurso de radio, pero deben enfrentarse a desafíos absurdos para lograrlo." 
+    "sinopsis": "El grupo intenta ganar un concurso de radio, pero deben enfrentarse a desafíos absurdos para lograrlo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP024TEMP04",
@@ -862,7 +963,8 @@
     "numero": 24,
     "titulo": "Carter and Briggs",
     "fecha_estreno": "2013-04-08",
-    "sinopsis": "Mordecai y Rigby se obsesionan con una serie de televisión y terminan involucrados en una aventura similar a la del show." 
+    "sinopsis": "Mordecai y Rigby se obsesionan con una serie de televisión y terminan involucrados en una aventura similar a la del show.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP025TEMP04",
@@ -870,7 +972,8 @@
     "numero": 25,
     "titulo": "Skips' Stress",
     "fecha_estreno": "2013-04-15",
-    "sinopsis": "Skips sufre de estrés y los demás intentan ayudarlo a relajarse, pero sus métodos no funcionan como esperaban." 
+    "sinopsis": "Skips sufre de estrés y los demás intentan ayudarlo a relajarse, pero sus métodos no funcionan como esperaban.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP026TEMP04",
@@ -878,7 +981,8 @@
     "numero": 26,
     "titulo": "Cool Cubed",
     "fecha_estreno": "2013-04-22",
-    "sinopsis": "Mordecai y Rigby intentan ser más geniales usando un cubo especial, pero terminan en problemas." 
+    "sinopsis": "Mordecai y Rigby intentan ser más geniales usando un cubo especial, pero terminan en problemas.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP027TEMP04",
@@ -886,7 +990,8 @@
     "numero": 27,
     "titulo": "Trailer Trashed",
     "fecha_estreno": "2013-04-29",
-    "sinopsis": "El grupo debe limpiar un tráiler abandonado, pero descubren que está embrujado." 
+    "sinopsis": "El grupo debe limpiar un tráiler abandonado, pero descubren que está embrujado.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP028TEMP04",
@@ -894,7 +999,8 @@
     "numero": 28,
     "titulo": "Meteor Moves",
     "fecha_estreno": "2013-05-06",
-    "sinopsis": "Mordecai busca el valor para invitar a Margaret a bailar durante una lluvia de meteoritos." 
+    "sinopsis": "Mordecai busca el valor para invitar a Margaret a bailar durante una lluvia de meteoritos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP029TEMP04",
@@ -902,7 +1008,8 @@
     "numero": 29,
     "titulo": "Family BBQ",
     "fecha_estreno": "2013-05-13",
-    "sinopsis": "Benson organiza una barbacoa familiar en el parque, pero la reunión se sale de control." 
+    "sinopsis": "Benson organiza una barbacoa familiar en el parque, pero la reunión se sale de control.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP030TEMP04",
@@ -910,7 +1017,8 @@
     "numero": 30,
     "titulo": "The Last Laserdisc Player",
     "fecha_estreno": "2013-05-20",
-    "sinopsis": "Mordecai y Rigby buscan el último reproductor de Laserdisc para ver una película rara." 
+    "sinopsis": "Mordecai y Rigby buscan el último reproductor de Laserdisc para ver una película rara.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP031TEMP04",
@@ -918,7 +1026,8 @@
     "numero": 31,
     "titulo": "Country Club",
     "fecha_estreno": "2013-06-03",
-    "sinopsis": "El grupo intenta entrar a un club campestre exclusivo, enfrentando desafíos absurdos para lograrlo." 
+    "sinopsis": "El grupo intenta entrar a un club campestre exclusivo, enfrentando desafíos absurdos para lograrlo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP032TEMP04",
@@ -926,7 +1035,8 @@
     "numero": 32,
     "titulo": "Blind Trust",
     "fecha_estreno": "2013-06-10",
-    "sinopsis": "Mordecai y Rigby deben confiar ciegamente el uno en el otro para completar una tarea importante." 
+    "sinopsis": "Mordecai y Rigby deben confiar ciegamente el uno en el otro para completar una tarea importante.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP033TEMP04",
@@ -934,7 +1044,8 @@
     "numero": 33,
     "titulo": "World's Best Boss",
     "fecha_estreno": "2013-06-17",
-    "sinopsis": "Benson compite por el título de mejor jefe del mundo, pero la competencia es más dura de lo que esperaba." 
+    "sinopsis": "Benson compite por el título de mejor jefe del mundo, pero la competencia es más dura de lo que esperaba.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP034TEMP04",
@@ -942,7 +1053,8 @@
     "numero": 34,
     "titulo": "Last Meal",
     "fecha_estreno": "2013-06-24",
-    "sinopsis": "Mordecai y Rigby creen que será su última comida antes de enfrentar un gran peligro en el parque." 
+    "sinopsis": "Mordecai y Rigby creen que será su última comida antes de enfrentar un gran peligro en el parque.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP035TEMP04",
@@ -950,7 +1062,8 @@
     "numero": 35,
     "titulo": "Sleep Fighter",
     "fecha_estreno": "2013-07-01",
-    "sinopsis": "El grupo compite en una batalla de lucha libre mientras duermen, sin recordar nada al despertar." 
+    "sinopsis": "El grupo compite en una batalla de lucha libre mientras duermen, sin recordar nada al despertar.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP036TEMP04",
@@ -958,7 +1071,8 @@
     "numero": 36,
     "titulo": "Party Re-Pete",
     "fecha_estreno": "2013-07-08",
-    "sinopsis": "Mordecai y Rigby intentan recrear la mejor fiesta de la historia, pero nada sale como antes." 
+    "sinopsis": "Mordecai y Rigby intentan recrear la mejor fiesta de la historia, pero nada sale como antes.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP037TEMP04",
@@ -966,7 +1080,8 @@
     "numero": 37,
     "titulo": "Steak Me Amadeus",
     "fecha_estreno": "2013-08-12",
-    "sinopsis": "Mordecai planea una cita especial con Margaret, pero una serie de obstáculos pone en riesgo su relación." 
+    "sinopsis": "Mordecai planea una cita especial con Margaret, pero una serie de obstáculos pone en riesgo su relación.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP001TEMP05",
@@ -974,7 +1089,8 @@
     "numero": 1,
     "titulo": "Laundry Woes",
     "fecha_estreno": "2013-09-02",
-    "sinopsis": "Mordecai y Rigby intentan lavar su ropa antes de que Margaret regrese, pero la lavadora se convierte en un problema mayor." 
+    "sinopsis": "Mordecai y Rigby intentan lavar su ropa antes de que Margaret regrese, pero la lavadora se convierte en un problema mayor.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP002TEMP05",
@@ -982,7 +1098,8 @@
     "numero": 2,
     "titulo": "Silver Dude",
     "fecha_estreno": "2013-09-02",
-    "sinopsis": "El grupo encuentra una estatua de plata que les concede deseos, pero pronto descubren que tiene un precio oculto." 
+    "sinopsis": "El grupo encuentra una estatua de plata que les concede deseos, pero pronto descubren que tiene un precio oculto.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP003TEMP05",
@@ -990,7 +1107,8 @@
     "numero": 3,
     "titulo": "Benson's Car",
     "fecha_estreno": "2013-09-09",
-    "sinopsis": "Mordecai y Rigby dañan el auto de Benson y deben repararlo antes de que él se entere." 
+    "sinopsis": "Mordecai y Rigby dañan el auto de Benson y deben repararlo antes de que él se entere.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP004TEMP05",
@@ -998,7 +1116,8 @@
     "numero": 4,
     "titulo": "Every Meat Burritos",
     "fecha_estreno": "2013-09-16",
-    "sinopsis": "Mordecai y Rigby buscan el legendario burrito con todas las carnes, enfrentando desafíos absurdos en el camino." 
+    "sinopsis": "Mordecai y Rigby buscan el legendario burrito con todas las carnes, enfrentando desafíos absurdos en el camino.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP005TEMP05",
@@ -1006,7 +1125,8 @@
     "numero": 5,
     "titulo": "Wall Buddy",
     "fecha_estreno": "2013-09-23",
-    "sinopsis": "El grupo instala un sistema de organización en la pared, pero la tecnología se vuelve en su contra." 
+    "sinopsis": "El grupo instala un sistema de organización en la pared, pero la tecnología se vuelve en su contra.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP006TEMP05",
@@ -1014,7 +1134,8 @@
     "numero": 6,
     "titulo": "A Skips in Time",
     "fecha_estreno": "2013-09-30",
-    "sinopsis": "Skips viaja en el tiempo para corregir un error del pasado, pero las cosas se complican aún más." 
+    "sinopsis": "Skips viaja en el tiempo para corregir un error del pasado, pero las cosas se complican aún más.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP007TEMP05",
@@ -1022,7 +1143,8 @@
     "numero": 7,
     "titulo": "Survival Skills",
     "fecha_estreno": "2013-10-07",
-    "sinopsis": "Benson lleva al grupo a un campamento de supervivencia, pero nadie está preparado para los retos que enfrentan." 
+    "sinopsis": "Benson lleva al grupo a un campamento de supervivencia, pero nadie está preparado para los retos que enfrentan.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP008TEMP05",
@@ -1030,7 +1152,8 @@
     "numero": 8,
     "titulo": "Terror Tales of the Park III",
     "fecha_estreno": "2013-10-14",
-    "sinopsis": "Los empleados del parque cuentan historias de terror en Halloween, cada una más extraña que la anterior." 
+    "sinopsis": "Los empleados del parque cuentan historias de terror en Halloween, cada una más extraña que la anterior.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP009TEMP05",
@@ -1038,7 +1161,8 @@
     "numero": 9,
     "titulo": "Tants",
     "fecha_estreno": "2013-10-21",
-    "sinopsis": "Mordecai y Rigby compran pantalones de moda, pero terminan en una competencia de baile inesperada." 
+    "sinopsis": "Mordecai y Rigby compran pantalones de moda, pero terminan en una competencia de baile inesperada.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP010TEMP05",
@@ -1046,7 +1170,8 @@
     "numero": 10,
     "titulo": "Bank Shot",
     "fecha_estreno": "2013-10-28",
-    "sinopsis": "Rigby se enfrenta a un jugador profesional de billar para salvar el parque de una gran deuda." 
+    "sinopsis": "Rigby se enfrenta a un jugador profesional de billar para salvar el parque de una gran deuda.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP011TEMP05",
@@ -1054,7 +1179,8 @@
     "numero": 11,
     "titulo": "Power Tower",
     "fecha_estreno": "2013-11-04",
-    "sinopsis": "El grupo compite por el control de una torre de poder, pero la competencia se vuelve peligrosa." 
+    "sinopsis": "El grupo compite por el control de una torre de poder, pero la competencia se vuelve peligrosa.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP012TEMP05",
@@ -1062,7 +1188,8 @@
     "numero": 12,
     "titulo": "The Thanksgiving Special",
     "fecha_estreno": "2013-11-25",
-    "sinopsis": "El parque celebra el Día de Acción de Gracias, pero una competencia culinaria pone en riesgo la festividad." 
+    "sinopsis": "El parque celebra el Día de Acción de Gracias, pero una competencia culinaria pone en riesgo la festividad.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP013TEMP05",
@@ -1070,7 +1197,8 @@
     "numero": 13,
     "titulo": "The Heart of a Stuntman",
     "fecha_estreno": "2013-12-02",
-    "sinopsis": "Muscle Man quiere convertirse en doble de acción y pone a prueba su valentía con un truco extremo." 
+    "sinopsis": "Muscle Man quiere convertirse en doble de acción y pone a prueba su valentía con un truco extremo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP014TEMP05",
@@ -1078,7 +1206,8 @@
     "numero": 14,
     "titulo": "New Year's Kiss",
     "fecha_estreno": "2013-12-31",
-    "sinopsis": "Mordecai espera besar a Margaret en Año Nuevo, pero una serie de obstáculos amenaza con arruinar el momento." 
+    "sinopsis": "Mordecai espera besar a Margaret en Año Nuevo, pero una serie de obstáculos amenaza con arruinar el momento.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP015TEMP05",
@@ -1086,7 +1215,8 @@
     "numero": 15,
     "titulo": "Dodge This",
     "fecha_estreno": "2014-01-13",
-    "sinopsis": "El grupo participa en un torneo de quemados, enfrentando a un equipo rival muy competitivo." 
+    "sinopsis": "El grupo participa en un torneo de quemados, enfrentando a un equipo rival muy competitivo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP016TEMP05",
@@ -1094,7 +1224,8 @@
     "numero": 16,
     "titulo": "Portable Toilet",
     "fecha_estreno": "2014-01-20",
-    "sinopsis": "Mordecai y Rigby compran un baño portátil, pero descubren que esconde un portal a otra dimensión." 
+    "sinopsis": "Mordecai y Rigby compran un baño portátil, pero descubren que esconde un portal a otra dimensión.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP017TEMP05",
@@ -1102,7 +1233,8 @@
     "numero": 17,
     "titulo": "The Postcard",
     "fecha_estreno": "2014-01-27",
-    "sinopsis": "Mordecai recibe una postal de Margaret y se embarca en una misión para encontrarla." 
+    "sinopsis": "Mordecai recibe una postal de Margaret y se embarca en una misión para encontrarla.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP018TEMP05",
@@ -1110,7 +1242,8 @@
     "numero": 18,
     "titulo": "Rigby in the Sky with Burrito",
     "fecha_estreno": "2014-02-10",
-    "sinopsis": "Rigby come un burrito gigante y tiene una experiencia surrealista en el cielo." 
+    "sinopsis": "Rigby come un burrito gigante y tiene una experiencia surrealista en el cielo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP019TEMP05",
@@ -1118,7 +1251,8 @@
     "numero": 19,
     "titulo": "Journey to the Bottom of the Crash Pit",
     "fecha_estreno": "2014-02-17",
-    "sinopsis": "El grupo explora un pozo misterioso en el parque y descubre secretos ocultos." 
+    "sinopsis": "El grupo explora un pozo misterioso en el parque y descubre secretos ocultos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP020TEMP05",
@@ -1126,7 +1260,8 @@
     "numero": 20,
     "titulo": "Saving Time",
     "fecha_estreno": "2014-02-24",
-    "sinopsis": "Mordecai y Rigby intentan ahorrar tiempo usando un reloj especial, pero las cosas se complican." 
+    "sinopsis": "Mordecai y Rigby intentan ahorrar tiempo usando un reloj especial, pero las cosas se complican.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP021TEMP05",
@@ -1134,7 +1269,8 @@
     "numero": 21,
     "titulo": "Guitar of Rock",
     "fecha_estreno": "2014-03-03",
-    "sinopsis": "Mordecai y Rigby encuentran una guitarra legendaria que les otorga poderes musicales extraordinarios." 
+    "sinopsis": "Mordecai y Rigby encuentran una guitarra legendaria que les otorga poderes musicales extraordinarios.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP022TEMP05",
@@ -1142,7 +1278,8 @@
     "numero": 22,
     "titulo": "Skips' Story",
     "fecha_estreno": "2014-03-10",
-    "sinopsis": "Skips revela su pasado y la razón de su inmortalidad en una emotiva historia." 
+    "sinopsis": "Skips revela su pasado y la razón de su inmortalidad en una emotiva historia.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP023TEMP05",
@@ -1150,7 +1287,8 @@
     "numero": 23,
     "titulo": "Return of Mordecai and the Rigbys",
     "fecha_estreno": "2014-03-17",
-    "sinopsis": "Mordecai y Rigby intentan revivir su antigua banda para un concurso musical en el parque." 
+    "sinopsis": "Mordecai y Rigby intentan revivir su antigua banda para un concurso musical en el parque.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP024TEMP05",
@@ -1158,7 +1296,8 @@
     "numero": 24,
     "titulo": "Bad Portrait",
     "fecha_estreno": "2014-03-24",
-    "sinopsis": "Mordecai y Rigby destruyen accidentalmente un retrato importante y deben reemplazarlo antes de que Benson lo note." 
+    "sinopsis": "Mordecai y Rigby destruyen accidentalmente un retrato importante y deben reemplazarlo antes de que Benson lo note.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP025TEMP05",
@@ -1166,7 +1305,8 @@
     "numero": 25,
     "titulo": "Video 101",
     "fecha_estreno": "2014-03-31",
-    "sinopsis": "El grupo toma una clase de video para mejorar sus habilidades, pero la tarea final se sale de control." 
+    "sinopsis": "El grupo toma una clase de video para mejorar sus habilidades, pero la tarea final se sale de control.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP026TEMP05",
@@ -1174,7 +1314,8 @@
     "numero": 26,
     "titulo": "I Like You Hi",
     "fecha_estreno": "2014-04-07",
-    "sinopsis": "Rigby se enamora de una chica nueva y hace todo lo posible para impresionarla." 
+    "sinopsis": "Rigby se enamora de una chica nueva y hace todo lo posible para impresionarla.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP027TEMP05",
@@ -1182,7 +1323,8 @@
     "numero": 27,
     "titulo": "Play Date",
     "fecha_estreno": "2014-04-14",
-    "sinopsis": "Mordecai y Rigby cuidan a la hija de un amigo, pero la tarea resulta ser más difícil de lo esperado." 
+    "sinopsis": "Mordecai y Rigby cuidan a la hija de un amigo, pero la tarea resulta ser más difícil de lo esperado.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP028TEMP05",
@@ -1190,7 +1332,8 @@
     "numero": 28,
     "titulo": "Expert or Liar",
     "fecha_estreno": "2014-04-21",
-    "sinopsis": "El grupo participa en un concurso de conocimientos, pero deben demostrar si son expertos o mentirosos." 
+    "sinopsis": "El grupo participa en un concurso de conocimientos, pero deben demostrar si son expertos o mentirosos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP029TEMP05",
@@ -1198,7 +1341,8 @@
     "numero": 29,
     "titulo": "Catching the Wave",
     "fecha_estreno": "2014-04-28",
-    "sinopsis": "Mordecai y Rigby intentan aprender a surfear para impresionar a sus amigos en la playa." 
+    "sinopsis": "Mordecai y Rigby intentan aprender a surfear para impresionar a sus amigos en la playa.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP030TEMP05",
@@ -1206,7 +1350,8 @@
     "numero": 30,
     "titulo": "Gold Watch",
     "fecha_estreno": "2014-05-05",
-    "sinopsis": "Benson pierde su reloj de oro y el grupo lo ayuda a buscarlo por todo el parque." 
+    "sinopsis": "Benson pierde su reloj de oro y el grupo lo ayuda a buscarlo por todo el parque.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP031TEMP05",
@@ -1214,7 +1359,8 @@
     "numero": 31,
     "titulo": "Paint Job",
     "fecha_estreno": "2014-05-12",
-    "sinopsis": "Mordecai y Rigby deben pintar una casa, pero el trabajo se convierte en una competencia caótica." 
+    "sinopsis": "Mordecai y Rigby deben pintar una casa, pero el trabajo se convierte en una competencia caótica.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP032TEMP05",
@@ -1222,7 +1368,8 @@
     "numero": 32,
     "titulo": "Take the Cake",
     "fecha_estreno": "2014-05-19",
-    "sinopsis": "El grupo compite por el último pedazo de pastel en una fiesta, desatando una guerra de postres." 
+    "sinopsis": "El grupo compite por el último pedazo de pastel en una fiesta, desatando una guerra de postres.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP033TEMP05",
@@ -1230,7 +1377,8 @@
     "numero": 33,
     "titulo": "Skips in the Saddle",
     "fecha_estreno": "2014-06-02",
-    "sinopsis": "Skips debe montar un toro mecánico para salvar el parque de una apuesta peligrosa." 
+    "sinopsis": "Skips debe montar un toro mecánico para salvar el parque de una apuesta peligrosa.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP034TEMP05",
@@ -1238,7 +1386,8 @@
     "numero": 34,
     "titulo": "Thomas Fights Back",
     "fecha_estreno": "2014-06-09",
-    "sinopsis": "Thomas se enfrenta a un enemigo del pasado y demuestra su verdadero valor al grupo." 
+    "sinopsis": "Thomas se enfrenta a un enemigo del pasado y demuestra su verdadero valor al grupo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP035TEMP05",
@@ -1246,7 +1395,8 @@
     "numero": 35,
     "titulo": "Bachelor Party! Zingo!!",
     "fecha_estreno": "2014-06-16",
-    "sinopsis": "El grupo organiza una despedida de soltero para Muscle Man, pero la fiesta se sale de control." 
+    "sinopsis": "El grupo organiza una despedida de soltero para Muscle Man, pero la fiesta se sale de control.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP036TEMP05",
@@ -1254,7 +1404,8 @@
     "numero": 36,
     "titulo": "Tent Trouble",
     "fecha_estreno": "2014-06-23",
-    "sinopsis": "Mordecai y Rigby intentan armar una tienda de campaña, pero terminan atrapados en una dimensión alterna." 
+    "sinopsis": "Mordecai y Rigby intentan armar una tienda de campaña, pero terminan atrapados en una dimensión alterna.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP037TEMP05",
@@ -1262,7 +1413,8 @@
     "numero": 37,
     "titulo": "Real Date",
     "fecha_estreno": "2014-08-14",
-    "sinopsis": "Mordecai y CJ finalmente tienen una cita real, pero una serie de eventos desafortunados pone a prueba su relación." 
+    "sinopsis": "Mordecai y CJ finalmente tienen una cita real, pero una serie de eventos desafortunados pone a prueba su relación.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP001TEMP06",
@@ -1270,7 +1422,8 @@
     "numero": 1,
     "titulo": "Maxin' and Relaxin'",
     "fecha_estreno": "2014-10-09",
-    "sinopsis": "Mordecai y Rigby intentan relajarse en la piscina del parque, pero terminan enfrentando una competencia inesperada." 
+    "sinopsis": "Mordecai y Rigby intentan relajarse en la piscina del parque, pero terminan enfrentando una competencia inesperada.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP002TEMP06",
@@ -1278,7 +1431,8 @@
     "numero": 2,
     "titulo": "New Bro on Campus",
     "fecha_estreno": "2014-10-16",
-    "sinopsis": "Un nuevo empleado llega al parque y Mordecai y Rigby intentan impresionarlo, pero las cosas se complican." 
+    "sinopsis": "Un nuevo empleado llega al parque y Mordecai y Rigby intentan impresionarlo, pero las cosas se complican.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP003TEMP06",
@@ -1286,7 +1440,8 @@
     "numero": 3,
     "titulo": "Daddy Issues",
     "fecha_estreno": "2014-10-23",
-    "sinopsis": "Muscle Man intenta impresionar a su padre, pero sus planes no salen como esperaba." 
+    "sinopsis": "Muscle Man intenta impresionar a su padre, pero sus planes no salen como esperaba.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP004TEMP06",
@@ -1294,7 +1449,8 @@
     "numero": 4,
     "titulo": "Terror Tales of the Park IV",
     "fecha_estreno": "2014-10-29",
-    "sinopsis": "El grupo cuenta historias de terror en Halloween, cada una con un giro sobrenatural y divertido." 
+    "sinopsis": "El grupo cuenta historias de terror en Halloween, cada una con un giro sobrenatural y divertido.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP005TEMP06",
@@ -1302,7 +1458,8 @@
     "numero": 5,
     "titulo": "The End of Muscle Man",
     "fecha_estreno": "2014-11-06",
-    "sinopsis": "Muscle Man cree que su vida está en peligro y decide vivir al máximo su último día." 
+    "sinopsis": "Muscle Man cree que su vida está en peligro y decide vivir al máximo su último día.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP006TEMP06",
@@ -1310,7 +1467,8 @@
     "numero": 6,
     "titulo": "Lift With Your Back",
     "fecha_estreno": "2014-11-13",
-    "sinopsis": "Benson les enseña a todos cómo levantar objetos correctamente, pero la lección se sale de control." 
+    "sinopsis": "Benson les enseña a todos cómo levantar objetos correctamente, pero la lección se sale de control.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP007TEMP06",
@@ -1318,7 +1476,8 @@
     "numero": 7,
     "titulo": "Eileen Flat Screen",
     "fecha_estreno": "2014-11-20",
-    "sinopsis": "Eileen compra una televisión nueva y Mordecai y Rigby la ayudan a instalarla, enfrentando varios problemas." 
+    "sinopsis": "Eileen compra una televisión nueva y Mordecai y Rigby la ayudan a instalarla, enfrentando varios problemas.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP008TEMP06",
@@ -1326,7 +1485,8 @@
     "numero": 8,
     "titulo": "The Real Thomas",
     "fecha_estreno": "2014-12-04",
-    "sinopsis": "El grupo descubre el verdadero pasado de Thomas y se ven envueltos en una misión secreta." 
+    "sinopsis": "El grupo descubre el verdadero pasado de Thomas y se ven envueltos en una misión secreta.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP009TEMP06",
@@ -1334,7 +1494,8 @@
     "numero": 9,
     "titulo": "The White Elephant Gift Exchange",
     "fecha_estreno": "2014-12-04",
-    "sinopsis": "Durante un intercambio de regalos, todos compiten por conseguir el mejor obsequio, desatando el caos." 
+    "sinopsis": "Durante un intercambio de regalos, todos compiten por conseguir el mejor obsequio, desatando el caos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP010TEMP06",
@@ -1342,7 +1503,8 @@
     "numero": 10,
     "titulo": "Merry Christmas Mordecai",
     "fecha_estreno": "2014-12-04",
-    "sinopsis": "Mordecai intenta pasar una Navidad perfecta, pero una serie de malentendidos complica sus planes." 
+    "sinopsis": "Mordecai intenta pasar una Navidad perfecta, pero una serie de malentendidos complica sus planes.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP011TEMP06",
@@ -1350,7 +1512,8 @@
     "numero": 11,
     "titulo": "Sad Sax",
     "fecha_estreno": "2015-01-08",
-    "sinopsis": "Mordecai se siente deprimido tras una decepción amorosa y sus amigos intentan animarlo." 
+    "sinopsis": "Mordecai se siente deprimido tras una decepción amorosa y sus amigos intentan animarlo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP012TEMP06",
@@ -1358,7 +1521,8 @@
     "numero": 12,
     "titulo": "Park Managers' Lunch",
     "fecha_estreno": "2015-01-15",
-    "sinopsis": "Benson asiste a un almuerzo de gerentes de parques y compite por el reconocimiento de sus colegas." 
+    "sinopsis": "Benson asiste a un almuerzo de gerentes de parques y compite por el reconocimiento de sus colegas.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP013TEMP06",
@@ -1366,7 +1530,8 @@
     "numero": 13,
     "titulo": "Mordecai and Rigby Down Under",
     "fecha_estreno": "2015-01-22",
-    "sinopsis": "Mordecai y Rigby viajan a Australia y viven una aventura llena de peligros y diversión." 
+    "sinopsis": "Mordecai y Rigby viajan a Australia y viven una aventura llena de peligros y diversión.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP014TEMP06",
@@ -1374,7 +1539,8 @@
     "numero": 14,
     "titulo": "Married and Broke",
     "fecha_estreno": "2015-01-29",
-    "sinopsis": "Muscle Man y Starla enfrentan problemas financieros tras casarse y buscan una solución creativa." 
+    "sinopsis": "Muscle Man y Starla enfrentan problemas financieros tras casarse y buscan una solución creativa.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP015TEMP06",
@@ -1382,7 +1548,8 @@
     "numero": 15,
     "titulo": "I See Turtles",
     "fecha_estreno": "2015-02-05",
-    "sinopsis": "El grupo encuentra tortugas misteriosas en el parque y tratan de descubrir su origen." 
+    "sinopsis": "El grupo encuentra tortugas misteriosas en el parque y tratan de descubrir su origen.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP016TEMP06",
@@ -1390,7 +1557,8 @@
     "numero": 16,
     "titulo": "Format Wars II",
     "fecha_estreno": "2015-02-12",
-    "sinopsis": "Mordecai y Rigby se ven envueltos en una guerra entre formatos de video antiguos y modernos." 
+    "sinopsis": "Mordecai y Rigby se ven envueltos en una guerra entre formatos de video antiguos y modernos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP017TEMP06",
@@ -1398,7 +1566,8 @@
     "numero": 17,
     "titulo": "Happy Birthday Song Contest",
     "fecha_estreno": "2015-02-19",
-    "sinopsis": "El grupo compite en un concurso para crear la mejor canción de cumpleaños, desatando una batalla musical." 
+    "sinopsis": "El grupo compite en un concurso para crear la mejor canción de cumpleaños, desatando una batalla musical.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP018TEMP06",
@@ -1406,7 +1575,8 @@
     "numero": 18,
     "titulo": "Benson's Suit",
     "fecha_estreno": "2015-02-26",
-    "sinopsis": "Benson compra un traje nuevo para impresionar a sus colegas, pero el traje tiene efectos inesperados." 
+    "sinopsis": "Benson compra un traje nuevo para impresionar a sus colegas, pero el traje tiene efectos inesperados.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP019TEMP06",
@@ -1414,7 +1584,8 @@
     "numero": 19,
     "titulo": "Gamers Never Say Die",
     "fecha_estreno": "2015-03-05",
-    "sinopsis": "Mordecai y Rigby participan en una competencia de videojuegos para ganar un premio especial." 
+    "sinopsis": "Mordecai y Rigby participan en una competencia de videojuegos para ganar un premio especial.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP020TEMP06",
@@ -1422,7 +1593,8 @@
     "numero": 20,
     "titulo": "1000th Chopper Flight Party",
     "fecha_estreno": "2015-03-12",
-    "sinopsis": "El grupo celebra el vuelo número 1000 del helicóptero del parque con una gran fiesta." 
+    "sinopsis": "El grupo celebra el vuelo número 1000 del helicóptero del parque con una gran fiesta.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP021TEMP06",
@@ -1430,7 +1602,8 @@
     "numero": 21,
     "titulo": "Party Horse",
     "fecha_estreno": "2015-03-19",
-    "sinopsis": "Un caballo fiestero llega al parque y arrastra a todos a una celebración descontrolada." 
+    "sinopsis": "Un caballo fiestero llega al parque y arrastra a todos a una celebración descontrolada.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP022TEMP06",
@@ -1438,7 +1611,8 @@
     "numero": 22,
     "titulo": "Men in Uniform",
     "fecha_estreno": "2015-03-26",
-    "sinopsis": "El grupo debe usar uniformes para una tarea especial, pero los uniformes tienen efectos extraños." 
+    "sinopsis": "El grupo debe usar uniformes para una tarea especial, pero los uniformes tienen efectos extraños.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP023TEMP06",
@@ -1446,7 +1620,8 @@
     "numero": 23,
     "titulo": "Garage Door",
     "fecha_estreno": "2015-04-02",
-    "sinopsis": "Mordecai y Rigby intentan arreglar la puerta del garaje, pero terminan atrapados en una situación absurda." 
+    "sinopsis": "Mordecai y Rigby intentan arreglar la puerta del garaje, pero terminan atrapados en una situación absurda.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP024TEMP06",
@@ -1454,7 +1629,8 @@
     "numero": 24,
     "titulo": "Brilliant Century Duck Crisis Special",
     "fecha_estreno": "2015-04-09",
-    "sinopsis": "El grupo debe salvar al parque de una invasión de patos en un episodio especial lleno de acción." 
+    "sinopsis": "El grupo debe salvar al parque de una invasión de patos en un episodio especial lleno de acción.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP025TEMP06",
@@ -1462,7 +1638,8 @@
     "numero": 25,
     "titulo": "Not Great Double Date",
     "fecha_estreno": "2015-04-16",
-    "sinopsis": "Mordecai y Rigby organizan una doble cita que rápidamente se convierte en un desastre." 
+    "sinopsis": "Mordecai y Rigby organizan una doble cita que rápidamente se convierte en un desastre.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP026TEMP06",
@@ -1470,7 +1647,8 @@
     "numero": 26,
     "titulo": "Death Kwon Do-Livery",
     "fecha_estreno": "2015-04-23",
-    "sinopsis": "El grupo debe entregar un paquete usando técnicas de Death Kwon Do para evitar a unos villanos." 
+    "sinopsis": "El grupo debe entregar un paquete usando técnicas de Death Kwon Do para evitar a unos villanos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP027TEMP06",
@@ -1478,7 +1656,8 @@
     "numero": 27,
     "titulo": "Lunch Break",
     "fecha_estreno": "2015-06-18",
-    "sinopsis": "El grupo intenta disfrutar de su hora de almuerzo, pero todo se complica por una serie de eventos inesperados." 
+    "sinopsis": "El grupo intenta disfrutar de su hora de almuerzo, pero todo se complica por una serie de eventos inesperados.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP028TEMP06",
@@ -1486,7 +1665,8 @@
     "numero": 28,
     "titulo": "Dumped at the Altar",
     "fecha_estreno": "2015-06-25",
-    "sinopsis": "Muscle Man es plantado en el altar y sus amigos intentan animarlo en un día difícil." 
+    "sinopsis": "Muscle Man es plantado en el altar y sus amigos intentan animarlo en un día difícil.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP001TEMP07",
@@ -1494,7 +1674,8 @@
     "numero": 1,
     "titulo": "Dumptown U.S.A.",
     "fecha_estreno": "2015-06-26",
-    "sinopsis": "Tras ser plantado en el altar, Muscle Man cae en una depresión y sus amigos intentan ayudarlo a superar el mal momento." 
+    "sinopsis": "Tras ser plantado en el altar, Muscle Man cae en una depresión y sus amigos intentan ayudarlo a superar el mal momento.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP002TEMP07",
@@ -1502,7 +1683,8 @@
     "numero": 2,
     "titulo": "The Parkie Awards",
     "fecha_estreno": "2015-06-26",
-    "sinopsis": "El grupo compite por ganar un codiciado premio del parque, pero la competencia se vuelve feroz y llena de trampas." 
+    "sinopsis": "El grupo compite por ganar un codiciado premio del parque, pero la competencia se vuelve feroz y llena de trampas.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP003TEMP07",
@@ -1510,7 +1692,8 @@
     "numero": 3,
     "titulo": "The Lunch Club",
     "fecha_estreno": "2015-07-02",
-    "sinopsis": "Mordecai y Rigby intentan unirse a un club exclusivo de almuerzos, pero deben pasar una serie de pruebas absurdas." 
+    "sinopsis": "Mordecai y Rigby intentan unirse a un club exclusivo de almuerzos, pero deben pasar una serie de pruebas absurdas.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP004TEMP07",
@@ -1518,7 +1701,8 @@
     "numero": 4,
     "titulo": "Local News Legend",
     "fecha_estreno": "2015-07-09",
-    "sinopsis": "Pops se convierte en una sensación local tras aparecer en las noticias, pero la fama le trae problemas inesperados." 
+    "sinopsis": "Pops se convierte en una sensación local tras aparecer en las noticias, pero la fama le trae problemas inesperados.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP005TEMP07",
@@ -1526,7 +1710,8 @@
     "numero": 5,
     "titulo": "Birthday Gift",
     "fecha_estreno": "2015-07-16",
-    "sinopsis": "Mordecai y Rigby olvidan el cumpleaños de Skips y se embarcan en una misión para encontrar el regalo perfecto a último minuto." 
+    "sinopsis": "Mordecai y Rigby olvidan el cumpleaños de Skips y se embarcan en una misión para encontrar el regalo perfecto a último minuto.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP006TEMP07",
@@ -1534,7 +1719,8 @@
     "numero": 6,
     "titulo": "Cat Videos",
     "fecha_estreno": "2015-07-23",
-    "sinopsis": "El grupo se obsesiona con videos de gatos en internet, pero pronto descubren que hay algo extraño detrás de ellos." 
+    "sinopsis": "El grupo se obsesiona con videos de gatos en internet, pero pronto descubren que hay algo extraño detrás de ellos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP007TEMP07",
@@ -1542,7 +1728,8 @@
     "numero": 7,
     "titulo": "Struck by Lightning",
     "fecha_estreno": "2015-07-30",
-    "sinopsis": "Muscle Man es alcanzado por un rayo y desarrolla habilidades extrañas, lo que causa caos en el parque." 
+    "sinopsis": "Muscle Man es alcanzado por un rayo y desarrolla habilidades extrañas, lo que causa caos en el parque.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP008TEMP07",
@@ -1550,7 +1737,8 @@
     "numero": 8,
     "titulo": "Terror Tales of the Park V",
     "fecha_estreno": "2015-10-29",
-    "sinopsis": "El grupo cuenta nuevas historias de terror en Halloween, cada una más extraña y sobrenatural que la anterior." 
+    "sinopsis": "El grupo cuenta nuevas historias de terror en Halloween, cada una más extraña y sobrenatural que la anterior.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP009TEMP07",
@@ -1558,7 +1746,8 @@
     "numero": 9,
     "titulo": "The Return of Party Horse",
     "fecha_estreno": "2015-11-05",
-    "sinopsis": "Party Horse regresa al parque buscando ayuda para salvar su planeta, involucrando a todos en una aventura espacial." 
+    "sinopsis": "Party Horse regresa al parque buscando ayuda para salvar su planeta, involucrando a todos en una aventura espacial.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP010TEMP07",
@@ -1566,7 +1755,8 @@
     "numero": 10,
     "titulo": "Sleep Cycle",
     "fecha_estreno": "2015-11-12",
-    "sinopsis": "Mordecai y Rigby intentan arreglar su ciclo de sueño, pero terminan atrapados en un bucle de pesadillas." 
+    "sinopsis": "Mordecai y Rigby intentan arreglar su ciclo de sueño, pero terminan atrapados en un bucle de pesadillas.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP011TEMP07",
@@ -1574,7 +1764,8 @@
     "numero": 11,
     "titulo": "Just Friends",
     "fecha_estreno": "2015-11-19",
-    "sinopsis": "Mordecai y Margaret se reencuentran y deben decidir si pueden ser solo amigos o si aún hay sentimientos entre ellos." 
+    "sinopsis": "Mordecai y Margaret se reencuentran y deben decidir si pueden ser solo amigos o si aún hay sentimientos entre ellos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP012TEMP07",
@@ -1582,7 +1773,8 @@
     "numero": 12,
     "titulo": "Benson's Pig",
     "fecha_estreno": "2015-12-03",
-    "sinopsis": "Benson adopta un cerdo como mascota, pero el animal resulta ser más problemático de lo que esperaba." 
+    "sinopsis": "Benson adopta un cerdo como mascota, pero el animal resulta ser más problemático de lo que esperaba.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP013TEMP07",
@@ -1590,7 +1782,8 @@
     "numero": 13,
     "titulo": "The Dome Experiment Special",
     "fecha_estreno": "2015-12-10",
-    "sinopsis": "El parque es encerrado en una cúpula para un experimento, y todos deben adaptarse a las nuevas reglas para sobrevivir." 
+    "sinopsis": "El parque es encerrado en una cúpula para un experimento, y todos deben adaptarse a las nuevas reglas para sobrevivir.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP014TEMP07",
@@ -1598,7 +1791,8 @@
     "numero": 14,
     "titulo": "The Button",
     "fecha_estreno": "2016-01-07",
-    "sinopsis": "Mordecai y Rigby encuentran un misterioso botón en el parque y luchan por no presionarlo, desatando el caos." 
+    "sinopsis": "Mordecai y Rigby encuentran un misterioso botón en el parque y luchan por no presionarlo, desatando el caos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP015TEMP07",
@@ -1606,7 +1800,8 @@
     "numero": 15,
     "titulo": "Favorite Shirt",
     "fecha_estreno": "2016-01-14",
-    "sinopsis": "Rigby pierde su camiseta favorita y hará todo lo posible por recuperarla, enfrentando situaciones absurdas." 
+    "sinopsis": "Rigby pierde su camiseta favorita y hará todo lo posible por recuperarla, enfrentando situaciones absurdas.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP016TEMP07",
@@ -1614,7 +1809,8 @@
     "numero": 16,
     "titulo": "Marvolo the Wizard",
     "fecha_estreno": "2016-01-21",
-    "sinopsis": "Un mago llega al parque y desafía a los empleados a superar sus pruebas mágicas para ganar un premio especial." 
+    "sinopsis": "Un mago llega al parque y desafía a los empleados a superar sus pruebas mágicas para ganar un premio especial.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP017TEMP07",
@@ -1622,7 +1818,8 @@
     "numero": 17,
     "titulo": "Pop's Favorite Planet",
     "fecha_estreno": "2016-01-28",
-    "sinopsis": "Pops quiere visitar su planeta favorito y el grupo lo ayuda a cumplir su sueño, enfrentando obstáculos cósmicos." 
+    "sinopsis": "Pops quiere visitar su planeta favorito y el grupo lo ayuda a cumplir su sueño, enfrentando obstáculos cósmicos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP018TEMP07",
@@ -1630,7 +1827,8 @@
     "numero": 18,
     "titulo": "Pam I Am",
     "fecha_estreno": "2016-02-04",
-    "sinopsis": "Benson comienza a salir con una nueva chica llamada Pam, pero sus amigos sospechan que ella oculta algo." 
+    "sinopsis": "Benson comienza a salir con una nueva chica llamada Pam, pero sus amigos sospechan que ella oculta algo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP019TEMP07",
@@ -1638,7 +1836,8 @@
     "numero": 19,
     "titulo": "Lame Lockdown",
     "fecha_estreno": "2016-02-11",
-    "sinopsis": "El parque entra en cuarentena por error y todos deben encontrar la manera de salir antes de que sea tarde." 
+    "sinopsis": "El parque entra en cuarentena por error y todos deben encontrar la manera de salir antes de que sea tarde.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP020TEMP07",
@@ -1646,7 +1845,8 @@
     "numero": 20,
     "titulo": "VIP Members Only",
     "fecha_estreno": "2016-02-18",
-    "sinopsis": "Mordecai y Rigby intentan entrar a un club VIP, pero descubren que la exclusividad tiene un precio muy alto." 
+    "sinopsis": "Mordecai y Rigby intentan entrar a un club VIP, pero descubren que la exclusividad tiene un precio muy alto.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP021TEMP07",
@@ -1654,7 +1854,8 @@
     "numero": 21,
     "titulo": "Deez Keys",
     "fecha_estreno": "2016-02-25",
-    "sinopsis": "El grupo pierde las llaves del parque y deben recuperarlas antes de que Benson se entere." 
+    "sinopsis": "El grupo pierde las llaves del parque y deben recuperarlas antes de que Benson se entere.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP022TEMP07",
@@ -1662,7 +1863,8 @@
     "numero": 22,
     "titulo": "Rigby Goes to Prom",
     "fecha_estreno": "2016-03-03",
-    "sinopsis": "Rigby es invitado a un baile de graduación y pide ayuda a sus amigos para no hacer el ridículo." 
+    "sinopsis": "Rigby es invitado a un baile de graduación y pide ayuda a sus amigos para no hacer el ridículo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP023TEMP07",
@@ -1670,7 +1872,8 @@
     "numero": 23,
     "titulo": "The Eileen Plan",
     "fecha_estreno": "2016-03-10",
-    "sinopsis": "Eileen elabora un plan para mejorar el parque, pero sus ideas generan situaciones inesperadas." 
+    "sinopsis": "Eileen elabora un plan para mejorar el parque, pero sus ideas generan situaciones inesperadas.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP024TEMP07",
@@ -1678,7 +1881,8 @@
     "numero": 24,
     "titulo": "Hello China",
     "fecha_estreno": "2016-03-17",
-    "sinopsis": "Mordecai viaja a China para aprender sobre la cultura y termina enredado en una aventura internacional." 
+    "sinopsis": "Mordecai viaja a China para aprender sobre la cultura y termina enredado en una aventura internacional.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP025TEMP07",
@@ -1686,7 +1890,8 @@
     "numero": 25,
     "titulo": "Crazy Fake Plan",
     "fecha_estreno": "2016-03-24",
-    "sinopsis": "El grupo idea un plan falso para engañar a un rival, pero las cosas se salen de control rápidamente." 
+    "sinopsis": "El grupo idea un plan falso para engañar a un rival, pero las cosas se salen de control rápidamente.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP026TEMP07",
@@ -1694,7 +1899,8 @@
     "numero": 26,
     "titulo": "Gary's Synthesizer",
     "fecha_estreno": "2016-03-31",
-    "sinopsis": "Gary pierde su sintetizador y pide ayuda a Mordecai y Rigby para recuperarlo antes de un concierto importante." 
+    "sinopsis": "Gary pierde su sintetizador y pide ayuda a Mordecai y Rigby para recuperarlo antes de un concierto importante.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP001TEMP08",
@@ -1702,7 +1908,8 @@
     "numero": 1,
     "titulo": "One Space Day at a Time",
     "fecha_estreno": "2016-09-26",
-    "sinopsis": "El parque es transportado al espacio y el grupo debe adaptarse a su nueva vida mientras buscan una forma de regresar a la Tierra." 
+    "sinopsis": "El parque es transportado al espacio y el grupo debe adaptarse a su nueva vida mientras buscan una forma de regresar a la Tierra.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP002TEMP08",
@@ -1710,7 +1917,8 @@
     "numero": 2,
     "titulo": "Cool Bro Bots",
     "fecha_estreno": "2016-09-26",
-    "sinopsis": "Mordecai y Rigby conocen a unos robots que parecen ser versiones mejoradas de ellos mismos, lo que despierta su curiosidad y celos." 
+    "sinopsis": "Mordecai y Rigby conocen a unos robots que parecen ser versiones mejoradas de ellos mismos, lo que despierta su curiosidad y celos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP003TEMP08",
@@ -1718,7 +1926,8 @@
     "numero": 3,
     "titulo": "Welcome to Space",
     "fecha_estreno": "2016-09-27",
-    "sinopsis": "El grupo explora la estación espacial y se enfrenta a los desafíos de vivir fuera del planeta, incluyendo nuevas reglas y peligros." 
+    "sinopsis": "El grupo explora la estación espacial y se enfrenta a los desafíos de vivir fuera del planeta, incluyendo nuevas reglas y peligros.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP004TEMP08",
@@ -1726,7 +1935,8 @@
     "numero": 4,
     "titulo": "Space Creds",
     "fecha_estreno": "2016-09-28",
-    "sinopsis": "Mordecai y Rigby intentan ganar 'créditos espaciales' para comprar suministros, pero terminan envueltos en una competencia inesperada." 
+    "sinopsis": "Mordecai y Rigby intentan ganar 'créditos espaciales' para comprar suministros, pero terminan envueltos en una competencia inesperada.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP005TEMP08",
@@ -1734,7 +1944,8 @@
     "numero": 5,
     "titulo": "Lost and Found",
     "fecha_estreno": "2016-09-29",
-    "sinopsis": "El grupo pierde un objeto importante en la estación espacial y deben recuperarlo antes de que cause problemas mayores." 
+    "sinopsis": "El grupo pierde un objeto importante en la estación espacial y deben recuperarlo antes de que cause problemas mayores.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP006TEMP08",
@@ -1742,7 +1953,8 @@
     "numero": 6,
     "titulo": "Ugly Moons",
     "fecha_estreno": "2016-10-03",
-    "sinopsis": "El parque es atacado por lunas hostiles y el grupo debe defenderse usando ingenio y trabajo en equipo." 
+    "sinopsis": "El parque es atacado por lunas hostiles y el grupo debe defenderse usando ingenio y trabajo en equipo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP007TEMP08",
@@ -1750,7 +1962,8 @@
     "numero": 7,
     "titulo": "The Dream Warrior",
     "fecha_estreno": "2016-10-04",
-    "sinopsis": "Pops queda atrapado en un mundo de sueños y sus amigos deben entrar en su mente para rescatarlo." 
+    "sinopsis": "Pops queda atrapado en un mundo de sueños y sus amigos deben entrar en su mente para rescatarlo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP008TEMP08",
@@ -1758,7 +1971,8 @@
     "numero": 8,
     "titulo": "The Space Race",
     "fecha_estreno": "2016-10-05",
-    "sinopsis": "El grupo participa en una carrera espacial para ganar recursos, enfrentándose a rivales de toda la galaxia." 
+    "sinopsis": "El grupo participa en una carrera espacial para ganar recursos, enfrentándose a rivales de toda la galaxia.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP009TEMP08",
@@ -1766,7 +1980,8 @@
     "numero": 9,
     "titulo": "Stuck in an Elevator",
     "fecha_estreno": "2016-10-06",
-    "sinopsis": "Mordecai, Rigby y Eileen quedan atrapados en un ascensor espacial y deben encontrar la manera de salir antes de quedarse sin oxígeno." 
+    "sinopsis": "Mordecai, Rigby y Eileen quedan atrapados en un ascensor espacial y deben encontrar la manera de salir antes de quedarse sin oxígeno.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP010TEMP08",
@@ -1774,7 +1989,8 @@
     "numero": 10,
     "titulo": "The Spacey Awards",
     "fecha_estreno": "2016-10-10",
-    "sinopsis": "El grupo es nominado a un premio espacial, pero la ceremonia se convierte en una competencia llena de trampas y sorpresas." 
+    "sinopsis": "El grupo es nominado a un premio espacial, pero la ceremonia se convierte en una competencia llena de trampas y sorpresas.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP011TEMP08",
@@ -1782,7 +1998,8 @@
     "numero": 11,
     "titulo": "Can You Ear Me Now?",
     "fecha_estreno": "2016-10-11",
-    "sinopsis": "El grupo pierde la comunicación con la Tierra y debe improvisar para restablecer el contacto antes de que sea demasiado tarde." 
+    "sinopsis": "El grupo pierde la comunicación con la Tierra y debe improvisar para restablecer el contacto antes de que sea demasiado tarde.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP012TEMP08",
@@ -1790,7 +2007,8 @@
     "numero": 12,
     "titulo": "Stuck in an Elevator",
     "fecha_estreno": "2016-10-12",
-    "sinopsis": "Mordecai, Rigby y Eileen quedan atrapados en un ascensor espacial y deben encontrar la manera de salir antes de quedarse sin oxígeno." 
+    "sinopsis": "Mordecai, Rigby y Eileen quedan atrapados en un ascensor espacial y deben encontrar la manera de salir antes de quedarse sin oxígeno.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP013TEMP08",
@@ -1798,7 +2016,8 @@
     "numero": 13,
     "titulo": "The Key to the Universe",
     "fecha_estreno": "2016-10-13",
-    "sinopsis": "El grupo encuentra una llave misteriosa que podría ser la clave para regresar a casa, pero no son los únicos que la buscan." 
+    "sinopsis": "El grupo encuentra una llave misteriosa que podría ser la clave para regresar a casa, pero no son los únicos que la buscan.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP014TEMP08",
@@ -1806,7 +2025,8 @@
     "numero": 14,
     "titulo": "No Train No Gain",
     "fecha_estreno": "2016-10-17",
-    "sinopsis": "Muscle Man y High-Five Ghost entrenan para una competencia espacial, pero su rivalidad pone en riesgo la misión." 
+    "sinopsis": "Muscle Man y High-Five Ghost entrenan para una competencia espacial, pero su rivalidad pone en riesgo la misión.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP015TEMP08",
@@ -1814,7 +2034,8 @@
     "numero": 15,
     "titulo": "Meat Your Maker",
     "fecha_estreno": "2016-10-18",
-    "sinopsis": "El grupo se enfrenta a una amenaza alienígena que convierte la comida en monstruos, poniendo en peligro la estación." 
+    "sinopsis": "El grupo se enfrenta a una amenaza alienígena que convierte la comida en monstruos, poniendo en peligro la estación.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP016TEMP08",
@@ -1822,7 +2043,8 @@
     "numero": 16,
     "titulo": "The Button",
     "fecha_estreno": "2016-10-19",
-    "sinopsis": "Mordecai y Rigby encuentran un botón misterioso en la nave y deben decidir si lo presionan o no." 
+    "sinopsis": "Mordecai y Rigby encuentran un botón misterioso en la nave y deben decidir si lo presionan o no.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP017TEMP08",
@@ -1830,7 +2052,8 @@
     "numero": 17,
     "titulo": "The Brain of Evil",
     "fecha_estreno": "2016-10-20",
-    "sinopsis": "El grupo se enfrenta a un cerebro maligno que intenta apoderarse de la nave y controlar sus mentes." 
+    "sinopsis": "El grupo se enfrenta a un cerebro maligno que intenta apoderarse de la nave y controlar sus mentes.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP018TEMP08",
@@ -1838,7 +2061,8 @@
     "numero": 18,
     "titulo": "The Space Tree",
     "fecha_estreno": "2016-10-24",
-    "sinopsis": "El parque encuentra un árbol espacial con poderes extraños, lo que desencadena una serie de eventos misteriosos." 
+    "sinopsis": "El parque encuentra un árbol espacial con poderes extraños, lo que desencadena una serie de eventos misteriosos.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP019TEMP08",
@@ -1846,7 +2070,8 @@
     "numero": 19,
     "titulo": "Cheer Up Pops",
     "fecha_estreno": "2016-10-25",
-    "sinopsis": "Pops se siente triste y el grupo organiza una serie de actividades para animarlo en el espacio." 
+    "sinopsis": "Pops se siente triste y el grupo organiza una serie de actividades para animarlo en el espacio.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP020TEMP08",
@@ -1854,7 +2079,8 @@
     "numero": 20,
     "titulo": "A Regular Epic Final Battle (Part 1)",
     "fecha_estreno": "2017-01-16",
-    "sinopsis": "Comienza la batalla final por el destino del universo, y el grupo debe unir fuerzas para enfrentar a su mayor enemigo." 
+    "sinopsis": "Comienza la batalla final por el destino del universo, y el grupo debe unir fuerzas para enfrentar a su mayor enemigo.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP021TEMP08",
@@ -1862,7 +2088,8 @@
     "numero": 21,
     "titulo": "A Regular Epic Final Battle (Part 2)",
     "fecha_estreno": "2017-01-16",
-    "sinopsis": "La batalla continúa y Pops descubre su verdadero destino mientras el grupo lucha por sobrevivir." 
+    "sinopsis": "La batalla continúa y Pops descubre su verdadero destino mientras el grupo lucha por sobrevivir.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP022TEMP08",
@@ -1870,6 +2097,7 @@
     "numero": 22,
     "titulo": "A Regular Epic Final Battle (Part 3)",
     "fecha_estreno": "2017-01-16",
-    "sinopsis": "El desenlace épico de la serie: Pops toma una decisión heroica que cambiará el destino de todos para siempre." 
+    "sinopsis": "El desenlace épico de la serie: Pops toma una decisión heroica que cambiará el destino de todos para siempre.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   }
 ]
