@@ -661,9 +661,10 @@
   },
   {
     "id": "CAP021TEMP03",
+    "titulo": "The Best Burger in the World",
     "temporada": 3,
     "numero": 21,
-    "titulo": "The Best Burger in the World",
+    "temporada_id": "TEMP03", 
     "fecha_estreno": "2012-04-09",
     "imdb_score": 7.4,
     "sinopsis": "Mordecai y Rigby deben terminar sus tareas para poder probar la mejor hamburguesa del mundo.",
@@ -671,9 +672,10 @@
   },
   {
     "id": "CAP022TEMP03",
+    "titulo": "Replaced",
     "temporada": 3,
     "numero": 22,
-    "titulo": "Replaced",
+    
     "fecha_estreno": "2012-04-16",
     "imdb_score": 7.4,
     "sinopsis": "Mordecai y Rigby descubren que Benson planea reemplazarlos y buscan la forma de evitarlo.",
@@ -1581,9 +1583,9 @@
   },
   {
     "id": "CAP037TEMP05",
+    "titulo": "Real Date",
     "temporada": 5,
     "numero": 37,
-    "titulo": "Real Date",
     "fecha_estreno": "2014-08-14",
     "imdb_score": 8.9,
     "sinopsis": "Mordecai y CJ finalmente tienen una cita real, pero una serie de eventos desafortunados pone a prueba su relación.",
@@ -1591,19 +1593,21 @@
   },
   {
     "id": "CAP001TEMP06",
+    "titulo": "Maxin' and Relaxin'",
     "temporada": 6,
     "numero": 1,
-    "titulo": "Maxin' and Relaxin'",
     "fecha_estreno": "2014-10-09",
+    "imdb_score": 8.3,
     "sinopsis": "Mordecai y Rigby intentan relajarse en la piscina del parque, pero terminan enfrentando una competencia inesperada.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP002TEMP06",
+    "titulo": "New Bro on Campus",
     "temporada": 6,
     "numero": 2,
-    "titulo": "New Bro on Campus",
     "fecha_estreno": "2014-10-16",
+    "imdb_score": 8.1,
     "sinopsis": "Un nuevo empleado llega al parque y Mordecai y Rigby intentan impresionarlo, pero las cosas se complican.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1613,6 +1617,7 @@
     "numero": 3,
     "titulo": "Daddy Issues",
     "fecha_estreno": "2014-10-23",
+    "imdb_score": 8.1,
     "sinopsis": "Muscle Man intenta impresionar a su padre, pero sus planes no salen como esperaba.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1622,6 +1627,7 @@
     "numero": 4,
     "titulo": "Terror Tales of the Park IV",
     "fecha_estreno": "2014-10-29",
+    "imdb_score": 8.3,
     "sinopsis": "El grupo cuenta historias de terror en Halloween, cada una con un giro sobrenatural y divertido.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1631,6 +1637,7 @@
     "numero": 5,
     "titulo": "The End of Muscle Man",
     "fecha_estreno": "2014-11-06",
+    "imdb_score": 8.1,
     "sinopsis": "Muscle Man cree que su vida está en peligro y decide vivir al máximo su último día.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1640,6 +1647,7 @@
     "numero": 6,
     "titulo": "Lift With Your Back",
     "fecha_estreno": "2014-11-13",
+    "imdb_score": 8.1,
     "sinopsis": "Benson les enseña a todos cómo levantar objetos correctamente, pero la lección se sale de control.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1649,6 +1657,7 @@
     "numero": 7,
     "titulo": "Eileen Flat Screen",
     "fecha_estreno": "2014-11-20",
+    "imdb_score": 8.3,
     "sinopsis": "Eileen compra una televisión nueva y Mordecai y Rigby la ayudan a instalarla, enfrentando varios problemas.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1658,6 +1667,7 @@
     "numero": 8,
     "titulo": "The Real Thomas",
     "fecha_estreno": "2014-12-04",
+    "imdb_score": 9.5,
     "sinopsis": "El grupo descubre el verdadero pasado de Thomas y se ven envueltos en una misión secreta.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1667,6 +1677,7 @@
     "numero": 9,
     "titulo": "The White Elephant Gift Exchange",
     "fecha_estreno": "2014-12-04",
+    "imdb_score": 8.4,
     "sinopsis": "Durante un intercambio de regalos, todos compiten por conseguir el mejor obsequio, desatando el caos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1676,6 +1687,7 @@
     "numero": 10,
     "titulo": "Merry Christmas Mordecai",
     "fecha_estreno": "2014-12-04",
+    "imdb_score": 8.8,
     "sinopsis": "Mordecai intenta pasar una Navidad perfecta, pero una serie de malentendidos complica sus planes.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1685,6 +1697,7 @@
     "numero": 11,
     "titulo": "Sad Sax",
     "fecha_estreno": "2015-01-08",
+    "imdb_score": 8.5,
     "sinopsis": "Mordecai se siente deprimido tras una decepción amorosa y sus amigos intentan animarlo.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1694,6 +1707,7 @@
     "numero": 12,
     "titulo": "Park Managers' Lunch",
     "fecha_estreno": "2015-01-15",
+    "imdb_score": 8.0,
     "sinopsis": "Benson asiste a un almuerzo de gerentes de parques y compite por el reconocimiento de sus colegas.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1703,6 +1717,7 @@
     "numero": 13,
     "titulo": "Mordecai and Rigby Down Under",
     "fecha_estreno": "2015-01-22",
+    "imdb_score": 8.7,
     "sinopsis": "Mordecai y Rigby viajan a Australia y viven una aventura llena de peligros y diversión.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1712,6 +1727,7 @@
     "numero": 14,
     "titulo": "Married and Broke",
     "fecha_estreno": "2015-01-29",
+    "imdb_score": 7.8,
     "sinopsis": "Muscle Man y Starla enfrentan problemas financieros tras casarse y buscan una solución creativa.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1721,6 +1737,7 @@
     "numero": 15,
     "titulo": "I See Turtles",
     "fecha_estreno": "2015-02-05",
+    "imdb_score": 9.0,
     "sinopsis": "El grupo encuentra tortugas misteriosas en el parque y tratan de descubrir su origen.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1730,6 +1747,7 @@
     "numero": 16,
     "titulo": "Format Wars II",
     "fecha_estreno": "2015-02-12",
+    "imdb_score": 9.2,
     "sinopsis": "Mordecai y Rigby se ven envueltos en una guerra entre formatos de video antiguos y modernos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1739,6 +1757,7 @@
     "numero": 17,
     "titulo": "Happy Birthday Song Contest",
     "fecha_estreno": "2015-02-19",
+    "imdb_score": 8.7,
     "sinopsis": "El grupo compite en un concurso para crear la mejor canción de cumpleaños, desatando una batalla musical.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1748,6 +1767,7 @@
     "numero": 18,
     "titulo": "Benson's Suit",
     "fecha_estreno": "2015-02-26",
+    "imdb_score": 9.1,
     "sinopsis": "Benson compra un traje nuevo para impresionar a sus colegas, pero el traje tiene efectos inesperados.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1757,6 +1777,7 @@
     "numero": 19,
     "titulo": "Gamers Never Say Die",
     "fecha_estreno": "2015-03-05",
+    "imdb_score": 9.0,
     "sinopsis": "Mordecai y Rigby participan en una competencia de videojuegos para ganar un premio especial.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1766,6 +1787,7 @@
     "numero": 20,
     "titulo": "1000th Chopper Flight Party",
     "fecha_estreno": "2015-03-12",
+    "imdb_score": 8.1,
     "sinopsis": "El grupo celebra el vuelo número 1000 del helicóptero del parque con una gran fiesta.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1775,6 +1797,7 @@
     "numero": 21,
     "titulo": "Party Horse",
     "fecha_estreno": "2015-03-19",
+    "imdb_score": 7.5,
     "sinopsis": "Un caballo fiestero llega al parque y arrastra a todos a una celebración descontrolada.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1784,6 +1807,7 @@
     "numero": 22,
     "titulo": "Men in Uniform",
     "fecha_estreno": "2015-03-26",
+    "imdb_score": 8.1,
     "sinopsis": "El grupo debe usar uniformes para una tarea especial, pero los uniformes tienen efectos extraños.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1793,6 +1817,7 @@
     "numero": 23,
     "titulo": "Garage Door",
     "fecha_estreno": "2015-04-02",
+    "imdb_score": 8.1,
     "sinopsis": "Mordecai y Rigby intentan arreglar la puerta del garaje, pero terminan atrapados en una situación absurda.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1802,6 +1827,7 @@
     "numero": 24,
     "titulo": "Brilliant Century Duck Crisis Special",
     "fecha_estreno": "2015-04-09",
+    "imdb_score": 9.5,
     "sinopsis": "El grupo debe salvar al parque de una invasión de patos en un episodio especial lleno de acción.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1811,6 +1837,7 @@
     "numero": 25,
     "titulo": "Not Great Double Date",
     "fecha_estreno": "2015-04-16",
+    "imdb_score": 8.4,
     "sinopsis": "Mordecai y Rigby organizan una doble cita que rápidamente se convierte en un desastre.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1820,6 +1847,7 @@
     "numero": 26,
     "titulo": "Death Kwon Do-Livery",
     "fecha_estreno": "2015-04-23",
+    "imdb_score": 8.5,
     "sinopsis": "El grupo debe entregar un paquete usando técnicas de Death Kwon Do para evitar a unos villanos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1829,6 +1857,7 @@
     "numero": 27,
     "titulo": "Lunch Break",
     "fecha_estreno": "2015-06-18",
+    "imdb_score": 8.1,
     "sinopsis": "El grupo intenta disfrutar de su hora de almuerzo, pero todo se complica por una serie de eventos inesperados.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1838,6 +1867,7 @@
     "numero": 28,
     "titulo": "Dumped at the Altar",
     "fecha_estreno": "2015-06-25",
+    "imdb_score": 8.2,
     "sinopsis": "Muscle Man es plantado en el altar y sus amigos intentan animarlo en un día difícil.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1847,6 +1877,7 @@
     "numero": 1,
     "titulo": "Dumptown U.S.A.",
     "fecha_estreno": "2015-06-26",
+    "imdb_score": 8.5,
     "sinopsis": "Tras ser plantado en el altar, Muscle Man cae en una depresión y sus amigos intentan ayudarlo a superar el mal momento.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1856,6 +1887,7 @@
     "numero": 2,
     "titulo": "The Parkie Awards",
     "fecha_estreno": "2015-06-26",
+    "imdb_score": 8.3,
     "sinopsis": "El grupo compite por ganar un codiciado premio del parque, pero la competencia se vuelve feroz y llena de trampas.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1865,6 +1897,7 @@
     "numero": 3,
     "titulo": "The Lunch Club",
     "fecha_estreno": "2015-07-02",
+    "imdb_score": 8.6,
     "sinopsis": "Mordecai y Rigby intentan unirse a un club exclusivo de almuerzos, pero deben pasar una serie de pruebas absurdas.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1874,7 +1907,18 @@
     "numero": 4,
     "titulo": "Local News Legend",
     "fecha_estreno": "2015-07-09",
+    "imdb_score": 7.9,
     "sinopsis": "Pops se convierte en una sensación local tras aparecer en las noticias, pero la fama le trae problemas inesperados.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+  },
+  {
+    "id": "CAP013TEMP07",
+    "temporada": 7,
+    "numero": 13,
+    "titulo": "The Dome Experiment Special",
+    "fecha_estreno": "2015-12-10",
+    "imdb_score": 8.8,
+    "sinopsis": "El parque es encerrado en una cúpula para un experimento, y todos deben adaptarse a las nuevas reglas para sobrevivir.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
@@ -1883,6 +1927,7 @@
     "numero": 5,
     "titulo": "Birthday Gift",
     "fecha_estreno": "2015-07-16",
+    "imdb_score": 8.2,
     "sinopsis": "Mordecai y Rigby olvidan el cumpleaños de Skips y se embarcan en una misión para encontrar el regalo perfecto a último minuto.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1892,6 +1937,7 @@
     "numero": 6,
     "titulo": "Cat Videos",
     "fecha_estreno": "2015-07-23",
+    "imdb_score": 7.6,
     "sinopsis": "El grupo se obsesiona con videos de gatos en internet, pero pronto descubren que hay algo extraño detrás de ellos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1901,6 +1947,7 @@
     "numero": 7,
     "titulo": "Struck by Lightning",
     "fecha_estreno": "2015-07-30",
+    "imdb_score": 8.1,
     "sinopsis": "Muscle Man es alcanzado por un rayo y desarrolla habilidades extrañas, lo que causa caos en el parque.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1910,6 +1957,7 @@
     "numero": 8,
     "titulo": "Terror Tales of the Park V",
     "fecha_estreno": "2015-10-29",
+    "imdb_score": 8.8,
     "sinopsis": "El grupo cuenta nuevas historias de terror en Halloween, cada una más extraña y sobrenatural que la anterior.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1919,6 +1967,7 @@
     "numero": 9,
     "titulo": "The Return of Party Horse",
     "fecha_estreno": "2015-11-05",
+    "imdb_score": 7.3,
     "sinopsis": "Party Horse regresa al parque buscando ayuda para salvar su planeta, involucrando a todos en una aventura espacial.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1928,6 +1977,7 @@
     "numero": 10,
     "titulo": "Sleep Cycle",
     "fecha_estreno": "2015-11-12",
+    "imdb_score": 8.4,
     "sinopsis": "Mordecai y Rigby intentan arreglar su ciclo de sueño, pero terminan atrapados en un bucle de pesadillas.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1937,6 +1987,7 @@
     "numero": 11,
     "titulo": "Just Friends",
     "fecha_estreno": "2015-11-19",
+    "imdb_score": 8.2,
     "sinopsis": "Mordecai y Margaret se reencuentran y deben decidir si pueden ser solo amigos o si aún hay sentimientos entre ellos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1946,18 +1997,50 @@
     "numero": 12,
     "titulo": "Benson's Pig",
     "fecha_estreno": "2015-12-03",
+    "imdb_score": 7.9,
     "sinopsis": "Benson adopta un cerdo como mascota, pero el animal resulta ser más problemático de lo que esperaba.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP013TEMP07",
+    "id": "CAP023TEMP07",
     "temporada": 7,
-    "numero": 13,
-    "titulo": "The Dome Experiment Special",
-    "fecha_estreno": "2015-12-10",
-    "sinopsis": "El parque es encerrado en una cúpula para un experimento, y todos deben adaptarse a las nuevas reglas para sobrevivir.",
+    "numero": 23,
+    "titulo": "The Eileen Plan",
+    "fecha_estreno": "2016-03-10",
+    "sinopsis": "Eileen elabora un plan para mejorar el parque, pero sus ideas generan situaciones inesperadas.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
+  {
+    "id": "CAP024TEMP07",
+    "temporada": 7,
+    "numero": 24,
+    "titulo": "Hello China",
+    "fecha_estreno": "2016-03-17",
+    "sinopsis": "Mordecai viaja a China para aprender sobre la cultura y termina enredado en una aventura internacional.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+  },
+  {
+    "id": "CAP025TEMP07",
+    "temporada": 7,
+    "numero": 25,
+    "titulo": "Crazy Fake Plan",
+    "fecha_estreno": "2016-03-24",
+    "sinopsis": "El grupo idea un plan falso para engañar a un rival, pero las cosas se salen de control rápidamente.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+  },
+
+
+
+  {
+    "id": "CAP026TEMP07",
+    "temporada": 7,
+    "numero": 26,
+    "titulo": "Gary's Synthesizer",
+    "fecha_estreno": "2016-03-31",
+    "sinopsis": "Gary pierde su sintetizador y pide ayuda a Mordecai y Rigby para recuperarlo antes de un concierto importante.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+  },
+
   {
     "id": "CAP014TEMP07",
     "temporada": 7,
@@ -2039,42 +2122,10 @@
     "sinopsis": "Rigby es invitado a un baile de graduación y pide ayuda a sus amigos para no hacer el ridículo.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
-  {
-    "id": "CAP023TEMP07",
-    "temporada": 7,
-    "numero": 23,
-    "titulo": "The Eileen Plan",
-    "fecha_estreno": "2016-03-10",
-    "sinopsis": "Eileen elabora un plan para mejorar el parque, pero sus ideas generan situaciones inesperadas.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP024TEMP07",
-    "temporada": 7,
-    "numero": 24,
-    "titulo": "Hello China",
-    "fecha_estreno": "2016-03-17",
-    "sinopsis": "Mordecai viaja a China para aprender sobre la cultura y termina enredado en una aventura internacional.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP025TEMP07",
-    "temporada": 7,
-    "numero": 25,
-    "titulo": "Crazy Fake Plan",
-    "fecha_estreno": "2016-03-24",
-    "sinopsis": "El grupo idea un plan falso para engañar a un rival, pero las cosas se salen de control rápidamente.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP026TEMP07",
-    "temporada": 7,
-    "numero": 26,
-    "titulo": "Gary's Synthesizer",
-    "fecha_estreno": "2016-03-31",
-    "sinopsis": "Gary pierde su sintetizador y pide ayuda a Mordecai y Rigby para recuperarlo antes de un concierto importante.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
+  
+  
+  
+  
   {
     "id": "CAP001TEMP08",
     "temporada": 8,
