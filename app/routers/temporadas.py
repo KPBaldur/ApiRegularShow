@@ -30,7 +30,7 @@ def capitulos_por_temporada():
 def top_10_capitulos_imdb():
     capitulos = data_manager.get_data("capitulos")
     capitulos_ordenados = sorted(
-        capitulos, key=lambda c: c.get("imbdb_score", 0), reverse=True
+        capitulos, key=lambda c: c.get("imdb_score", 0), reverse=True
     )
     return capitulos_ordenados[:10]
 
