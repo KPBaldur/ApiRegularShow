@@ -855,6 +855,7 @@
     "numero": 1,
     "titulo": "Exit 9B",
     "fecha_estreno": "2012-10-01",
+    "imdb_score": 9.7,
     "sinopsis": "Un villano del pasado regresa para destruir el parque y los empleados deben unir fuerzas para salvarlo de la desaparición.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -864,6 +865,7 @@
     "numero": 2,
     "titulo": "Starter Pack",
     "fecha_estreno": "2012-10-08",
+    "imdb_score": 7.3,
     "sinopsis": "Mordecai y Rigby compran un paquete de inicio para adultos, pero terminan atrapados en una rutina aburrida y monótona.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -873,6 +875,7 @@
     "numero": 3,
     "titulo": "Terror Tales of the Park II",
     "fecha_estreno": "2012-10-15",
+    "imdb_score": 8.8,
     "sinopsis": "Los empleados del parque cuentan nuevas historias de terror durante Halloween, cada una con un giro sobrenatural.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -882,6 +885,7 @@
     "numero": 4,
     "titulo": "Pie Contest",
     "fecha_estreno": "2012-10-22",
+    "imdb_score": 7.9,
     "sinopsis": "Mordecai y Rigby participan en un concurso de pasteles, pero la competencia se vuelve peligrosa y fuera de control.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -891,6 +895,7 @@
     "numero": 5,
     "titulo": "150 Piece Kit",
     "fecha_estreno": "2012-10-29",
+    "imdb_score": 8.9,
     "sinopsis": "Mordecai y Rigby compran un kit de herramientas, pero armarlo resulta ser una tarea mucho más difícil de lo esperado.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -900,6 +905,7 @@
     "numero": 6,
     "titulo": "Bald Spot",
     "fecha_estreno": "2012-11-05",
+    "imdb_score": 6.8,
     "sinopsis": "Muscle Man descubre que tiene una calva y hará todo lo posible para ocultarla antes de su boda.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -909,6 +915,7 @@
     "numero": 7,
     "titulo": "Guy's Night",
     "fecha_estreno": "2012-11-12",
+    "imdb_score": 8.3,
     "sinopsis": "Benson organiza una noche de chicos, pero la diversión se complica cuando deciden ir a un club exclusivo.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -918,6 +925,7 @@
     "numero": 8,
     "titulo": "One Pull Up",
     "fecha_estreno": "2012-11-19",
+    "imdb_score": 8.6,
     "sinopsis": "Rigby intenta hacer una sola dominada para impresionar a los demás, pero se enfrenta a un reto inesperado.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -927,6 +935,7 @@
     "numero": 9,
     "titulo": "The Christmas Special",
     "fecha_estreno": "2012-12-03",
+    "imdb_score": 9.4,
     "sinopsis": "El parque debe proteger un regalo especial de Navidad que podría salvar el mundo de una gran amenaza.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -936,6 +945,7 @@
     "numero": 10,
     "titulo": "T.G.I. Tuesday",
     "fecha_estreno": "2012-12-10",
+    "imdb_score": 8.8,
     "sinopsis": "Mordecai y Rigby intentan hacer que los martes sean más divertidos, pero sus planes se salen de control.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -945,6 +955,7 @@
     "numero": 11,
     "titulo": "Firework Run",
     "fecha_estreno": "2013-01-07",
+    "imdb_score": 8.3,
     "sinopsis": "El grupo debe conseguir fuegos artificiales para una fiesta, enfrentándose a una peligrosa banda rival.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -954,6 +965,7 @@
     "numero": 12,
     "titulo": "The Longest Weekend",
     "fecha_estreno": "2013-01-14",
+    "imdb_score": 6.7,
     "sinopsis": "Muscle Man y Starla intentan pasar un fin de semana juntos, pero los amigos de Muscle Man complican sus planes.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -963,6 +975,7 @@
     "numero": 13,
     "titulo": "Sandwich of Death",
     "fecha_estreno": "2013-01-21",
+    "imdb_score": 9.0,
     "sinopsis": "Mordecai y Rigby deben conseguir un sándwich especial para salvar a Benson de un destino mortal.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -972,6 +985,7 @@
     "numero": 14,
     "titulo": "Ace Balthazar Lives",
     "fecha_estreno": "2013-01-28",
+    "imdb_score": 7.7,
     "sinopsis": "Mordecai y Rigby intentan demostrar que una leyenda urbana sobre un rockero es real.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -981,6 +995,7 @@
     "numero": 15,
     "titulo": "Do or Diaper",
     "fecha_estreno": "2013-02-04",
+    "imdb_score": 8.2,
     "sinopsis": "Benson hace una apuesta con Mordecai y Rigby: si no terminan su trabajo, deberán usar pañales por un día.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -990,6 +1005,7 @@
     "numero": 16,
     "titulo": "Quips",
     "fecha_estreno": "2013-02-11",
+    "imdb_score": 7.1,
     "sinopsis": "El primo de Skips, Quips, visita el parque y causa problemas con sus bromas constantes.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -999,6 +1015,7 @@
     "numero": 17,
     "titulo": "Caveman",
     "fecha_estreno": "2013-02-18",
+    "imdb_score": 7.6,
     "sinopsis": "Mordecai y Rigby encuentran a un cavernícola congelado y tratan de adaptarlo a la vida moderna.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1008,6 +1025,7 @@
     "numero": 18,
     "titulo": "That's My Television",
     "fecha_estreno": "2013-02-25",
+    "imdb_score": 8.1,
     "sinopsis": "Mordecai y Rigby intentan recuperar un televisor antiguo que tiene un valor sentimental para Pops.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1017,6 +1035,7 @@
     "numero": 19,
     "titulo": "A Bunch of Full Grown Geese",
     "fecha_estreno": "2013-03-04",
+    "imdb_score": 9.4,
     "sinopsis": "El parque es invadido por gansos agresivos y los empleados deben encontrar la forma de expulsarlos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1026,6 +1045,7 @@
     "numero": 20,
     "titulo": "Fool Me Twice",
     "fecha_estreno": "2013-03-11",
+    "imdb_score": 8.3,
     "sinopsis": "Mordecai y Rigby planean una gran broma para el Día de los Inocentes, pero las cosas se complican.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1035,6 +1055,7 @@
     "numero": 21,
     "titulo": "Limousine Lunchtime",
     "fecha_estreno": "2013-03-18",
+    "imdb_score": 8.0,
     "sinopsis": "Mordecai y Rigby alquilan una limusina para almorzar, pero el paseo se convierte en una aventura peligrosa.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1044,6 +1065,7 @@
     "numero": 22,
     "titulo": "Picking Up Margaret",
     "fecha_estreno": "2013-03-25",
+    "imdb_score": 9.0,
     "sinopsis": "Mordecai y Rigby ayudan a Margaret a mudarse, pero el día se complica con una serie de obstáculos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1053,6 +1075,7 @@
     "numero": 23,
     "titulo": "K.I.L.I.T. Radio",
     "fecha_estreno": "2013-04-01",
+    "imdb_score": 7.8,
     "sinopsis": "El grupo intenta ganar un concurso de radio, pero deben enfrentarse a desafíos absurdos para lograrlo.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1062,6 +1085,7 @@
     "numero": 24,
     "titulo": "Carter and Briggs",
     "fecha_estreno": "2013-04-08",
+    "imdb_score": 8.0,
     "sinopsis": "Mordecai y Rigby se obsesionan con una serie de televisión y terminan involucrados en una aventura similar a la del show.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1071,6 +1095,7 @@
     "numero": 25,
     "titulo": "Skips' Stress",
     "fecha_estreno": "2013-04-15",
+    "imdb_score": 8.8,
     "sinopsis": "Skips sufre de estrés y los demás intentan ayudarlo a relajarse, pero sus métodos no funcionan como esperaban.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1080,6 +1105,7 @@
     "numero": 26,
     "titulo": "Cool Cubed",
     "fecha_estreno": "2013-04-22",
+    "imdb_score": 7.5,
     "sinopsis": "Mordecai y Rigby intentan ser más geniales usando un cubo especial, pero terminan en problemas.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1089,6 +1115,7 @@
     "numero": 27,
     "titulo": "Trailer Trashed",
     "fecha_estreno": "2013-04-29",
+    "imdb_score": 7.8,
     "sinopsis": "El grupo debe limpiar un tráiler abandonado, pero descubren que está embrujado.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1098,6 +1125,7 @@
     "numero": 28,
     "titulo": "Meteor Moves",
     "fecha_estreno": "2013-05-06",
+    "imdb_score": 9.1,
     "sinopsis": "Mordecai busca el valor para invitar a Margaret a bailar durante una lluvia de meteoritos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1107,6 +1135,7 @@
     "numero": 29,
     "titulo": "Family BBQ",
     "fecha_estreno": "2013-05-13",
+    "imdb_score": 8.9,
     "sinopsis": "Benson organiza una barbacoa familiar en el parque, pero la reunión se sale de control.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1116,6 +1145,7 @@
     "numero": 30,
     "titulo": "The Last Laserdisc Player",
     "fecha_estreno": "2013-05-20",
+    "imdb_score": 9.0,
     "sinopsis": "Mordecai y Rigby buscan el último reproductor de Laserdisc para ver una película rara.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1125,6 +1155,7 @@
     "numero": 31,
     "titulo": "Country Club",
     "fecha_estreno": "2013-06-03",
+    "imdb_score": 7.7,
     "sinopsis": "El grupo intenta entrar a un club campestre exclusivo, enfrentando desafíos absurdos para lograrlo.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1134,6 +1165,7 @@
     "numero": 32,
     "titulo": "Blind Trust",
     "fecha_estreno": "2013-06-10",
+    "imdb_score": 8.4,
     "sinopsis": "Mordecai y Rigby deben confiar ciegamente el uno en el otro para completar una tarea importante.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1143,6 +1175,7 @@
     "numero": 33,
     "titulo": "World's Best Boss",
     "fecha_estreno": "2013-06-17",
+    "imdb_score": 7.9,
     "sinopsis": "Benson compite por el título de mejor jefe del mundo, pero la competencia es más dura de lo que esperaba.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1152,6 +1185,7 @@
     "numero": 34,
     "titulo": "Last Meal",
     "fecha_estreno": "2013-06-24",
+    "imdb_score": 7.3,
     "sinopsis": "Mordecai y Rigby creen que será su última comida antes de enfrentar un gran peligro en el parque.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1161,6 +1195,7 @@
     "numero": 35,
     "titulo": "Sleep Fighter",
     "fecha_estreno": "2013-07-01",
+    "imdb_score": 7.9,
     "sinopsis": "El grupo compite en una batalla de lucha libre mientras duermen, sin recordar nada al despertar.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1170,6 +1205,7 @@
     "numero": 36,
     "titulo": "Party Re-Pete",
     "fecha_estreno": "2013-07-08",
+    "imdb_score": 7.9,
     "sinopsis": "Mordecai y Rigby intentan recrear la mejor fiesta de la historia, pero nada sale como antes.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1179,6 +1215,7 @@
     "numero": 37,
     "titulo": "Steak Me Amadeus",
     "fecha_estreno": "2013-08-12",
+    "imdb_score": 9.3,
     "sinopsis": "Mordecai planea una cita especial con Margaret, pero una serie de obstáculos pone en riesgo su relación.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1188,6 +1225,7 @@
     "numero": 1,
     "titulo": "Laundry Woes",
     "fecha_estreno": "2013-09-02",
+    "imdb_score": 8.8,
     "sinopsis": "Mordecai y Rigby intentan lavar su ropa antes de que Margaret regrese, pero la lavadora se convierte en un problema mayor.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1197,6 +1235,7 @@
     "numero": 2,
     "titulo": "Silver Dude",
     "fecha_estreno": "2013-09-02",
+    "imdb_score": 7.8,
     "sinopsis": "El grupo encuentra una estatua de plata que les concede deseos, pero pronto descubren que tiene un precio oculto.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1206,6 +1245,7 @@
     "numero": 3,
     "titulo": "Benson's Car",
     "fecha_estreno": "2013-09-09",
+    "imdb_score": 7.9,
     "sinopsis": "Mordecai y Rigby dañan el auto de Benson y deben repararlo antes de que él se entere.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1215,6 +1255,7 @@
     "numero": 4,
     "titulo": "Every Meat Burritos",
     "fecha_estreno": "2013-09-16",
+    "imdb_score": 7.9,
     "sinopsis": "Mordecai y Rigby buscan el legendario burrito con todas las carnes, enfrentando desafíos absurdos en el camino.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1224,6 +1265,7 @@
     "numero": 5,
     "titulo": "Wall Buddy",
     "fecha_estreno": "2013-09-23",
+    "imdb_score": 7.2,
     "sinopsis": "El grupo instala un sistema de organización en la pared, pero la tecnología se vuelve en su contra.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1233,6 +1275,7 @@
     "numero": 6,
     "titulo": "A Skips in Time",
     "fecha_estreno": "2013-09-30",
+    "imdb_score": 8.9,
     "sinopsis": "Skips viaja en el tiempo para corregir un error del pasado, pero las cosas se complican aún más.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1242,6 +1285,7 @@
     "numero": 7,
     "titulo": "Survival Skills",
     "fecha_estreno": "2013-10-07",
+    "imdb_score": 8.3,
     "sinopsis": "Benson lleva al grupo a un campamento de supervivencia, pero nadie está preparado para los retos que enfrentan.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1251,6 +1295,7 @@
     "numero": 8,
     "titulo": "Terror Tales of the Park III",
     "fecha_estreno": "2013-10-14",
+    "imdb_score": 8.9,
     "sinopsis": "Los empleados del parque cuentan historias de terror en Halloween, cada una más extraña que la anterior.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1260,6 +1305,7 @@
     "numero": 9,
     "titulo": "Tants",
     "fecha_estreno": "2013-10-21",
+    "imdb_score": 7.8,
     "sinopsis": "Mordecai y Rigby compran pantalones de moda, pero terminan en una competencia de baile inesperada.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1269,6 +1315,7 @@
     "numero": 10,
     "titulo": "Bank Shot",
     "fecha_estreno": "2013-10-28",
+    "imdb_score": 9.0,
     "sinopsis": "Rigby se enfrenta a un jugador profesional de billar para salvar el parque de una gran deuda.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1278,6 +1325,7 @@
     "numero": 11,
     "titulo": "Power Tower",
     "fecha_estreno": "2013-11-04",
+    "imdb_score": 7.2,
     "sinopsis": "El grupo compite por el control de una torre de poder, pero la competencia se vuelve peligrosa.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1287,6 +1335,7 @@
     "numero": 12,
     "titulo": "The Thanksgiving Special",
     "fecha_estreno": "2013-11-25",
+    "imdb_score": 9.2,
     "sinopsis": "El parque celebra el Día de Acción de Gracias, pero una competencia culinaria pone en riesgo la festividad.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1296,6 +1345,7 @@
     "numero": 13,
     "titulo": "The Heart of a Stuntman",
     "fecha_estreno": "2013-12-02",
+    "imdb_score": 7.8,
     "sinopsis": "Muscle Man quiere convertirse en doble de acción y pone a prueba su valentía con un truco extremo.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1305,6 +1355,7 @@
     "numero": 14,
     "titulo": "New Year's Kiss",
     "fecha_estreno": "2013-12-31",
+    "imdb_score": 9.1,
     "sinopsis": "Mordecai espera besar a Margaret en Año Nuevo, pero una serie de obstáculos amenaza con arruinar el momento.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1314,6 +1365,7 @@
     "numero": 15,
     "titulo": "Dodge This",
     "fecha_estreno": "2014-01-13",
+    "imdb_score": 8.8,
     "sinopsis": "El grupo participa en un torneo de quemados, enfrentando a un equipo rival muy competitivo.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1323,6 +1375,7 @@
     "numero": 16,
     "titulo": "Portable Toilet",
     "fecha_estreno": "2014-01-20",
+    "imdb_score": 8.6,
     "sinopsis": "Mordecai y Rigby compran un baño portátil, pero descubren que esconde un portal a otra dimensión.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1332,6 +1385,7 @@
     "numero": 17,
     "titulo": "The Postcard",
     "fecha_estreno": "2014-01-27",
+    "imdb_score": 8.3,
     "sinopsis": "Mordecai recibe una postal de Margaret y se embarca en una misión para encontrarla.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
