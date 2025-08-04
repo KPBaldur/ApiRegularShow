@@ -1,5 +1,5 @@
 from pydantic import BaseModel, Field
-from typing import List
+from typing import List, Optional
 
 class Personaje(BaseModel):
     id: str = Field(..., description="ID único del personaje", example="CHARCT001")
