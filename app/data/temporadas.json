@@ -1,58 +1,58 @@
 [
   {
     "id": "TEMP01",
-    "numero_temporada": 1,
-    "numero_capitulos": 12,
+    "numero": 1,
     "anio_estreno": 2010,
-    "resumen": "Mordecai y Rigby, dos amigos flojos, trabajan en un parque y se meten en problemas surrealistas mientras intentan evitar el trabajo y divertirse. Se presentan los personajes principales y el tono absurdo de la serie."
+    "resumen": "Mordecai y Rigby, dos amigos flojos, trabajan en un parque y se meten en problemas surrealistas mientras intentan evitar el trabajo y divertirse. Se presentan los personajes principales y el tono absurdo de la serie.",
+    "capitulos": ["CAP001", "CAP002", "CAP003", "CAP004", "CAP005", "CAP006", "CAP007", "CAP008", "CAP009", "CAP010", "CAP011", "CAP012"]
   },
   {
     "id": "TEMP02",
-    "numero_temporada": 2,
-    "numero_capitulos": 28,
+    "numero": 2,
     "anio_estreno": 2010,
-    "resumen": "La serie profundiza en la vida de los personajes, sus relaciones y aventuras cada vez más extrañas. Se exploran temas de amistad, rivalidad y situaciones sobrenaturales en el parque."
+    "resumen": "La serie profundiza en la vida de los personajes, sus relaciones y aventuras cada vez más extrañas. Se exploran temas de amistad, rivalidad y situaciones sobrenaturales en el parque.",
+    "capitulos": ["CAP013", "CAP014", "CAP015", "CAP016", "CAP017", "CAP018", "CAP019", "CAP020", "CAP021", "CAP022", "CAP023", "CAP024", "CAP025", "CAP026", "CAP027", "CAP028", "CAP029", "CAP030", "CAP031", "CAP032", "CAP033", "CAP034", "CAP035", "CAP036", "CAP037", "CAP038", "CAP039", "CAP040"]
   },
   {
     "id": "TEMP03",
-    "numero_temporada": 3,
-    "numero_capitulos": 39,
+    "numero": 3,
     "anio_estreno": 2011,
-    "resumen": "Mordecai y Rigby enfrentan nuevos retos, desde torneos de videojuegos hasta viajes en el tiempo. Se desarrollan más los personajes secundarios y se introducen historias más complejas."
+    "resumen": "Mordecai y Rigby enfrentan nuevos retos, desde torneos de videojuegos hasta viajes en el tiempo. Se desarrollan más los personajes secundarios y se introducen historias más complejas.",
+    "capitulos": ["CAP041", "CAP042", "CAP043", "CAP044", "CAP045", "CAP046", "CAP047", "CAP048", "CAP049", "CAP050", "CAP051", "CAP052", "CAP053", "CAP054", "CAP055", "CAP056", "CAP057", "CAP058", "CAP059", "CAP060", "CAP061", "CAP062", "CAP063", "CAP064", "CAP065", "CAP066", "CAP067", "CAP068", "CAP069", "CAP070", "CAP071", "CAP072", "CAP073", "CAP074", "CAP075", "CAP076", "CAP077", "CAP078", "CAP079"]
   },
   {
     "id": "TEMP04",
-    "numero_temporada": 4,
-    "numero_capitulos": 37,
+    "numero": 4,
     "anio_estreno": 2012,
-    "resumen": "La dinámica del grupo cambia con la llegada de nuevos personajes y la evolución de las relaciones amorosas. El parque enfrenta amenazas cada vez más grandes y absurdas."
+    "resumen": "La dinámica del grupo cambia con la llegada de nuevos personajes y la evolución de las relaciones amorosas. El parque enfrenta amenazas cada vez más grandes y absurdas.",
+    "capitulos": ["CAP080", "CAP081", "CAP082", "CAP083", "CAP084", "CAP085", "CAP086", "CAP087", "CAP088", "CAP089", "CAP090", "CAP091", "CAP092", "CAP093", "CAP094", "CAP095", "CAP096", "CAP097", "CAP098", "CAP099", "CAP100", "CAP101", "CAP102", "CAP103", "CAP104", "CAP105", "CAP106", "CAP107", "CAP108", "CAP109", "CAP110", "CAP111", "CAP112", "CAP113", "CAP114", "CAP115", "CAP116"]
   },
   {
     "id": "TEMP05",
-    "numero_temporada": 5,
-    "numero_capitulos": 40,
+    "numero": 5,
     "anio_estreno": 2013,
-    "resumen": "Se exploran historias de origen, eventos especiales y cambios importantes en la vida de los personajes, como bodas y rupturas. La serie mantiene su humor y creatividad."
+    "resumen": "Se exploran historias de origen, eventos especiales y cambios importantes en la vida de los personajes, como bodas y rupturas. La serie mantiene su humor y creatividad.",
+    "capitulos": ["CAP117", "CAP118", "CAP119", "CAP120", "CAP121", "CAP122", "CAP123", "CAP124", "CAP125", "CAP126", "CAP127", "CAP128", "CAP129", "CAP130", "CAP131", "CAP132", "CAP133", "CAP134", "CAP135", "CAP136", "CAP137", "CAP138", "CAP139", "CAP140", "CAP141", "CAP142", "CAP143", "CAP144", "CAP145", "CAP146", "CAP147", "CAP148", "CAP149", "CAP150", "CAP151", "CAP152", "CAP153", "CAP154", "CAP155", "CAP156"]
   },
   {
     "id": "TEMP06",
-    "numero_temporada": 6,
-    "numero_capitulos": 28,
+    "numero": 6,
     "anio_estreno": 2014,
-    "resumen": "El parque vive nuevas aventuras, desde competencias hasta invasiones de patos y viajes internacionales. Los personajes enfrentan desafíos personales y grupales."
+    "resumen": "El parque vive nuevas aventuras, desde competencias hasta invasiones de patos y viajes internacionales. Los personajes enfrentan desafíos personales y grupales.",
+    "capitulos": ["CAP157", "CAP158", "CAP159", "CAP160", "CAP161", "CAP162", "CAP163", "CAP164", "CAP165", "CAP166", "CAP167", "CAP168", "CAP169", "CAP170", "CAP171", "CAP172", "CAP173", "CAP174", "CAP175", "CAP176", "CAP177", "CAP178", "CAP179", "CAP180", "CAP181", "CAP182", "CAP183", "CAP184"]
   },
   {
     "id": "TEMP07",
-    "numero_temporada": 7,
-    "numero_capitulos": 26,
+    "numero": 7,
     "anio_estreno": 2015,
-    "resumen": "La serie se acerca a su final con historias más maduras, reencuentros, despedidas y la preparación para el desenlace épico."
+    "resumen": "La serie se acerca a su final con historias más maduras, reencuentros, despedidas y la preparación para el desenlace épico.",
+    "capitulos": ["CAP185", "CAP186", "CAP187", "CAP188", "CAP189", "CAP190", "CAP191", "CAP192", "CAP193", "CAP194", "CAP195", "CAP196", "CAP197", "CAP198", "CAP199", "CAP200", "CAP201", "CAP202", "CAP203", "CAP204", "CAP205", "CAP206", "CAP207", "CAP208", "CAP209", "CAP210"]
   },
   {
     "id": "TEMP08",
-    "numero_temporada": 8,
-    "numero_capitulos": 22,
+    "numero": 8,
     "anio_estreno": 2016,
-    "resumen": "El parque y sus empleados son enviados al espacio, enfrentando desafíos cósmicos y una batalla final que define el destino de todos. La serie concluye con un cierre emotivo y épico."
+    "resumen": "El parque y sus empleados son enviados al espacio, enfrentando desafíos cósmicos y una batalla final que define el destino de todos. La serie concluye con un cierre emotivo y épico.",
+    "capitulos": ["CAP211", "CAP212", "CAP213", "CAP214", "CAP215", "CAP216", "CAP217", "CAP218", "CAP219", "CAP220", "CAP221", "CAP222", "CAP223", "CAP224", "CAP225", "CAP226", "CAP227", "CAP228", "CAP229", "CAP230", "CAP231", "CAP232"]
   }
 ]
