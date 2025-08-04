@@ -174,7 +174,7 @@
         "nombre_latino": "Anti-Papaleta",
         "raza": "Hombre-paleta",
         "profesion": "Destructor del universo",
-        "capitulo_aparicion": "The Ice Tape (S08E18)",
+        "capitulo_aparicion": "The Dream Warrior (S08E18)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Antagonista",
         "imagen_url": "https://i.imgur.com/ho2hWDT.png"
@@ -404,7 +404,7 @@
         "nombre_latino": "Fantasmón",
         "raza": "Fantasma",
         "profesion": "Oficial de policia",
-        "capitulo_aparicion": "High Score (S02E07)",
+        "capitulo_aparicion": "See you There (S02E17)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/kWkUhwj.png"
@@ -423,9 +423,9 @@
     },
     {
         "id": "CHARCT036",
-        "nombre": "Benson's Mom (Mamá de Benson)",
-        "nombre_ingles": "Benson's Mom",
-        "nombre_latino": "Mamá de Benson",
+        "nombre": "Sra. Dunwoody",
+        "nombre_ingles": "Sra. Dunwoody",
+        "nombre_latino": "Sra. Dunwoody",
         "raza": "Máquina de chicles",
         "profesion": "Madre de Benson",
         "capitulo_aparicion": "The Thanksgiving Special (S05E16)",
