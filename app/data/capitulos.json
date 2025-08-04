@@ -1395,6 +1395,7 @@
     "numero": 18,
     "titulo": "Rigby in the Sky with Burrito",
     "fecha_estreno": "2014-02-10",
+    "imdb_score": 7.8,
     "sinopsis": "Rigby come un burrito gigante y tiene una experiencia surrealista en el cielo.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1404,6 +1405,7 @@
     "numero": 19,
     "titulo": "Journey to the Bottom of the Crash Pit",
     "fecha_estreno": "2014-02-17",
+    "imdb_score": 8.0,
     "sinopsis": "El grupo explora un pozo misterioso en el parque y descubre secretos ocultos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1413,6 +1415,7 @@
     "numero": 20,
     "titulo": "Saving Time",
     "fecha_estreno": "2014-02-24",
+    "imdb_score": 8.3,
     "sinopsis": "Mordecai y Rigby intentan ahorrar tiempo usando un reloj especial, pero las cosas se complican.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1422,6 +1425,7 @@
     "numero": 21,
     "titulo": "Guitar of Rock",
     "fecha_estreno": "2014-03-03",
+    "imdb_score": 8.3,
     "sinopsis": "Mordecai y Rigby encuentran una guitarra legendaria que les otorga poderes musicales extraordinarios.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1431,6 +1435,7 @@
     "numero": 22,
     "titulo": "Skips' Story",
     "fecha_estreno": "2014-03-10",
+    "imdb_score": 9.6,
     "sinopsis": "Skips revela su pasado y la razón de su inmortalidad en una emotiva historia.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1440,6 +1445,7 @@
     "numero": 23,
     "titulo": "Return of Mordecai and the Rigbys",
     "fecha_estreno": "2014-03-17",
+    "imdb_score": 8.1,
     "sinopsis": "Mordecai y Rigby intentan revivir su antigua banda para un concurso musical en el parque.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1449,6 +1455,7 @@
     "numero": 24,
     "titulo": "Bad Portrait",
     "fecha_estreno": "2014-03-24",
+    "imdb_score": 7.9,
     "sinopsis": "Mordecai y Rigby destruyen accidentalmente un retrato importante y deben reemplazarlo antes de que Benson lo note.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1458,6 +1465,7 @@
     "numero": 25,
     "titulo": "Video 101",
     "fecha_estreno": "2014-03-31",
+    "imdb_score": 7.9,
     "sinopsis": "El grupo toma una clase de video para mejorar sus habilidades, pero la tarea final se sale de control.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1467,6 +1475,7 @@
     "numero": 26,
     "titulo": "I Like You Hi",
     "fecha_estreno": "2014-04-07",
+    "imdb_score": 8.8,
     "sinopsis": "Rigby se enamora de una chica nueva y hace todo lo posible para impresionarla.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1476,6 +1485,7 @@
     "numero": 27,
     "titulo": "Play Date",
     "fecha_estreno": "2014-04-14",
+    "imdb_score": 8.7,
     "sinopsis": "Mordecai y Rigby cuidan a la hija de un amigo, pero la tarea resulta ser más difícil de lo esperado.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1485,6 +1495,7 @@
     "numero": 28,
     "titulo": "Expert or Liar",
     "fecha_estreno": "2014-04-21",
+    "imdb_score": 8.1,
     "sinopsis": "El grupo participa en un concurso de conocimientos, pero deben demostrar si son expertos o mentirosos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1494,6 +1505,7 @@
     "numero": 29,
     "titulo": "Catching the Wave",
     "fecha_estreno": "2014-04-28",
+    "imdb_score": 7.6,
     "sinopsis": "Mordecai y Rigby intentan aprender a surfear para impresionar a sus amigos en la playa.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1503,6 +1515,7 @@
     "numero": 30,
     "titulo": "Gold Watch",
     "fecha_estreno": "2014-05-05",
+    "imdb_score": 8.6,
     "sinopsis": "Benson pierde su reloj de oro y el grupo lo ayuda a buscarlo por todo el parque.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1512,6 +1525,7 @@
     "numero": 31,
     "titulo": "Paint Job",
     "fecha_estreno": "2014-05-12",
+    "imdb_score": 7.7,
     "sinopsis": "Mordecai y Rigby deben pintar una casa, pero el trabajo se convierte en una competencia caótica.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1521,6 +1535,7 @@
     "numero": 32,
     "titulo": "Take the Cake",
     "fecha_estreno": "2014-05-19",
+    "imdb_score": 8.0,
     "sinopsis": "El grupo compite por el último pedazo de pastel en una fiesta, desatando una guerra de postres.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1530,6 +1545,7 @@
     "numero": 33,
     "titulo": "Skips in the Saddle",
     "fecha_estreno": "2014-06-02",
+    "imdb_score": 7.9,
     "sinopsis": "Skips debe montar un toro mecánico para salvar el parque de una apuesta peligrosa.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1539,6 +1555,7 @@
     "numero": 34,
     "titulo": "Thomas Fights Back",
     "fecha_estreno": "2014-06-09",
+    "imdb_score": 8.6,
     "sinopsis": "Thomas se enfrenta a un enemigo del pasado y demuestra su verdadero valor al grupo.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1548,6 +1565,7 @@
     "numero": 35,
     "titulo": "Bachelor Party! Zingo!!",
     "fecha_estreno": "2014-06-16",
+    "imdb_score": 7.6,
     "sinopsis": "El grupo organiza una despedida de soltero para Muscle Man, pero la fiesta se sale de control.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1557,6 +1575,7 @@
     "numero": 36,
     "titulo": "Tent Trouble",
     "fecha_estreno": "2014-06-23",
+    "imdb_score": 7.4,
     "sinopsis": "Mordecai y Rigby intentan armar una tienda de campaña, pero terminan atrapados en una dimensión alterna.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1566,6 +1585,7 @@
     "numero": 37,
     "titulo": "Real Date",
     "fecha_estreno": "2014-08-14",
+    "imdb_score": 8.9,
     "sinopsis": "Mordecai y CJ finalmente tienen una cita real, pero una serie de eventos desafortunados pone a prueba su relación.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
