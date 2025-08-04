@@ -592,9 +592,9 @@
     },
     {
         "id": "CHARCT050",
-        "nombre": "The Astronauts (Los Astronautas)",
-        "nombre_ingles": "The Astronauts",
-        "nombre_latino": "Los Astronautas",
+        "nombre": "Jones / Barry",
+        "nombre_ingles": "Jones / Barry",
+        "nombre_latino": "Jones / Barry",
         "raza": "Humanos",
         "profesion": "Astronautas",
         "capitulo_aparicion": "Grilled Cheese Deluxe (S01E07)",
