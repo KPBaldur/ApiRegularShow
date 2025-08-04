@@ -26,13 +26,23 @@ def capitulos_por_temporada():
         })
     return resultado
 
-@router.get("/top-imdb", response_model=List[Capitulo])
-def top_10_capitulos_imdb():
+@router.get("/mejor-capitulo-por-temporada", response_model=List[Capitulo])
+def mejor_capitulo_por_temporada():
     capitulos = data_manager.get_data("capitulos")
-    capitulos_ordenados = sorted(
-        capitulos, key=lambda c: c.get("imdb_score", 0), reverse=True
-    )
-    return capitulos_ordenados[:10]
+    mejores_por_temporada = {}
+
+    for cap in capitulos:
+        num_temp = cap.get("temporada")
+        if num_temp is None:
+            continue
+
+        score = cap.get("imdb_score", 0)
+        if num_temp not in mejores_por_temporada or score > mejores_por_temporada[num_temp]["imdb_score"]:
+            mejores_por_temporada[num_temp] = cap
+
+    # Ordenar por número de temporada
+    return [mejores_por_temporada[temp] for temp in sorted(mejores_por_temporada.keys())]
+
 
 @router.get("/", response_model=List[Temporada])
 def obtener_temporadas(
