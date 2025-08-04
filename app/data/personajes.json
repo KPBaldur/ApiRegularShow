@@ -299,7 +299,11 @@
         "estado": "Vivo",
         "tipo_personaje": "Antagonista",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "imagen_url": "https://i.imgur.com/gDJ40xq.png"
+=======
+        "imagen_url": "https://i.imgur.com/placeholder.png"
+>>>>>>> Stashed changes
 =======
         "imagen_url": "https://i.imgur.com/placeholder.png"
 >>>>>>> Stashed changes
@@ -545,7 +549,11 @@
         "estado": "Desconocido",
         "tipo_personaje": "Secundario",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         "imagen_url": "https://i.imgur.com/OOQHMa3.png"
+=======
+        "imagen_url": "https://i.imgur.com/placeholder.png"
+>>>>>>> Stashed changes
 =======
         "imagen_url": "https://i.imgur.com/placeholder.png"
 >>>>>>> Stashed changes
