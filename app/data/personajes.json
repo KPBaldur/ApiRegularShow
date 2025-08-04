@@ -97,7 +97,7 @@
     },
     {
         "id": "CHARCT009",
-        "nombre": "Margaret (Margaret)",
+        "nombre": "Margarita (Margaret)",
         "nombre_ingles": "Margaret",
         "nombre_latino": "Margarita",
         "raza": "Cardenal",
@@ -121,9 +121,9 @@
     },
     {
         "id": "CHARCT011",
-        "nombre": "CJ (CJ / Nube)",
+        "nombre": "CJ (CJ / CJ)",
         "nombre_ingles": "CJ",
-        "nombre_latino": "Nube",
+        "nombre_latino": "CJ",
         "raza": "Nube antropomórfica",
         "profesion": "Estudiante, luego novia de Mordecai",
         "capitulo_aparicion": "Yes Dude Yes (S04E25)",
@@ -137,7 +137,7 @@
         "nombre_ingles": "Starla",
         "nombre_latino": "Starla",
         "raza": "Humana robusta",
-        "profesion": "Guardabosques del parque, esposa de Musculoso",
+        "profesion": "Trabajadora independiente, esposa de Musculoso",
         "capitulo_aparicion": "Muscle Woman (S02E14)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
         "tipo_personaje": "Secundario",
@@ -161,7 +161,7 @@
         "nombre_ingles": "Muscle Dad",
         "nombre_latino": "Papá Musculoso",
         "raza": "Humanoide verde",
-        "profesion": "Conductor de carretilla",
+        "profesion": "Operador de montacargas",
         "capitulo_aparicion": "Muscle Mentor (S03E22)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
@@ -225,7 +225,7 @@
         "capitulo_aparicion": "Don (S01E10)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
-        "imagen_url": "https://i.imgur.com/9PkhFBP.pngx"
+        "imagen_url": "https://i.imgur.com/9PkhFBP.png"
     },
     {
         "id": "CHARCT020",
@@ -245,8 +245,8 @@
         "nombre_ingles": "Susan",
         "nombre_latino": "Susan",
         "raza": "Humana",
-        "profesion": "Novia de Don",
-        "capitulo_aparicion": "Don (S01E10)",
+        "profesion": "Ex-gerente del parque",
+        "capitulo_aparicion": "Benson Be Gone (S02E11)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/0XOoB7h.png"
@@ -257,8 +257,8 @@
         "nombre_ingles": "Chance Sureshot",
         "nombre_latino": "Chance Sureshot",
         "raza": "Humano",
-        "profesion": "Cazador de recompensas",
-        "capitulo_aparicion": "Exit 9B (S04E01)",
+        "profesion": "Soldado del Arbol Espacial",
+        "capitulo_aparicion": "Cool Brobots (S08E02)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/l7MYrb0.png"
@@ -270,7 +270,7 @@
         "nombre_latino": "Gene",
         "raza": "Máquina de sodas",
         "profesion": "Gerente del parque rival",
-        "capitulo_aparicion": "Benson Be Gone (S02E11)",
+        "capitulo_aparicion": "Prankless (S03E35)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Antagonista",
         "imagen_url": "https://i.imgur.com/ujgFNMD.png"
@@ -282,7 +282,7 @@
         "nombre_latino": "Audrey",
         "raza": "Humana",
         "profesion": "Desconocido",
-        "capitulo_aparicion": "Benson's Girlfriend (S02E12)",
+        "capitulo_aparicion": "Weekends at Benson's (S03E12)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/2gr8mS7.png"
@@ -293,11 +293,16 @@
         "nombre_ingles": "Huge Head",
         "nombre_latino": "Huge Head",
         "raza": "Humano",
-        "profesion": "Luchador",
-        "capitulo_aparicion": "Tent Trouble (S05E36)",
+        "profesion": "Ex-Luchador",
+        "capitulo_aparicion": "Really Real Wrestling (S02E20)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Antagonista",
+<<<<<<< Updated upstream
         "imagen_url": "https://i.imgur.com/gDJ40xq.png"
+=======
+        "imagen_url": "https://i.imgur.com/placeholder.png"
+>>>>>>> Stashed changes
     },
     {
         "id": "CHARCT026",
@@ -326,12 +331,12 @@
     },
     {
         "id": "CHARCT028",
-        "nombre": "CJ's Dad (Papá de CJ)",
-        "nombre_ingles": "CJ's Dad",
-        "nombre_latino": "Papá de CJ",
-        "raza": "Nube",
-        "profesion": "Padre de CJ",
-        "capitulo_aparicion": "Dumptown U.S.A. (S07E01)",
+        "nombre": "Carl Putter (Papá de CJ)",
+        "nombre_ingles": "Carl Putter",
+        "nombre_latino": "Carl Putter",
+        "raza": "Nube Humanoide",
+        "profesion": "Padre de CJ y Golfista profesional",
+        "capitulo_aparicion": "Daddy Issues (S06E03)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/GQQubg2.png"
@@ -342,8 +347,8 @@
         "nombre_ingles": "Quips",
         "nombre_latino": "Chistes",
         "raza": "Humano",
-        "profesion": "Tío de Papaleta",
-        "capitulo_aparicion": "Quips (S02E17)",
+        "profesion": "Payaso",
+        "capitulo_aparicion": "Quips (S02E16)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/m5uHKHU.png"
@@ -355,7 +360,7 @@
         "nombre_latino": "Dr. Henry",
         "raza": "Humano",
         "profesion": "Doctor",
-        "capitulo_aparicion": "The End of Muscle Man (S06E05)",
+        "capitulo_aparicion": "Cool Cubed (S04E26)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/Pq9W88I.png"
@@ -365,9 +370,9 @@
         "nombre": "Stef (Stef)",
         "nombre_ingles": "Stef",
         "nombre_latino": "Stef",
-        "raza": "Topo",
-        "profesion": "Amiga de Eileen",
-        "capitulo_aparicion": "Eileen Flat Screen (S06E07)",
+        "raza": "Murcielago antropomorfico",
+        "profesion": "Artista",
+        "capitulo_aparicion": "A Regular Epi Final Battle part 2(S08E27)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/G99Rf1E.png"
@@ -378,8 +383,8 @@
         "nombre_ingles": "Pam",
         "nombre_latino": "Pam",
         "raza": "Humana",
-        "profesion": "Novia de Benson",
-        "capitulo_aparicion": "Pam I Am (S07E18)",
+        "profesion": "Cientifica",
+        "capitulo_aparicion": "The Dome experiment special (S07E05)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/1tAFWHR.png"
@@ -389,9 +394,9 @@
         "nombre": "Gary (Gary)",
         "nombre_ingles": "Gary",
         "nombre_latino": "Gary",
-        "raza": "Ser Interestelar",
-        "profesion": "Rey de Sintos",
-        "capitulo_aparicion": "It's Time (S02E02)",
+        "raza": "Synthediano",
+        "profesion": "Monarca de Synthos, Mensajero y chofer de los Guardianes de la Eterna Juventud, Abogado.",
+        "capitulo_aparicion": "Free Cake (S01E05)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/BGz9zSA.png"
@@ -402,7 +407,7 @@
         "nombre_ingles": "Low Five Ghost",
         "nombre_latino": "Fantasmón",
         "raza": "Fantasma",
-        "profesion": "Hermano de Fantasmín",
+        "profesion": "Oficial de policia",
         "capitulo_aparicion": "High Score (S02E07)",
         "comic_aparicion": "No aparece en los cómics",
         "tipo_personaje": "Secundario",
@@ -537,8 +542,13 @@
         "profesion": "Maestro de artes marciales",
         "capitulo_aparicion": "Death Punchies (S01E04)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Desconocido",
         "tipo_personaje": "Secundario",
+<<<<<<< Updated upstream
         "imagen_url": "https://i.imgur.com/OOQHMa3.png"
+=======
+        "imagen_url": "https://i.imgur.com/placeholder.png"
+>>>>>>> Stashed changes
     },
     {
         "id": "CHARCT046",
