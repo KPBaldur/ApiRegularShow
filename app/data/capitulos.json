@@ -134,7 +134,7 @@
   {
     "id": "CAP013",
     "titulo": "Ello Gov'nor",
-    "numero": 13,
+    "numero": 1,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2010-11-29",
@@ -145,7 +145,7 @@
   {
     "id": "CAP014",
     "titulo": "It's Time",
-    "numero": 14,
+    "numero": 2,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-01-03",
@@ -156,7 +156,7 @@
   {
     "id": "CAP015",
     "titulo": "Appreciation Day",
-    "numero": 15,
+    "numero": 3,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-01-10",
@@ -167,7 +167,7 @@
   {
     "id": "CAP016",
     "titulo": "Peeps",
-    "numero": 16,
+    "numero": 4,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-01-17",
@@ -178,7 +178,7 @@
   {
     "id": "CAP017",
     "titulo": "Dizzy",
-    "numero": 17,
+    "numero": 5,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-01-24",
@@ -189,7 +189,7 @@
   {
     "id": "CAP018",
     "titulo": "My Mom",
-    "numero": 18,
+    "numero": 6,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-01-31",
@@ -200,7 +200,7 @@
   {
     "id": "CAP019",
     "titulo": "High Score",
-    "numero": 19,
+    "numero": 7,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-02-07",
@@ -211,7 +211,7 @@
   {
     "id": "CAP020",
     "titulo": "Rage Against the TV",
-    "numero": 20,
+    "numero": 8,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-02-14",
@@ -222,7 +222,7 @@
   {
     "id": "CAP021",
     "titulo": "Party Pete",
-    "numero": 21,
+    "numero": 9,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-02-21",
@@ -233,7 +233,7 @@
   {
     "id": "CAP022",
     "titulo": "Brain Eraser",
-    "numero": 22,
+    "numero": 10,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-02-25",
@@ -244,7 +244,7 @@
   {
     "id": "CAP023",
     "titulo": "Benson Be Gone",
-    "numero": 23,
+    "numero": 11,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-02-28",
@@ -255,7 +255,7 @@
   {
     "id": "CAP024",
     "titulo": "But I Have a Receipt",
-    "numero": 24,
+    "numero": 12,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-03-07",
@@ -266,7 +266,7 @@
   {
     "id": "CAP025",
     "titulo": "This is My Jam",
-    "numero": 25,
+    "numero": 13,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-03-28",
@@ -277,7 +277,7 @@
   {
     "id": "CAP026",
     "titulo": "Muscle Woman",
-    "numero": 26,
+    "numero": 14,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-04-04",
@@ -288,7 +288,7 @@
   {
     "id": "CAP027",
     "titulo": "Temp Check",
-    "numero": 27,
+    "numero": 15,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-04-11",
@@ -299,7 +299,7 @@
   {
     "id": "CAP028",
     "titulo": "Jinx",
-    "numero": 28,
+    "numero": 16,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-04-18",
@@ -310,7 +310,7 @@
   {
     "id": "CAP029",
     "titulo": "See You There",
-    "numero": 29,
+    "numero": 17,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-04-25",
@@ -321,7 +321,7 @@
   {
     "id": "CAP030",
     "titulo": "Do Me a Solid",
-    "numero": 30,
+    "numero": 18,
     "temporada": 2,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-05-02",
@@ -332,8 +332,8 @@
   {
     "id": "CAP031",
     "titulo": "Grave Sights",
+    "numero": 19,
     "temporada": 2,
-    "numero": 31,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-05-09",
     "imdb_score": 9.3,
@@ -343,8 +343,8 @@
   {
     "id": "CAP032",
     "titulo": "Really Real Wrestling",
+    "numero": 20,
     "temporada": 2,
-    "numero": 32,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-05-16",
     "imdb_score": 8.5,
@@ -354,8 +354,8 @@
   {
     "id": "CAP033",
     "titulo": "Over the Top",
-    "numero": 33,
     "temporada": 2,
+    "numero": 33,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-05-23",
     "imdb_score": 9.1,
@@ -365,8 +365,8 @@
   {
     "id": "CAP034",
     "titulo": "The Night Owl",
+    "numero": 22,
     "temporada": 2,
-    "numero": 34,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-05-30",
     "imdb_score": 9.0,
@@ -376,8 +376,8 @@
   {
     "id": "CAP035",
     "titulo": "A Bunch of Baby Ducks",
+    "numero": 23,
     "temporada": 2,
-    "numero": 35,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-06-06",
     "imdb_score": 9.3,
@@ -387,8 +387,8 @@
   {
     "id": "CAP036",
     "titulo": "More Smarter",
+    "numero": 24,
     "temporada": 2,
-    "numero": 36,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-06-13",
     "imdb_score": 8.9,
@@ -398,8 +398,8 @@
   {
     "id": "CAP037",
     "titulo": "First Day",
+    "numero": 25,
     "temporada": 2,
-    "numero": 37,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-07-11",
     "imdb_score": 8.7,
@@ -409,8 +409,8 @@
   {
     "id": "CAP038",
     "titulo": "Go Viral",
+    "numero": 26,
     "temporada": 2,
-    "numero": 38,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-07-18",
     "imdb_score": 8.9,
@@ -420,8 +420,8 @@
   {
     "id": "CAP039",
     "titulo": "Skunked",
+    "numero": 27,
     "temporada": 2,
-    "numero": 39,
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-07-25",
     "imdb_score": 8.7,
@@ -431,8 +431,9 @@
   {
     "id": "CAP040",
     "titulo": "Karaoke Video",
+    "numero": 28,
     "temporada": 2,
-    "numero": 40,
+    
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-08-01",
     "imdb_score": 9.1,

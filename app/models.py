@@ -15,9 +15,9 @@ class Personaje(BaseModel):
 
 class Capitulo(BaseModel):
     id: str = Field(..., description="ID único del capítulo", example="CAP001TEMP01")
+    titulo: str = Field(..., description="Título del capítulo", example="The Power")
     temporada: int = Field(..., description="Número de temporada", example=1)
     numero: int = Field(..., description="Número de capítulo en la temporada", example=1)
-    titulo: str = Field(..., description="Título del capítulo", example="The Power")
     fecha_estreno: str = Field(..., description="Fecha de estreno (YYYY-MM-DD)", example="2010-09-06")
     sinopsis: str = Field(..., description="Resumen del capítulo", example="Mordecai y Rigby encuentran un teclado mágico...")
     imdb_score: float = Field(..., description="Puntaje IMDb del capítulo", example=8.6)
