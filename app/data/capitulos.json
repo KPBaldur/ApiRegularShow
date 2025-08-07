@@ -1987,289 +1987,40 @@
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-06-25",
     "imdb_score": 8.2,
-    "sinopsis": "Muscle Man es plantado en el altar y sus amigos intentan animarlo en un día difícil.",
+    "sinopsis": "Musculoso necesita la ayuda de la padilla para preparar su boda.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-<<<<<<< HEAD
-    "id": "CAP001TEMP07",
+    "id": "CAP182",
+    "titulo": "Dumptown U.S.A.",
     "temporada": 7,
     "numero": 1,
-    "titulo": "Dumptown U.S.A.",
+    "temporada_id": "TEMP07",
     "fecha_estreno": "2015-06-26",
     "imdb_score": 8.5,
-    "sinopsis": "Tras ser plantado en el altar, Muscle Man cae en una depresión y sus amigos intentan ayudarlo a superar el mal momento.",
+    "sinopsis": "Benson va a despedir a Mordecai si Rigby no puede traerlo de regreso de una extraña ciudad llamada Dumptown.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP002TEMP07",
-    "temporada": 7,
-    "numero": 2,
+    "id": "CAP183",
     "titulo": "The Parkie Awards",
+    "numero": 2,
+    "temporada": 7,
+    "temporada_id": "TEMP07",
     "fecha_estreno": "2015-06-26",
     "imdb_score": 8.3,
     "sinopsis": "El grupo compite por ganar un codiciado premio del parque, pero la competencia se vuelve feroz y llena de trampas.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP003TEMP07",
-    "temporada": 7,
-    "numero": 3,
+    "id": "CAP184",
     "titulo": "The Lunch Club",
-    "fecha_estreno": "2015-07-02",
-    "imdb_score": 8.6,
-    "sinopsis": "Mordecai y Rigby intentan unirse a un club exclusivo de almuerzos, pero deben pasar una serie de pruebas absurdas.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP004TEMP07",
-    "temporada": 7,
-    "numero": 4,
-    "titulo": "Local News Legend",
-    "fecha_estreno": "2015-07-09",
-    "imdb_score": 7.9,
-    "sinopsis": "Pops se convierte en una sensación local tras aparecer en las noticias, pero la fama le trae problemas inesperados.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP013TEMP07",
-    "temporada": 7,
-    "numero": 13,
-    "titulo": "The Dome Experiment Special",
-    "fecha_estreno": "2015-12-10",
-    "imdb_score": 8.8,
-    "sinopsis": "El parque es encerrado en una cúpula para un experimento, y todos deben adaptarse a las nuevas reglas para sobrevivir.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP005TEMP07",
-    "temporada": 7,
-    "numero": 5,
-    "titulo": "Birthday Gift",
-    "fecha_estreno": "2015-07-16",
-    "imdb_score": 8.2,
-    "sinopsis": "Mordecai y Rigby olvidan el cumpleaños de Skips y se embarcan en una misión para encontrar el regalo perfecto a último minuto.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP006TEMP07",
-    "temporada": 7,
-    "numero": 6,
-    "titulo": "Cat Videos",
-    "fecha_estreno": "2015-07-23",
-    "imdb_score": 7.6,
-    "sinopsis": "El grupo se obsesiona con videos de gatos en internet, pero pronto descubren que hay algo extraño detrás de ellos.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP007TEMP07",
-    "temporada": 7,
-    "numero": 7,
-    "titulo": "Struck by Lightning",
-    "fecha_estreno": "2015-07-30",
-    "imdb_score": 8.1,
-    "sinopsis": "Muscle Man es alcanzado por un rayo y desarrolla habilidades extrañas, lo que causa caos en el parque.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP008TEMP07",
-    "temporada": 7,
-    "numero": 8,
-    "titulo": "Terror Tales of the Park V",
-    "fecha_estreno": "2015-10-29",
-    "imdb_score": 8.8,
-    "sinopsis": "El grupo cuenta nuevas historias de terror en Halloween, cada una más extraña y sobrenatural que la anterior.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP009TEMP07",
-    "temporada": 7,
-    "numero": 9,
-    "titulo": "The Return of Party Horse",
-    "fecha_estreno": "2015-11-05",
-    "imdb_score": 7.3,
-    "sinopsis": "Party Horse regresa al parque buscando ayuda para salvar su planeta, involucrando a todos en una aventura espacial.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP010TEMP07",
-    "temporada": 7,
-    "numero": 10,
-    "titulo": "Sleep Cycle",
-    "fecha_estreno": "2015-11-12",
-    "imdb_score": 8.4,
-    "sinopsis": "Mordecai y Rigby intentan arreglar su ciclo de sueño, pero terminan atrapados en un bucle de pesadillas.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP011TEMP07",
-    "temporada": 7,
-    "numero": 11,
-    "titulo": "Just Friends",
-    "fecha_estreno": "2015-11-19",
-    "imdb_score": 8.2,
-    "sinopsis": "Mordecai y Margaret se reencuentran y deben decidir si pueden ser solo amigos o si aún hay sentimientos entre ellos.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP012TEMP07",
-    "temporada": 7,
-    "numero": 12,
-    "titulo": "Benson's Pig",
-    "fecha_estreno": "2015-12-03",
-    "imdb_score": 7.9,
-    "sinopsis": "Benson adopta un cerdo como mascota, pero el animal resulta ser más problemático de lo que esperaba.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP023TEMP07",
-    "temporada": 7,
-    "numero": 23,
-    "titulo": "The Eileen Plan",
-    "fecha_estreno": "2016-03-10",
-    "sinopsis": "Eileen elabora un plan para mejorar el parque, pero sus ideas generan situaciones inesperadas.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP024TEMP07",
-    "temporada": 7,
-    "numero": 24,
-    "titulo": "Hello China",
-    "fecha_estreno": "2016-03-17",
-    "sinopsis": "Mordecai viaja a China para aprender sobre la cultura y termina enredado en una aventura internacional.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP025TEMP07",
-    "temporada": 7,
-    "numero": 25,
-    "titulo": "Crazy Fake Plan",
-    "fecha_estreno": "2016-03-24",
-    "sinopsis": "El grupo idea un plan falso para engañar a un rival, pero las cosas se salen de control rápidamente.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-
-
-
-  {
-    "id": "CAP026TEMP07",
-    "temporada": 7,
-    "numero": 26,
-    "titulo": "Gary's Synthesizer",
-    "fecha_estreno": "2016-03-31",
-    "sinopsis": "Gary pierde su sintetizador y pide ayuda a Mordecai y Rigby para recuperarlo antes de un concierto importante.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-
-  {
-    "id": "CAP014TEMP07",
-    "temporada": 7,
-    "numero": 14,
-    "titulo": "The Button",
-    "fecha_estreno": "2016-01-07",
-    "sinopsis": "Mordecai y Rigby encuentran un misterioso botón en el parque y luchan por no presionarlo, desatando el caos.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP015TEMP07",
-    "temporada": 7,
-    "numero": 15,
-    "titulo": "Favorite Shirt",
-    "fecha_estreno": "2016-01-14",
-    "sinopsis": "Rigby pierde su camiseta favorita y hará todo lo posible por recuperarla, enfrentando situaciones absurdas.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP016TEMP07",
-    "temporada": 7,
-    "numero": 16,
-    "titulo": "Marvolo the Wizard",
-    "fecha_estreno": "2016-01-21",
-    "sinopsis": "Un mago llega al parque y desafía a los empleados a superar sus pruebas mágicas para ganar un premio especial.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP017TEMP07",
-    "temporada": 7,
-    "numero": 17,
-    "titulo": "Pop's Favorite Planet",
-    "fecha_estreno": "2016-01-28",
-    "sinopsis": "Pops quiere visitar su planeta favorito y el grupo lo ayuda a cumplir su sueño, enfrentando obstáculos cósmicos.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP018TEMP07",
-    "temporada": 7,
-    "numero": 18,
-    "titulo": "Pam I Am",
-    "fecha_estreno": "2016-02-04",
-    "sinopsis": "Benson comienza a salir con una nueva chica llamada Pam, pero sus amigos sospechan que ella oculta algo.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP019TEMP07",
-    "temporada": 7,
-    "numero": 19,
-    "titulo": "Lame Lockdown",
-    "fecha_estreno": "2016-02-11",
-    "sinopsis": "El parque entra en cuarentena por error y todos deben encontrar la manera de salir antes de que sea tarde.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP020TEMP07",
-    "temporada": 7,
-    "numero": 20,
-    "titulo": "VIP Members Only",
-    "fecha_estreno": "2016-02-18",
-    "sinopsis": "Mordecai y Rigby intentan entrar a un club VIP, pero descubren que la exclusividad tiene un precio muy alto.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP021TEMP07",
-    "temporada": 7,
-    "numero": 21,
-    "titulo": "Deez Keys",
-    "fecha_estreno": "2016-02-25",
-    "sinopsis": "El grupo pierde las llaves del parque y deben recuperarlas antes de que Benson se entere.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP022TEMP07",
-    "temporada": 7,
-    "numero": 22,
-    "titulo": "Rigby Goes to Prom",
-    "fecha_estreno": "2016-03-03",
-    "sinopsis": "Rigby es invitado a un baile de graduación y pide ayuda a sus amigos para no hacer el ridículo.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  
-  
-  
-  
-  {
-    "id": "CAP001TEMP08",
-    "temporada": 8,
-=======
-    "id": "CAP182",
-    "titulo": "The Parkie Awards",
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
-    "numero": 1,
+    "numero": 3,
     "temporada": 7,
     "temporada_id": "TEMP07",
     "fecha_estreno": "2015-01-01",
     "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo The Parkie Awards de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP183",
-    "titulo": "150 Piece Kit",
-    "numero": 2,
-    "temporada": 7,
-    "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
-    "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo 150 Piece Kit de la temporada 7.",
+    "sinopsis": "Rigby arruina un almuerzo elegante y él o Benson deben redactar una carta de renuncia.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
