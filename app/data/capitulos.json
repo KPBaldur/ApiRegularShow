@@ -1672,60 +1672,35 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-<<<<<<< HEAD
-    "id": "CAP037TEMP05",
-    "titulo": "Real Date",
-    "temporada": 5,
-    "numero": 37,
-=======
     "id": "CAP153",
     "titulo": "Real Date",
     "numero": 37,
     "temporada": 5,
     "temporada_id": "TEMP05",
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "fecha_estreno": "2014-08-14",
     "imdb_score": 8.9,
     "sinopsis": "Mordecai y CJ finalmente tienen una cita real, pero una serie de eventos desafortunados pone a prueba su relación.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-<<<<<<< HEAD
-    "id": "CAP001TEMP06",
-    "titulo": "Maxin' and Relaxin'",
-    "temporada": 6,
-    "numero": 1,
-    "fecha_estreno": "2014-10-09",
-    "imdb_score": 8.3,
-=======
     "id": "CAP154",
     "titulo": "Maxin' and Relaxin'",
     "numero": 1,
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2014-10-09",
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
+    "imdb_score": 8.3,
     "sinopsis": "Mordecai y Rigby intentan relajarse en la piscina del parque, pero terminan enfrentando una competencia inesperada.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-<<<<<<< HEAD
-    "id": "CAP002TEMP06",
-    "titulo": "New Bro on Campus",
-    "temporada": 6,
-    "numero": 2,
-    "fecha_estreno": "2014-10-16",
-    "imdb_score": 8.1,
-=======
     "id": "CAP155",
     "titulo": "New Bro on Campus",
     "numero": 2,
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2014-10-16",
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
+    "imdb_score": 8.1,
     "sinopsis": "Un nuevo empleado llega al parque y Mordecai y Rigby intentan impresionarlo, pero las cosas se complican.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1736,11 +1711,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2014-10-23",
-<<<<<<< HEAD
     "imdb_score": 8.1,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Muscle Man intenta impresionar a su padre, pero sus planes no salen como esperaba.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1751,11 +1722,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2014-10-29",
-<<<<<<< HEAD
     "imdb_score": 8.3,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "El grupo cuenta historias de terror en Halloween, cada una con un giro sobrenatural y divertido.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1766,11 +1733,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2014-11-06",
-<<<<<<< HEAD
     "imdb_score": 8.1,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Muscle Man cree que su vida está en peligro y decide vivir al máximo su último día.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1781,11 +1744,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2014-11-13",
-<<<<<<< HEAD
     "imdb_score": 8.1,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Benson les enseña a todos cómo levantar objetos correctamente, pero la lección se sale de control.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1796,11 +1755,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2014-11-20",
-<<<<<<< HEAD
     "imdb_score": 8.3,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Eileen compra una televisión nueva y Mordecai y Rigby la ayudan a instalarla, enfrentando varios problemas.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1811,11 +1766,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2014-12-04",
-<<<<<<< HEAD
     "imdb_score": 9.5,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "El grupo descubre el verdadero pasado de Thomas y se ven envueltos en una misión secreta.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1826,11 +1777,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2014-12-04",
-<<<<<<< HEAD
     "imdb_score": 8.4,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Durante un intercambio de regalos, todos compiten por conseguir el mejor obsequio, desatando el caos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1841,11 +1788,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2014-12-04",
-<<<<<<< HEAD
     "imdb_score": 8.8,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Mordecai intenta pasar una Navidad perfecta, pero una serie de malentendidos complica sus planes.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1856,11 +1799,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-01-08",
-<<<<<<< HEAD
     "imdb_score": 8.5,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Mordecai se siente deprimido tras una decepción amorosa y sus amigos intentan animarlo.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1882,11 +1821,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-01-22",
-<<<<<<< HEAD
     "imdb_score": 8.7,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Mordecai y Rigby viajan a Australia y viven una aventura llena de peligros y diversión.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1897,11 +1832,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-01-29",
-<<<<<<< HEAD
     "imdb_score": 7.8,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Muscle Man y Starla enfrentan problemas financieros tras casarse y buscan una solución creativa.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1912,11 +1843,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-02-05",
-<<<<<<< HEAD
     "imdb_score": 9.0,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "El grupo encuentra tortugas misteriosas en el parque y tratan de descubrir su origen.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1927,11 +1854,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-02-12",
-<<<<<<< HEAD
     "imdb_score": 9.2,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Mordecai y Rigby se ven envueltos en una guerra entre formatos de video antiguos y modernos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1942,11 +1865,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-02-19",
-<<<<<<< HEAD
     "imdb_score": 8.7,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "El grupo compite en un concurso para crear la mejor canción de cumpleaños, desatando una batalla musical.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1957,11 +1876,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-02-26",
-<<<<<<< HEAD
     "imdb_score": 9.1,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Benson compra un traje nuevo para impresionar a sus colegas, pero el traje tiene efectos inesperados.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1972,11 +1887,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-03-05",
-<<<<<<< HEAD
     "imdb_score": 9.0,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Mordecai y Rigby participan en una competencia de videojuegos para ganar un premio especial.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -1987,11 +1898,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-03-12",
-<<<<<<< HEAD
     "imdb_score": 8.1,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "El grupo celebra el vuelo número 1000 del helicóptero del parque con una gran fiesta.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -2002,11 +1909,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-03-19",
-<<<<<<< HEAD
     "imdb_score": 7.5,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Un caballo fiestero llega al parque y arrastra a todos a una celebración descontrolada.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -2017,11 +1920,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-03-26",
-<<<<<<< HEAD
     "imdb_score": 8.1,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "El grupo debe usar uniformes para una tarea especial, pero los uniformes tienen efectos extraños.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -2032,11 +1931,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-04-02",
-<<<<<<< HEAD
     "imdb_score": 8.1,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Mordecai y Rigby intentan arreglar la puerta del garaje, pero terminan atrapados en una situación absurda.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -2047,11 +1942,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-04-09",
-<<<<<<< HEAD
     "imdb_score": 9.5,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "El grupo debe salvar al parque de una invasión de patos en un episodio especial lleno de acción.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -2062,11 +1953,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-04-16",
-<<<<<<< HEAD
     "imdb_score": 8.4,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Mordecai y Rigby organizan una doble cita que rápidamente se convierte en un desastre.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -2077,11 +1964,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-04-23",
-<<<<<<< HEAD
     "imdb_score": 8.5,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "El grupo debe entregar un paquete usando técnicas de Death Kwon Do para evitar a unos villanos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -2092,11 +1975,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-06-18",
-<<<<<<< HEAD
     "imdb_score": 8.1,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "El grupo intenta disfrutar de su hora de almuerzo, pero todo se complica por una serie de eventos inesperados.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
@@ -2107,11 +1986,7 @@
     "temporada": 6,
     "temporada_id": "TEMP06",
     "fecha_estreno": "2015-06-25",
-<<<<<<< HEAD
     "imdb_score": 8.2,
-=======
-    "imdb_score": 8.0,
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "sinopsis": "Muscle Man es plantado en el altar y sus amigos intentan animarlo en un día difícil.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
