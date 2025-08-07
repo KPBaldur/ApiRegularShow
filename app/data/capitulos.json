@@ -660,38 +660,22 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-<<<<<<< HEAD
-    "id": "CAP021TEMP03",
-    "titulo": "The Best Burger in the World",
-    "temporada": 3,
-    "numero": 21,
-    "temporada_id": "TEMP03", 
-=======
     "id": "CAP061",
     "titulo": "The Best Burger in the World",
     "numero": 21,
     "temporada": 3,
     "temporada_id": "TEMP03",
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "fecha_estreno": "2012-04-09",
     "imdb_score": 7.4,
     "sinopsis": "Mordecai y Rigby deben terminar sus tareas para poder probar la mejor hamburguesa del mundo.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-<<<<<<< HEAD
-    "id": "CAP022TEMP03",
-    "titulo": "Replaced",
-    "temporada": 3,
-    "numero": 22,
-    
-=======
     "id": "CAP062",
     "titulo": "Replaced",
     "numero": 22,
     "temporada": 3,
     "temporada_id": "TEMP03",
->>>>>>> ef5b889cf5a4afb4dfbd50e5740539214a3424c4
     "fecha_estreno": "2012-04-16",
     "imdb_score": 7.4,
     "sinopsis": "Mordecai y Rigby descubren que Benson planea reemplazarlos y buscan la forma de evitarlo.",
