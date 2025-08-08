@@ -2020,165 +2020,165 @@
     "temporada_id": "TEMP07",
     "fecha_estreno": "2015-01-01",
     "imdb_score": 8.0,
-    "sinopsis": "Rigby arruina un almuerzo elegante y él o Benson deben redactar una carta de renuncia.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP184",
-    "titulo": "Bald Spot",
-    "numero": 3,
-    "temporada": 7,
-    "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
-    "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo Bald Spot de la temporada 7.",
+    "sinopsis": "Mordecai y Rigby intentan unirse a un club exclusivo de almuerzos, pero deben pasar una serie de pruebas absurdas.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP185",
-    "titulo": "Guy's Night",
+    "titulo": "Local News Legend",
     "numero": 4,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
+    "fecha_estreno": "2015-07-09",
     "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo Guy's Night de la temporada 7.",
+    "sinopsis": "Pops se convierte en una sensación local tras aparecer en las noticias, pero la fama le trae problemas inesperados.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP186",
-    "titulo": "One Pull Up",
+    "titulo": "Birthday Gift",
     "numero": 5,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
+    "fecha_estreno": "2015-07-16",
     "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo One Pull Up de la temporada 7.",
+    "sinopsis": "Mordecai y Rigby olvidan el cumpleaños de Skips y se embarcan en una misión para encontrar el regalo perfecto a último minuto.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP187",
-    "titulo": "The Christmas Special",
+    "titulo": "Cat Videos",
     "numero": 6,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
+    "fecha_estreno": "2015-07-23",
     "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo The Christmas Special de la temporada 7.",
+    "sinopsis": "El grupo se obsesiona con videos de gatos en internet, pero pronto descubren que hay algo extraño detrás de ellos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP188",
-    "titulo": "T.G.I. Tuesday",
+    "titulo": "Struck by Lightning",
     "numero": 7,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
+    "fecha_estreno": "2015-07-30",
     "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo T.G.I. Tuesday de la temporada 7.",
+    "sinopsis": "Muscle Man es alcanzado por un rayo y desarrolla habilidades extrañas, lo que causa caos en el parque.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP189",
-    "titulo": "Firework Run",
+    "titulo": "Terror Tales of the Park V",
     "numero": 8,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
+    "fecha_estreno": "2015-10-29",
     "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo Firework Run de la temporada 7.",
+    "sinopsis": "El grupo cuenta nuevas historias de terror en Halloween, cada una más extraña y sobrenatural que la anterior.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP190",
-    "titulo": "The Longest Weekend",
+    "titulo": "The Return of Party Horse",
     "numero": 9,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
+    "fecha_estreno": "2015-11-05",
     "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo The Longest Weekend de la temporada 7.",
+    "sinopsis": "Party Horse regresa al parque buscando ayuda para salvar su planeta, involucrando a todos en una aventura espacial.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP191",
-    "titulo": "Sandwich of Death",
+    "titulo": "Sleep Cycle",
     "numero": 10,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
+    "fecha_estreno": "2015-11-12",
     "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo Sandwich of Death de la temporada 7.",
+    "sinopsis": "Mordecai y Rigby intentan arreglar su ciclo de sueño, pero terminan atrapados en un bucle de pesadillas.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP192",
-    "titulo": "Ace Balthazar Lives",
+    "titulo": "Just Friends",
     "numero": 11,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
+    "fecha_estreno": "2015-11-19",
     "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo Ace Balthazar Lives de la temporada 7.",
+    "sinopsis": "Mordecai y Margaret se reencuentran y deben decidir si pueden ser solo amigos o si aún hay sentimientos entre ellos.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP193",
-    "titulo": "Do or Diaper",
+    "titulo": "Benson's Pig",
     "numero": 12,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
+    "fecha_estreno": "2015-12-03",
     "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo Do or Diaper de la temporada 7.",
+    "sinopsis": "Benson se convierte en el nuevo dueño de un cerdo, pero las cosas se complican cuando el cerdo se escapa.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP194",
-    "titulo": "Quips",
+    "titulo": "The Eileen Plan",
     "numero": 13,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
+    "fecha_estreno": "2015-11-13",
     "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo Quips de la temporada 7.",
+    "sinopsis": "Eileen elabora un plan para mejorar el parque, pero sus ideas generan situaciones inesperadas.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP195",
-    "titulo": "Caveman",
-    "numero": 14,
+    "titulo": "Hello China",
+    "numero": 13,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
+    "fecha_estreno": "2015-11-13",
     "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo Caveman de la temporada 7.",
+    "sinopsis": "Mordecai y Rigby viajan a China para aprender sobre la cultura, pero terminan enredados en una aventura internacional.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP196",
-    "titulo": "That's My Television",
-    "numero": 15,
+    "titulo": "Crazy Fake Plan",
+    "numero": 14,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
+    "fecha_estreno": "2015-12-01",
     "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo That's My Television de la temporada 7.",
+    "sinopsis": "El grupo idea un plan falso para engañar a un rival, pero las cosas se salen de control rápidamente.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP197",
-    "titulo": "A Bunch of Full Grown Geese",
+    "titulo": "Win That Prize",
+    "numero": 15,
+    "temporada": 7,
+    "temporada_id": "TEMP07",
+    "fecha_estreno": "2015-12-02",
+    "imdb_score": 8.0,
+    "sinopsis": "Papaleta va a la estacion de television YZB para asistir a una grabacion en vivo de un programa de juegos, Win That Prize, pero en cambio esta involucrando en la cadena de television.",
+    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+  },
+  {
+    "id": "CAP198",
+    "titulo": "Snow Tubing",
     "numero": 16,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
+    "fecha_estreno": "2015-12-03",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo A Bunch of Full Grown Geese de la temporada 7.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP198",
+    "id": "CAP199",
     "titulo": "Fool Me Twice",
     "numero": 17,
     "temporada": 7,
@@ -2189,7 +2189,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP199",
+    "id": "CAP200",
     "titulo": "Limousine Lunchtime",
     "numero": 18,
     "temporada": 7,
@@ -2200,7 +2200,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP200",
+    "id": "CAP201",
     "titulo": "Picking Up Margaret",
     "numero": 19,
     "temporada": 7,
@@ -2211,7 +2211,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP201",
+    "id": "CAP202",
     "titulo": "K.I.L.I.T. Radio",
     "numero": 20,
     "temporada": 7,
@@ -2222,7 +2222,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP202",
+    "id": "CAP203",
     "titulo": "Carter and Briggs",
     "numero": 21,
     "temporada": 7,
@@ -2233,7 +2233,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP203",
+    "id": "CAP204",
     "titulo": "Skips' Stress",
     "numero": 22,
     "temporada": 7,
@@ -2244,7 +2244,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP204",
+    "id": "CAP205",
     "titulo": "Cool Cubed",
     "numero": 23,
     "temporada": 7,
@@ -2255,7 +2255,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP205",
+    "id": "CAP206",
     "titulo": "Trailer Trashed",
     "numero": 24,
     "temporada": 7,
@@ -2266,7 +2266,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP206",
+    "id": "CAP207",
     "titulo": "Meteor Moves",
     "numero": 25,
     "temporada": 7,
@@ -2277,7 +2277,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP207",
+    "id": "CAP208",
     "titulo": "Family BBQ",
     "numero": 26,
     "temporada": 7,
@@ -2288,7 +2288,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP208",
+    "id": "CAP209",
     "titulo": "The Last Laserdisc Player",
     "numero": 27,
     "temporada": 7,
@@ -2299,7 +2299,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP209",
+    "id": "CAP210",
     "titulo": "Country Club",
     "numero": 28,
     "temporada": 7,
@@ -2310,7 +2310,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP210",
+    "id": "CAP211",
     "titulo": "Blind Trust",
     "numero": 29,
     "temporada": 7,
@@ -2321,7 +2321,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP211",
+    "id": "CAP212",
     "titulo": "World's Best Boss",
     "numero": 30,
     "temporada": 7,
@@ -2332,7 +2332,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP212",
+    "id": "CAP213",
     "titulo": "Last Meal",
     "numero": 31,
     "temporada": 7,
@@ -2343,7 +2343,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP213",
+    "id": "CAP214",
     "titulo": "Sleep Fighter",
     "numero": 32,
     "temporada": 7,
@@ -2354,7 +2354,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP214",
+    "id": "CAP215",
     "titulo": "Party Re-Pete",
     "numero": 33,
     "temporada": 7,
@@ -2365,7 +2365,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP215",
+    "id": "CAP216",
     "titulo": "Steak Me Amadeus",
     "numero": 34,
     "temporada": 7,
@@ -2376,7 +2376,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP216",
+    "id": "CAP217",
     "titulo": "Stuck in an Elevator",
     "numero": 1,
     "temporada": 8,
@@ -2387,7 +2387,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP217",
+    "id": "CAP218",
     "titulo": "The Key to the Universe",
     "numero": 2,
     "temporada": 8,
