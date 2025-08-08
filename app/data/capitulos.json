@@ -2377,123 +2377,272 @@
   },
   {
     "id": "CAP217",
-    "titulo": "Stuck in an Elevator",
+    "titulo": "One Space Day at a Time",
     "numero": 1,
     "temporada": 8,
     "temporada_id": "TEMP08",
-    "fecha_estreno": "2016-01-01",
-    "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo Stuck in an Elevator de la temporada 8.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "fecha_estreno": "2016-09-26",
+    "imdb_score": null,
+    "sinopsis": "Tras la graduación de Rigby, la pandilla del parque debe adaptarse a vivir y sobrevivir en el espacio."
   },
   {
     "id": "CAP218",
-    "titulo": "The Key to the Universe",
+    "titulo": "Cool Bro Bots",
     "numero": 2,
     "temporada": 8,
     "temporada_id": "TEMP08",
-    "fecha_estreno": "2016-01-01",
-    "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo The Key to the Universe de la temporada 8.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
-  },
-  {
-    "id": "CAP218",
-    "titulo": "No Train No Gain",
-    "numero": 3,
-    "temporada": 8,
-    "temporada_id": "TEMP08",
-    "fecha_estreno": "2016-01-01",
-    "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo No Train No Gain de la temporada 8.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "fecha_estreno": "2016-09-26",
+    "imdb_score": null,
+    "sinopsis": "Unos robots ‘bro’ aparecen para ayudar, pero Mordecai y Rigby sospechan de sus verdaderas intenciones."
   },
   {
     "id": "CAP219",
-    "titulo": "Meat Your Maker",
-    "numero": 4,
+    "titulo": "Welcome to Space",
+    "numero": 3,
     "temporada": 8,
     "temporada_id": "TEMP08",
-    "fecha_estreno": "2016-01-01",
-    "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo Meat Your Maker de la temporada 8.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "fecha_estreno": "2016-09-27",
+    "imdb_score": null,
+    "sinopsis": "El equipo descubre la verdadera misión espacial mientras Benson insiste en volver a casa."
   },
   {
     "id": "CAP220",
-    "titulo": "The Button",
-    "numero": 5,
+    "titulo": "Space Creds",
+    "numero": 4,
     "temporada": 8,
     "temporada_id": "TEMP08",
-    "fecha_estreno": "2016-01-01",
-    "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo The Button de la temporada 8.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "fecha_estreno": "2016-09-27",
+    "imdb_score": null,
+    "sinopsis": "Aceptan rescatar al ex de una científica a cambio de ‘space creds’ para comprar zapatillas flotantes."
   },
   {
     "id": "CAP221",
-    "titulo": "The Brain of Evil",
-    "numero": 6,
+    "titulo": "Lost and Found",
+    "numero": 5,
     "temporada": 8,
     "temporada_id": "TEMP08",
-    "fecha_estreno": "2016-01-01",
-    "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo The Brain of Evil de la temporada 8.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "fecha_estreno": "2016-09-28",
+    "imdb_score": null,
+    "sinopsis": "Chance Sureshot pierde su billetera y el equipo viaja al Planeta Mantis para recuperarla."
   },
   {
     "id": "CAP222",
-    "titulo": "The Space Tree",
-    "numero": 7,
+    "titulo": "Ugly Moons",
+    "numero": 6,
     "temporada": 8,
     "temporada_id": "TEMP08",
-    "fecha_estreno": "2016-01-01",
-    "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo The Space Tree de la temporada 8.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "fecha_estreno": "2016-09-29",
+    "imdb_score": null,
+    "sinopsis": "Rawls contrata a Musculoso para gastar una broma a la Estación Bush."
   },
   {
     "id": "CAP223",
-    "titulo": "Cheer Up Pops",
-    "numero": 8,
+    "titulo": "The Dream Warrior",
+    "numero": 7,
     "temporada": 8,
     "temporada_id": "TEMP08",
-    "fecha_estreno": "2016-01-01",
-    "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo Cheer Up Pops de la temporada 8.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "fecha_estreno": "2016-09-30",
+    "imdb_score": null,
+    "sinopsis": "Pops sufre pesadillas sobre un alien y todos intentan ayudarlo a enfrentarlas."
   },
   {
     "id": "CAP224",
-    "titulo": "A Regular Epic Final Battle (Part 1)",
-    "numero": 9,
+    "titulo": "The Brain of Evil",
+    "numero": 8,
     "temporada": 8,
     "temporada_id": "TEMP08",
-    "fecha_estreno": "2016-01-01",
-    "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo A Regular Epic Final Battle (Part 1) de la temporada 8.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "fecha_estreno": "2016-10-03",
+    "imdb_score": null,
+    "sinopsis": "Rigby libera por accidente a un cerebro maligno y deben detenerlo antes de que cause más caos."
   },
   {
     "id": "CAP225",
-    "titulo": "A Regular Epic Final Battle (Part 2)",
-    "numero": 10,
+    "titulo": "Fries Night",
+    "numero": 9,
     "temporada": 8,
     "temporada_id": "TEMP08",
-    "fecha_estreno": "2016-01-01",
-    "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo A Regular Epic Final Battle (Part 2) de la temporada 8.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "fecha_estreno": "2016-10-04",
+    "imdb_score": null,
+    "sinopsis": "Benson, deprimido por una ruptura, busca ingredientes de papas fritas junto a un asteroide llamado Roxy."
   },
   {
     "id": "CAP226",
-    "titulo": "A Regular Epic Final Battle (Part 3)",
+    "titulo": "Spacey McSpaceTree",
+    "numero": 10,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2016-10-05",
+    "imdb_score": null,
+    "sinopsis": "Rigby entrena en seguridad con un insoportable ‘árbol espacial’."
+  },
+  {
+    "id": "CAP227",
+    "titulo": "Can You Ear Me Now?",
     "numero": 11,
     "temporada": 8,
     "temporada_id": "TEMP08",
-    "fecha_estreno": "2016-01-01",
-    "imdb_score": 8.0,
-    "sinopsis": "Sinopsis del capítulo A Regular Epic Final Battle (Part 3) de la temporada 8.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "fecha_estreno": "2016-10-06",
+    "imdb_score": null,
+    "sinopsis": "Causan un desastre sonoro en un planeta de oídos sensibles y son llevados a juicio."
+  },
+  {
+    "id": "CAP228",
+    "titulo": "Stuck in an Elevator",
+    "numero": 12,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2016-10-07",
+    "imdb_score": null,
+    "sinopsis": "Intentan ver a Fist Pump pero quedan atrapados en un ascensor espacial."
+  },
+  {
+    "id": "CAP229",
+    "titulo": "The Space Race",
+    "numero": 13,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2016-10-10",
+    "imdb_score": null,
+    "sinopsis": "Compiten en una peligrosa carrera contra la Estación Space Bush."
+  },
+  {
+    "id": "CAP230",
+    "titulo": "Operation Hear No Evil",
+    "numero": 14,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2016-10-11",
+    "imdb_score": null,
+    "sinopsis": "Intentan evitar spoilers de su serie favorita mientras Benson busca venganza."
+  },
+  {
+    "id": "CAP231",
+    "titulo": "Space Escape",
+    "numero": 15,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2016-10-12",
+    "imdb_score": null,
+    "sinopsis": "Anti-Pops aparece y todos deben evacuar la Estación Árbol."
+  },
+  {
+    "id": "CAP232",
+    "titulo": "New Beds",
+    "numero": 16,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2016-10-13",
+    "imdb_score": null,
+    "sinopsis": "En una parada para comprar camas nuevas se topan con un cazarrecompensas que busca a Pops."
+  },
+  {
+    "id": "CAP233",
+    "titulo": "Mordeby and Rigbecai",
+    "numero": 17,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2016-10-14",
+    "imdb_score": null,
+    "sinopsis": "Un teletransportador intercambia sus cuerpos y luego otras partes; piden ayuda a Musculoso."
+  },
+  {
+    "id": "CAP234",
+    "titulo": "Alpha Dome",
+    "numero": 18,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2016-10-20",
+    "imdb_score": null,
+    "sinopsis": "Encuentran el primer domo enviado al espacio, cuyos habitantes creen vivir en 1690."
+  },
+  {
+    "id": "CAP235",
+    "titulo": "Terror Tales of the Park VI",
+    "numero": 19,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2016-10-27",
+    "imdb_score": null,
+    "sinopsis": "Especial de Halloween con tres historias de terror en el espacio."
+  },
+  {
+    "id": "CAP236",
+    "titulo": "The Ice Tape",
+    "numero": 20,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2016-11-03",
+    "imdb_score": null,
+    "sinopsis": "Deben reproducir un VHS de hielo para conocer el origen de Pops."
+  },
+  {
+    "id": "CAP237",
+    "titulo": "The Key to the Universe",
+    "numero": 21,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2016-11-10",
+    "imdb_score": null,
+    "sinopsis": "Earl entrena a Pops para enfrentar a Anti-Pops, pero él duda si debe hacerlo."
+  },
+  {
+    "id": "CAP238",
+    "titulo": "No Train No Gain",
+    "numero": 22,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2016-11-17",
+    "imdb_score": null,
+    "sinopsis": "Un montaje de entrenamiento manipula el espacio-tiempo y atrapa al equipo en una canción."
+  },
+  {
+    "id": "CAP239",
+    "titulo": "Christmas in Space",
+    "numero": 23,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2016-12-01",
+    "imdb_score": null,
+    "sinopsis": "Navidad en el espacio con historias de monstruos de hielo y visitas del Krampus."
+  },
+  {
+    "id": "CAP240",
+    "titulo": "Kill ’Em with Kindness",
+    "numero": 24,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2017-01-14",
+    "imdb_score": null,
+    "sinopsis": "Pops busca resolver el conflicto con Anti-Pops usando la amabilidad."
+  },
+  {
+    "id": "CAP241",
+    "titulo": "Meet the Seer",
+    "numero": 25,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2017-01-14",
+    "imdb_score": null,
+    "sinopsis": "Se reencuentran con los Guardianes de Formatos Obsoletos y conocen a la Vidente."
+  },
+  {
+    "id": "CAP242",
+    "titulo": "Cheer Up Pops",
+    "numero": 26,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2017-01-16",
+    "imdb_score": null,
+    "sinopsis": "Antes de llegar a Lolliland, intentan animar a Pops grabando recuerdos."
+  },
+  {
+    "id": "CAP243",
+    "titulo": "A Regular Epic Final Battle",
+    "numero": 27,
+    "temporada": 8,
+    "temporada_id": "TEMP08",
+    "fecha_estreno": "2017-01-16",
+    "imdb_score": null,
+    "sinopsis": "Llega la batalla final contra Anti-Pops, con un sacrificio que salva el universo."
   }
 ]
