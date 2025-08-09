@@ -8,6 +8,7 @@
         "profesion": "Guardabosques del parque, artista",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
+        "estado": "Vivo",
         "tipo_personaje": "Principal",
         "imagen_url": "https://github.com/KPBaldur/RegularShowWiki/blob/main/img/Personajes/mordecai.png?raw=true"
     },
@@ -20,6 +21,7 @@
         "profesion": "Guardabosques del parque",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
+        "estado": "Vivo",
         "tipo_personaje": "Principal",
         "imagen_url": "https://i.imgur.com/QbOaeZ5.jpeg"
     },
@@ -32,6 +34,7 @@
         "profesion": "Gerente del parque",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
+        "estado": "Vivo",
         "tipo_personaje": "Principal",
         "imagen_url": "https://i.imgur.com/jI3Cy7O.png"
     },
@@ -44,6 +47,7 @@
         "profesion": "Mecánico y guardabosques del parque",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
+        "estado": "Vivo",
         "tipo_personaje": "Principal",
         "imagen_url": "https://i.imgur.com/5pwTHgo.png"
     },
@@ -56,6 +60,7 @@
         "profesion": "Dueño del parque",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
+        "estado": "Muerto",
         "tipo_personaje": "Principal",
         "imagen_url": "https://i.imgur.com/zBDD7TC.png"
     },
@@ -68,6 +73,7 @@
         "profesion": "Guardabosques del parque",
         "capitulo_aparicion": "The Power (S01E01)",
         "comic_aparicion": "Aparece en todos los cómics de Regular Show",
+        "estado": "Vivo",
         "tipo_personaje": "Principal",
         "imagen_url": "https://i.imgur.com/BSNzVZg.png"
     },
@@ -80,6 +86,7 @@
         "profesion": "Guardabosques del parque",
         "capitulo_aparicion": "Just Set Up the Chairs (S01E02)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
+        "estado": "Vivo",
         "tipo_personaje": "Principal",
         "imagen_url": "https://i.imgur.com/qBpX6an.png"
     },
@@ -92,6 +99,7 @@
         "profesion": "Camarera, luego guardabosques del parque",
         "capitulo_aparicion": "Brain Eraser (S02E10)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
+        "estado": "Viva",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/ouoDujt.png"
     },
@@ -104,6 +112,7 @@
         "profesion": "Camarera, luego reportera",
         "capitulo_aparicion": "Caffeinated Concert Tickets (S01E03)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
+        "estado": "Viva",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/cT08IAV.png"
     },
@@ -112,34 +121,37 @@
         "nombre": "Thomas (Thomas)",
         "nombre_ingles": "Thomas",
         "nombre_latino": "Thomas",
-        "raza": "Cabrón ruso (hombre-cabra)",
+        "raza": "Hombre-cabra (de origen ruso)",
         "profesion": "Espía ruso, guardabosques del parque",
         "capitulo_aparicion": "Exit 9B (S04E01)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/XcF0Vcm.png"
     },
     {
         "id": "CHARCT011",
-        "nombre": "CJ (CJ / CJ)",
+        "nombre": "CJ ",
         "nombre_ingles": "CJ",
         "nombre_latino": "CJ",
         "raza": "Nube antropomórfica",
         "profesion": "Estudiante, luego novia de Mordecai",
         "capitulo_aparicion": "Yes Dude Yes (S04E25)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Viva",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/LQMONHi.png"
     },
     {
         "id": "CHARCT012",
-        "nombre": "Starla (Starla)",
+        "nombre": "Starla",
         "nombre_ingles": "Starla",
         "nombre_latino": "Starla",
         "raza": "Humana robusta",
         "profesion": "Trabajadora independiente, esposa de Musculoso",
         "capitulo_aparicion": "Muscle Woman (S02E14)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
+        "estado": "Viva",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/RSW0sd0.png"
     },
@@ -152,6 +164,7 @@
         "profesion": "Dueño original del parque",
         "capitulo_aparicion": "Dizzy (S02E05)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Desconocido",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/oeZNZ8l.png"
     },
@@ -164,6 +177,7 @@
         "profesion": "Operador de montacargas",
         "capitulo_aparicion": "Trucker Hall of Fame (S03E30)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Muerto",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/G33zyk4.png"
     },
@@ -174,8 +188,9 @@
         "nombre_latino": "Anti-Papaleta",
         "raza": "Hombre-paleta",
         "profesion": "Destructor del universo",
-        "capitulo_aparicion": "The Dream Warrior (S08E18)",
+        "capitulo_aparicion": "The Dream Warrior (S08E07)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Muerto",
         "tipo_personaje": "Antagonista",
         "imagen_url": "https://i.imgur.com/ho2hWDT.png"
     },
@@ -188,6 +203,7 @@
         "profesion": "Campeón de videojuegos",
         "capitulo_aparicion": "High Score (S02E07)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Muerto",
         "tipo_personaje": "Antagonista",
         "imagen_url": "https://i.imgur.com/e4AyXDU.png"
     },
@@ -200,6 +216,7 @@
         "profesion": "Señor de la muerte",
         "capitulo_aparicion": "Over the Top (S02E03)",
         "comic_aparicion": "Aparece en los cómics de Regular Show",
+        "estado": "Desconocido",
         "tipo_personaje": "Antagonista",
         "imagen_url": "https://i.imgur.com/3bUZZ4n.png"
     },
@@ -212,6 +229,7 @@
         "profesion": "Mago tecnológico",
         "capitulo_aparicion": "Skips vs. Technology (S03E07)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/QoWFpaf.png"
     },
@@ -224,6 +242,7 @@
         "profesion": "Contador",
         "capitulo_aparicion": "Don (S01E10)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/9PkhFBP.png"
     },
@@ -231,11 +250,12 @@
         "id": "CHARCT020",
         "nombre": "Peeps (Peeps)",
         "nombre_ingles": "Peeps",
-        "nombre_latino": "Fisgon",
+        "nombre_latino": "Fisgón",
         "raza": "Ojo gigante",
         "profesion": "Vigilante",
         "capitulo_aparicion": "Peeps (S02E04)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Muerto",
         "tipo_personaje": "Antagonista",
         "imagen_url": "https://i.imgur.com/Gv5NTge.png"
     },
@@ -248,6 +268,7 @@
         "profesion": "Ex-gerente del parque",
         "capitulo_aparicion": "Benson Be Gone (S02E11)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Viva",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/0XOoB7h.png"
     },
@@ -260,6 +281,7 @@
         "profesion": "Soldado del Arbol Espacial",
         "capitulo_aparicion": "Cool Brobots (S08E02)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/l7MYrb0.png"
     },
@@ -272,6 +294,7 @@
         "profesion": "Gerente del parque rival",
         "capitulo_aparicion": "Prankless (S03E35)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Antagonista",
         "imagen_url": "https://i.imgur.com/ujgFNMD.png"
     },
@@ -284,6 +307,7 @@
         "profesion": "Desconocido",
         "capitulo_aparicion": "Weekends at Benson's (S03E12)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Viva",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/2gr8mS7.png"
     },
@@ -309,6 +333,7 @@
         "profesion": "Narrador",
         "capitulo_aparicion": "The Key to the Universe (S08E13)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/mJ3gAvd.png"
     },
@@ -321,9 +346,9 @@
         "profesion": "Fiestero",
         "capitulo_aparicion": "Party Horse (S06E21)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/6cHWbWe.png"
-
     },
     {
         "id": "CHARCT028",
@@ -334,6 +359,7 @@
         "profesion": "Padre de CJ y Golfista profesional",
         "capitulo_aparicion": "Daddy Issues (S06E03)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/GQQubg2.png"
     },
@@ -346,6 +372,7 @@
         "profesion": "Payaso",
         "capitulo_aparicion": "Quips (S02E16)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/m5uHKHU.png"
     },
@@ -358,6 +385,7 @@
         "profesion": "Doctor",
         "capitulo_aparicion": "Cool Cubed (S04E26)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/Pq9W88I.png"
     },
@@ -366,10 +394,11 @@
         "nombre": "Stef (Stef)",
         "nombre_ingles": "Stef",
         "nombre_latino": "Stef",
-        "raza": "Murcielago antropomorfico",
+        "raza": "Murciélago antropomórfico",
         "profesion": "Artista",
-        "capitulo_aparicion": "A Regular Epi Final Battle part 2(S08E27)",
+        "capitulo_aparicion": "A Regular Epic Final Battle (Part 1) (S08E20)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Desconocido",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/G99Rf1E.png"
     },
@@ -380,8 +409,9 @@
         "nombre_latino": "Pam",
         "raza": "Humana",
         "profesion": "Cientifica",
-        "capitulo_aparicion": "The Dome experiment special (S07E05)",
+        "capitulo_aparicion": "The Dome Experiment Special (S07E13)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Viva",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/1tAFWHR.png"
     },
@@ -394,6 +424,7 @@
         "profesion": "Monarca de Synthos, Mensajero y chofer de los Guardianes de la Eterna Juventud, Abogado.",
         "capitulo_aparicion": "Free Cake (S01E05)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/BGz9zSA.png"
     },
@@ -403,9 +434,10 @@
         "nombre_ingles": "Low Five Ghost",
         "nombre_latino": "Fantasmón",
         "raza": "Fantasma",
-        "profesion": "Oficial de policia",
-        "capitulo_aparicion": "See you There (S02E17)",
+        "profesion": "Oficial de policía",
+        "capitulo_aparicion": "See You There (S02E17)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/kWkUhwj.png"
     },
@@ -418,6 +450,7 @@
         "profesion": "Novia de Skips",
         "capitulo_aparicion": "Diary (S06E16)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Muerto",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/xHCBrdN.png"
     },
@@ -430,6 +463,7 @@
         "profesion": "Madre de Benson",
         "capitulo_aparicion": "Think Positive (S03E14)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Viva",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/RTKEZRI.png"
     },
@@ -442,6 +476,7 @@
         "profesion": "Padre de Benson",
         "capitulo_aparicion": "Think Positive (S03E14)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/Uo7wlDN.png"
     },
@@ -452,8 +487,9 @@
         "nombre_latino": "Bárbara",
         "raza": "Mapache",
         "profesion": "Madre de Rigby",
-        "capitulo_aparicion": "The Thanksgiving Special (SO5E12)",
+        "capitulo_aparicion": "The Thanksgiving Special (S05E12)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Viva",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/dzGO3yT.png"
     },
@@ -464,8 +500,9 @@
         "nombre_latino": "Sherm",
         "raza": "Mapache",
         "profesion": "Padre de Rigby",
-        "capitulo_aparicion": "The Thanksgiving Special (SO5E12)",
+        "capitulo_aparicion": "The Thanksgiving Special (S05E12)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/IuqGsMV.png"
     },
@@ -476,8 +513,9 @@
         "nombre_latino": "Hilary",
         "raza": "Arrendajo azul",
         "profesion": "Madre de Mordecai",
-        "capitulo_aparicion": "The Thanksgiving Special (SO5E12)",
+        "capitulo_aparicion": "The Thanksgiving Special (S05E12)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Viva",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/uCVxVvc.png"
     },
@@ -488,8 +526,9 @@
         "nombre_latino": "William",
         "raza": "Arrendajo azul",
         "profesion": "Padre de Mordecai",
-        "capitulo_aparicion": "The Thanksgiving Special (SO5E12)",
+        "capitulo_aparicion": "The Thanksgiving Special (S05E12)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/jDgRipV.png"
     },
@@ -500,8 +539,9 @@
         "nombre_latino": "El Martillo",
         "raza": "Martillo antropomórfico",
         "profesion": "Entrenador de boxeo",
-        "capitulo_aparicion": "Rage against the TV (S02E08)",
+        "capitulo_aparicion": "The Hammer (S02E08)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/BP3rnUH.png"
     },
@@ -512,8 +552,9 @@
         "nombre_latino": "Los Patitos",
         "raza": "Patos bebés",
         "profesion": "Mascotas del parque",
-        "capitulo_aparicion": "A bunch of baby ducks (S02E23)",
+        "capitulo_aparicion": "A Bunch of Baby Ducks (S02E23)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Desconocido",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/h3it5KF.png"
     },
@@ -526,6 +567,7 @@
         "profesion": "Guardián de la juventud eterna",
         "capitulo_aparicion": "Free Cake (S01E05)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/fwQRwMt.png"
     },
@@ -538,7 +580,7 @@
         "profesion": "Maestro de artes marciales",
         "capitulo_aparicion": "Death Punchies (S01E04)",
         "comic_aparicion": "No aparece en los cómics",
-        "estado": "Desconocido",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/OOQHMa3.png"
     },
@@ -551,6 +593,7 @@
         "profesion": "Vendedor de café",
         "capitulo_aparicion": "Caffeinated Concert Tickets (S01E03)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Vivo",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/wA2Ki7H.png"
     },
@@ -563,6 +606,7 @@
         "profesion": "Pandilla problemática",
         "capitulo_aparicion": "The Unicorns Have Got to Go (S01E08)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Desconocido",
         "tipo_personaje": "Antagonista",
         "imagen_url": "https://i.imgur.com/ysAJJkD.png"
     },
@@ -575,6 +619,7 @@
         "profesion": "Bromistas",
         "capitulo_aparicion": "Prank Callers (S01E09)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Desconocido",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/72In3Bl.png"
     },
@@ -587,6 +632,7 @@
         "profesion": "Salchichas rebeldes",
         "capitulo_aparicion": "Meat Your Maker (S01E06)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Desconocido",
         "tipo_personaje": "Antagonista",
         "imagen_url": "https://i.imgur.com/1fgbOPG.png"
     },
@@ -599,6 +645,7 @@
         "profesion": "Astronautas",
         "capitulo_aparicion": "Grilled Cheese Deluxe (S01E07)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Desconocido",
         "tipo_personaje": "Secundario",
         "imagen_url": "https://i.imgur.com/zMlRbSh.png"
     },
@@ -611,6 +658,7 @@
         "profesion": "Villano de videojuego",
         "capitulo_aparicion": "Just Set Up the Chairs (S01E02)",
         "comic_aparicion": "No aparece en los cómics",
+        "estado": "Desconocido",
         "tipo_personaje": "Antagonista",
         "imagen_url": "https://i.imgur.com/NaA4FfF.png"
     }
