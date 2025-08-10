@@ -1,7 +1,7 @@
 [
     {
         "id": "CHARCT001",
-        "nombre": "Mordecai (Mordecai)",
+        "nombre": "Mordecai",
         "nombre_ingles": "Mordecai",
         "nombre_latino": "Mordecai",
         "raza": "Arrendajo azul",
@@ -14,7 +14,7 @@
     },
     {
         "id": "CHARCT002",
-        "nombre": "Rigby (Rigby)",
+        "nombre": "Rigby",
         "nombre_ingles": "Rigby",
         "nombre_latino": "Rigby",
         "raza": "Mapache",
@@ -27,7 +27,7 @@
     },
     {
         "id": "CHARCT003",
-        "nombre": "Benson (Benson)",
+        "nombre": "Benson",
         "nombre_ingles": "Benson",
         "nombre_latino": "Benson",
         "raza": "Máquina de chicles antropomórfica",
@@ -40,7 +40,7 @@
     },
     {
         "id": "CHARCT004",
-        "nombre": "Skips (Skips)",
+        "nombre": "Skips",
         "nombre_ingles": "Skips",
         "nombre_latino": "Skips",
         "raza": "Yeti",
@@ -53,7 +53,7 @@
     },
     {
         "id": "CHARCT005",
-        "nombre": "Pops (Papaleta)",
+        "nombre": "Papaleta (Pops)",
         "nombre_ingles": "Pops",
         "nombre_latino": "Papaleta",
         "raza": "Hombre-paleta",
@@ -66,7 +66,7 @@
     },
     {
         "id": "CHARCT006",
-        "nombre": "Muscle Man (Musculoso)",
+        "nombre": "Musculoso (Muscle Man)",
         "nombre_ingles": "Muscle Man",
         "nombre_latino": "Musculoso",
         "raza": "Humanoide verde",
@@ -79,7 +79,7 @@
     },
     {
         "id": "CHARCT007",
-        "nombre": "High Five Ghost (Fantasmín)",
+        "nombre": "Fantasmano (High Five Ghost)",
         "nombre_ingles": "High Five Ghost",
         "nombre_latino": "Fantasmín",
         "raza": "Fantasma",
@@ -92,7 +92,7 @@
     },
     {
         "id": "CHARCT008",
-        "nombre": "Eileen (Eileen)",
+        "nombre": "Eileen",
         "nombre_ingles": "Eileen",
         "nombre_latino": "Eileen",
         "raza": "Topo",
@@ -118,7 +118,7 @@
     },
     {
         "id": "CHARCT010",
-        "nombre": "Thomas (Thomas)",
+        "nombre": "Thomas",
         "nombre_ingles": "Thomas",
         "nombre_latino": "Thomas",
         "raza": "Hombre-cabra (de origen ruso)",
@@ -157,7 +157,7 @@
     },
     {
         "id": "CHARCT013",
-        "nombre": "Mr. Maellard (Papá de Papaleta)",
+        "nombre": "Señor Mellard (Mr. Maellard)",
         "nombre_ingles": "Mr. Maellard",
         "nombre_latino": "Señor Mellard",
         "raza": "Hombre-paleta",
@@ -170,7 +170,7 @@
     },
     {
         "id": "CHARCT014",
-        "nombre": "Muscle Dad (Papá de Musculoso)",
+        "nombre": "Papá Musculoso (Muscle Dad)",
         "nombre_ingles": "Muscle Dad",
         "nombre_latino": "Papá Musculoso",
         "raza": "Humanoide verde",
@@ -183,7 +183,7 @@
     },
     {
         "id": "CHARCT015",
-        "nombre": "Anti-Pops (Anti-Papaleta)",
+        "nombre": "Anti-Papaleta (Anti-Pops)",
         "nombre_ingles": "Anti-Pops",
         "nombre_latino": "Anti-Papaleta",
         "raza": "Hombre-paleta",
@@ -196,7 +196,7 @@
     },
     {
         "id": "CHARCT016",
-        "nombre": "Garrett Bobby Ferguson (Garrett Bobby Ferguson)",
+        "nombre": "Garrett Bobby Ferguson",
         "nombre_ingles": "Garrett Bobby Ferguson",
         "nombre_latino": "Garrett Bobby Ferguson",
         "raza": "Cabeza flotante gigante",
@@ -209,7 +209,7 @@
     },
     {
         "id": "CHARCT017",
-        "nombre": "Death (La Muerte)",
+        "nombre": "La Muerte (Death)",
         "nombre_ingles": "Death",
         "nombre_latino": "La Muerte",
         "raza": "Entidad sobrenatural",
@@ -222,7 +222,7 @@
     },
     {
         "id": "CHARCT018",
-        "nombre": "Techmo (Tecmo)",
+        "nombre": "Tecmo (Techmo)",
         "nombre_ingles": "Techmo",
         "nombre_latino": "Tecmo",
         "raza": "Mago cibernético",
@@ -235,7 +235,7 @@
     },
     {
         "id": "CHARCT019",
-        "nombre": "Don (Don)",
+        "nombre": "Don",
         "nombre_ingles": "Don",
         "nombre_latino": "Don",
         "raza": "Mapache",
@@ -248,7 +248,7 @@
     },
     {
         "id": "CHARCT020",
-        "nombre": "Peeps (Peeps)",
+        "nombre": "Fisgón (Peeps)",
         "nombre_ingles": "Peeps",
         "nombre_latino": "Fisgón",
         "raza": "Ojo gigante",
@@ -261,7 +261,7 @@
     },
     {
         "id": "CHARCT021",
-        "nombre": "Susan (Susan)",
+        "nombre": "Susan",
         "nombre_ingles": "Susan",
         "nombre_latino": "Susan",
         "raza": "Humana",
@@ -287,7 +287,7 @@
     },
     {
         "id": "CHARCT023",
-        "nombre": "Gene (Gene)",
+        "nombre": "Gene",
         "nombre_ingles": "Gene",
         "nombre_latino": "Gene",
         "raza": "Máquina de sodas",
@@ -326,7 +326,7 @@
     },
     {
         "id": "CHARCT026",
-        "nombre": "Recap Robot (Robot Recapitulador)",
+        "nombre": "Robot Recapitulador (Recap Robot)",
         "nombre_ingles": "Recap Robot",
         "nombre_latino": "Robot Recapitulador",
         "raza": "Robot",
@@ -339,7 +339,7 @@
     },
     {
         "id": "CHARCT027",
-        "nombre": "Party Horse (Caballo Fiestero)",
+        "nombre": "Caballo Fiestero (Party Horse)",
         "nombre_ingles": "Party Horse",
         "nombre_latino": "Caballo Fiestero",
         "raza": "Caballo espacial",
@@ -352,7 +352,7 @@
     },
     {
         "id": "CHARCT028",
-        "nombre": "Carl Putter (Papá de CJ)",
+        "nombre": "Carl Putter",
         "nombre_ingles": "Carl Putter",
         "nombre_latino": "Carl Putter",
         "raza": "Nube Humanoide",
@@ -378,7 +378,7 @@
     },
     {
         "id": "CHARCT030",
-        "nombre": "Dr. Henry (Dr. Henry)",
+        "nombre": "Dr. Henry",
         "nombre_ingles": "Dr. Henry",
         "nombre_latino": "Dr. Henry",
         "raza": "Humano",
@@ -391,7 +391,7 @@
     },
     {
         "id": "CHARCT031",
-        "nombre": "Stef (Stef)",
+        "nombre": "Stef",
         "nombre_ingles": "Stef",
         "nombre_latino": "Stef",
         "raza": "Murciélago antropomórfico",
@@ -404,7 +404,7 @@
     },
     {
         "id": "CHARCT032",
-        "nombre": "Pam (Pam)",
+        "nombre": "Pam",
         "nombre_ingles": "Pam",
         "nombre_latino": "Pam",
         "raza": "Humana",
@@ -417,7 +417,7 @@
     },
     {
         "id": "CHARCT033",
-        "nombre": "Gary (Gary)",
+        "nombre": "Gary",
         "nombre_ingles": "Gary",
         "nombre_latino": "Gary",
         "raza": "Synthediano",
@@ -430,7 +430,7 @@
     },
     {
         "id": "CHARCT034",
-        "nombre": "Low Five Ghost (Fantasmón)",
+        "nombre": "Fantasmón (Low Five Ghost)",
         "nombre_ingles": "Low Five Ghost",
         "nombre_latino": "Fantasmón",
         "raza": "Fantasma",
@@ -443,7 +443,7 @@
     },
     {
         "id": "CHARCT035",
-        "nombre": "Mona (Mona)",
+        "nombre": "Mona",
         "nombre_ingles": "Mona",
         "nombre_latino": "Mona",
         "raza": "Humana",
@@ -534,7 +534,7 @@
     },
     {
         "id": "CHARCT042",
-        "nombre": "The Hammer (El Martillo)",
+        "nombre": "El Martillo (The Hammer)",
         "nombre_ingles": "The Hammer",
         "nombre_latino": "El Martillo",
         "raza": "Martillo antropomórfico",
@@ -547,7 +547,7 @@
     },
     {
         "id": "CHARCT043",
-        "nombre": "The Baby Ducks (Los Patitos)",
+        "nombre": "Los Patitos (The Baby Ducks)",
         "nombre_ingles": "The Baby Ducks",
         "nombre_latino": "Los Patitos",
         "raza": "Patos bebés",
@@ -560,7 +560,7 @@
     },
     {
         "id": "CHARCT044",
-        "nombre": "The Guardian (El Guardián)",
+        "nombre": "El Guardián (The Guardian)",
         "nombre_ingles": "The Guardian",
         "nombre_latino": "El Guardián",
         "raza": "Entidad cósmica",
@@ -573,7 +573,7 @@
     },
     {
         "id": "CHARCT045",
-        "nombre": "The Death Kwon Do Master (El Maestro de Death Kwon Do)",
+        "nombre": "El Maestro de Death Kwon Do (The Death Kwon Do Master)",
         "nombre_ingles": "The Death Kwon Do Master",
         "nombre_latino": "El Maestro de Death Kwon Do",
         "raza": "Humano",
@@ -586,7 +586,7 @@
     },
     {
         "id": "CHARCT046",
-        "nombre": "The Coffee Bean (El Grano de Café)",
+        "nombre": "El Grano de Café (The Coffee Bean)",
         "nombre_ingles": "The Coffee Bean",
         "nombre_latino": "El Grano de Café",
         "raza": "Grano de café gigante",
@@ -599,7 +599,7 @@
     },
     {
         "id": "CHARCT047",
-        "nombre": "The Unicorns (Los Unicornios)",
+        "nombre": "Los Unicornios (The Unicorns)",
         "nombre_ingles": "The Unicorns",
         "nombre_latino": "Los Unicornios",
         "raza": "Unicornios",
@@ -612,7 +612,7 @@
     },
     {
         "id": "CHARCT048",
-        "nombre": "The Prank Master (Bromista Maestro)",
+        "nombre": "Bromista Maestro (The Prank Master)",
         "nombre_ingles": "The Prank Master",
         "nombre_latino": "Bromista Maestro",
         "raza": "Humanos",
@@ -625,7 +625,7 @@
     },
     {
         "id": "CHARCT049",
-        "nombre": "The Hot Dogs (Las Salchichas)",
+        "nombre": "Las Salchichas (The Hot Dogs)",
         "nombre_ingles": "The Hot Dogs",
         "nombre_latino": "Las Salchichas",
         "raza": "Salchichas vivientes",
@@ -651,7 +651,7 @@
     },
     {
         "id": "CHARCT051",
-        "nombre": "The Destroyer of Worlds (El Destructor de Mundos)",
+        "nombre": "El Destructor de Mundos (The Destroyer of Worlds)",
         "nombre_ingles": "The Destroyer of Worlds",
         "nombre_latino": "El Destructor de Mundos",
         "raza": "Monstruo digital",
