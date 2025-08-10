@@ -55,7 +55,6 @@ def obtener_personajes_principales():
     
     return principales
 
-
 @router.get("/aleatorio/6", response_model=List[Personaje])
 def obtener_6_personajes_aleatorios():
     data = data_manager.get_data("personajes")
