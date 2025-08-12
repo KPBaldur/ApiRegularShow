@@ -35,8 +35,8 @@ app.include_router(comics.router)
 # CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
+    allow_origins=settings.allowed_origins,
+    allow_credentials=True,  # Si usas ["*"] en dev, considera poner False
     allow_methods=["*"],
     allow_headers=["*"],
 )

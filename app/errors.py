@@ -1,7 +1,7 @@
 from fastapi import Request, status
 from fastapi.responses import JSONResponse
 from fastapi.exceptions import RequestValidationError
-
+from app.config import settings
 
 class NotFoundError(Exception):
     def __init__(self, detail: str = "Recurso no encontrado"):
@@ -21,11 +21,16 @@ def configure_error_handlers(app):
     async def validation_error_handler(request: Request, exc: RequestValidationError):
         return JSONResponse(
             status_code=status.HTTP_422_UNPROCESSABLE_ENTITY,
-            content={"detail": exc.errors()}
+            content={"errors": exc.errors()}  # Clave cambiada a "errors"
         )
 
     @app.exception_handler(Exception)
     async def generic_error_handler(request: Request, exc: Exception):
+        # Loguear a consola si estamos en debug
+        if settings.debug:
+            import traceback
+            print("❌ Error interno en la API:")
+            traceback.print_exc()
         return JSONResponse(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             content={"detail": "Internal server error"}
