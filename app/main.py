@@ -5,14 +5,13 @@ from app.errors import configure_error_handlers
 from app.config import settings
 from fastapi.responses import RedirectResponse
 
-
 app = FastAPI(
     title=settings.app_name,
     description="API pública para obtener información de la serie *Regular Show*.",
     version="1.0.0",
-    docs_url="/docs",
-    redoc_url="/redoc",
-    openapi_url="/openapi.json",
+    docs_url=None,           # Deshabilita Swagger UI interno
+    redoc_url=None,          # Deshabilita ReDoc interno
+    openapi_url="/openapi.json",  # Mantén el esquema disponible
     contact={
         "name": "Kevin P.",
         "url": "https://kpbaldur.github.io/RegularShowWiki/index.html",
@@ -23,7 +22,7 @@ app = FastAPI(
         "url": "https://opensource.org/licenses/MIT"
     },
     terms_of_service="https://github.com/KPBaldur/ApiRegularShow#terms"
-)   
+)
 
 # Routers
 app.include_router(personajes.router)
@@ -31,32 +30,28 @@ app.include_router(capitulos.router)
 app.include_router(temporadas.router)
 app.include_router(comics.router)
 
-
-# CORS
+# CORS (controlado por .env)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=settings.allowed_origins,
-    allow_credentials=True,  # Si usas ["*"] en dev, considera poner False
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-@app.get("/")
-def redirect_to_wiki():
-    return {
-        "message": "API pública para obtener información de la serie Regular Show. " \
-                   "Esta API permite consultar personajes, capitulos, comics y temporadas. " \
-                   "Está pensada para ser consumida por otros desarrolladores y por la web oficial del proyecto.",
-        "documentation": "Ir a la Wiki del Proyecto (https://kpbaldur.github.io/RegularShowWiki)"
-    }
+# --- Redirecciones a la Wiki ---
+@app.get("/", include_in_schema=False)
+def redirect_root():
+    return RedirectResponse("https://kpbaldur.github.io/RegularShowWiki", status_code=307)
 
 @app.get("/docs", include_in_schema=False)
 async def redirect_docs():
-    return RedirectResponse("https://kpbaldur.github.io/RegularShowWiki", status_code=307)
+    return RedirectResponse("https://kpbaldur.github.io/RegularShowWiki/docs", status_code=307)
 
 @app.get("/redoc", include_in_schema=False)
 async def redirect_redoc():
-    return RedirectResponse("https://kpbaldur.github.io/RegularShowWiki", status_code=307)
+    # Si tienes una página específica para redoc, cámbiala aquí
+    return RedirectResponse("https://kpbaldur.github.io/RegularShowWiki/docs", status_code=307)
 
 # Global Errors
 configure_error_handlers(app)
