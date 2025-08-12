@@ -1,6 +1,6 @@
 from fastapi import APIRouter, HTTPException, Query
 from app.models import Capitulo, Temporada
-from typing import List, Optional
+from typing import List, Optional, Dict, Any
 from app.data.data_manager import DataManager
 from app.data import data_manager
 
@@ -11,20 +11,51 @@ router = APIRouter(
 
 data_manager = DataManager()
 
+# Utilidades
+def _ensure_score(x) -> Optional[float]:
+    try:
+        if x in (None, "", "null"):
+            return float(x)
+    except (ValueError, TypeError):
+        return None
+    
+def _capitulos_de_temporada(num_temporada:_int) -> List[Dict[str, Any]]:
+    caps = data_manager.get_data("capitulos")
+    filtrados = [c for c in caps if c.get("numero_temporada") == num_temporada]
+
+    for c in filtrados:
+        c["imdb_score"] = _ensure_score(c.get("imdb_score"))
+        c.setdefault("imagen_url", None)
+    return filtrados
+
+# Obtener todos los capítulos y temporadas
 @router.get("/capitulos-por-temporada", response_model=List[dict])
 def capitulos_por_temporada():
+    
+    #Para cada temporada devuelve: numero_temporada, total_capitulos y una lista con los datos
     temporadas = data_manager.get_data("temporadas")
-    capitulos = data_manager.get_data("capitulos")
     resultado = []
-    for temporada in temporadas:
-        numero_temporada = temporada["numero_temporada"]
-        capitulos_temp = [c for c in capitulos if c["numero_temporada"] == numero_temporada]
+
+    for temp in temporadas:
+        num_temp = temp.get_data("temporadas")
+        caps = _capitulos_de_temporada(num_temp)
+
         resultado.append({
-            "temporada": numero_temporada,
-            "total_capitulos": len(capitulos_temp),
-            "nombres_capitulos": [c["nombre"] for c in capitulos_temp]
+            "numero_temporada": num_temp,
+            "total_capitulos": len(caps),
+            "capitulos": [
+                {
+                    "id": c.get("id"),
+                    "numero": c.get("numero"),
+                    "titulo": c.get("titulo"),
+                    "imdb_score": c.get("imdb_score"),
+                    "imagen_url": c.get("imagen_url")
+                }
+                for c in sorted(caps, key=lambda x: x.get("numero", 0))
+            ]
         })
     return resultado
+
 
 @router.get("/mejor-capitulo-por-temporada", response_model=List[Capitulo])
 def mejor_capitulo_por_temporada():
