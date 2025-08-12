@@ -1,4 +1,3 @@
-from app.data import data_manager
 from fastapi import APIRouter, HTTPException, Query
 from app.models import Personaje
 from typing import List, Optional
@@ -28,9 +27,9 @@ def obtener_personajes(
     data = data_manager.get_data("personajes")
 
     if nombre:
-        data = [p for p in data if nombre.lower() in p["nombre"].lower()]
+        data = [p for p in data if nombre.lower() in p.get("nombre", "").lower()]
     if raza:
-        data = [p for p in data if raza.lower() in p["raza"].lower()]
+        data = [p for p in data if raza.lower() in p.get("raza", "").lower()]
     if tipo_personaje:
         data = [p for p in data if p.get("tipo_personaje", "").lower() == tipo_personaje.lower()]
     if estado:
@@ -69,7 +68,6 @@ def obtener_personajes_secundarios():
         raise HTTPException(status_code=404, detail="No se encontraron personajes secundarios")
     return secundarios
 
-
 #==============================================================
 # 3. Endpoint unificado para personajes aleatorios
 #==============================================================
@@ -80,14 +78,13 @@ def obtener_personajes_aleatorios(cantidad: int):
         raise HTTPException(status_code=404, detail="No hay personajes disponibles")
     return random.sample(data, min(cantidad, len(data)))
 
-
 #==============================================================
 # 4. Endpoints de busqueda por campos especificos
 #==============================================================
 @router.get("/nombre/{nombre}", response_model=List[Personaje])
 def obtener_personajes_por_nombre(nombre: str):
     data = data_manager.get_data("personajes")
-    resultado = [p for p in data if nombre.lower() in p["nombre"].lower()]
+    resultado = [p for p in data if nombre.lower() in p.get("nombre", "").lower()]
     if not resultado:
         raise HTTPException(status_code=404, detail="No se encontraron personajes con ese nombre")
     return resultado
@@ -95,11 +92,10 @@ def obtener_personajes_por_nombre(nombre: str):
 @router.get("/tipo/{tipo_personaje}", response_model=List[Personaje])
 def obtener_personajes_por_tipo(tipo_personaje: str):
     data = data_manager.get_data("personajes")
-    resultado = [p for p in data if tipo_personaje.lower() in p["tipo_personaje"].lower()]
+    resultado = [p for p in data if tipo_personaje.lower() in p.get("tipo_personaje", "").lower()]
     if not resultado:
         raise HTTPException(status_code=404, detail="No se encontraron personajes de ese tipo")
     return resultado
-
 
 #==============================================================
 # 5. Endpoint de busqueda por ID
@@ -108,6 +104,6 @@ def obtener_personajes_por_tipo(tipo_personaje: str):
 def obtener_personaje_por_id(id: str):
     data = data_manager.get_data("personajes")
     for personaje in data:
-        if personaje["id"].lower() == id.lower():
+        if personaje.get("id", "").lower() == id.lower():
             return personaje
     raise HTTPException(status_code=404, detail="Personaje no encontrado")
