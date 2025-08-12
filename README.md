@@ -1,48 +1,43 @@
 # 📺 Regular Show Mini Wiki API
 ![API Deploy](https://img.shields.io/badge/Deployed-Render-2ea44f?logo=render&logoColor=white)
 
-Una API RESTful desarrollada con **FastAPI** para consultar informacion completa sobre
-la serie **"Regular Show"** (Un Show Mas), incluyendo personajes, capitulos,
-temporadas y comics.
+Una API RESTful desarrollada con **FastAPI** para consultar información completa sobre
+la serie **"Regular Show"** (Un Show Más): personajes, capítulos, temporadas y cómics.
 
-> ⚡ Esta API está pensada como recurso educativo y de referencia para desarrolladores y fans.
+> ⚡ Recurso educativo y de referencia para desarrolladores y fans.
 
 ---
 
-## 🚀 **Prueba la API en Producción y documentacion Swagger**
-- [📘 Documentación Swagger](http://localhost:8000/docs)
-- [🌐 Web Wiki Frontend](https://kpbaldur.github.io/RegularShowWiki/index.html) — Página que consume esta API y entrega más contexto visual.
+## 🚀 **Producción y Documentación**
+- 📘 **Documentación oficial (Wiki)**: https://kpbaldur.github.io/RegularShowWiki
+- 🔎 **Esquema OpenAPI (machine-readable)**: `GET /openapi.json` (desde tu servidor)
+- 🧭 **Redirecciones**:
+  - `GET /` → redirige a la Wiki
+  - `GET /docs` → redirige a la Wiki (`/docs`)
+  - `GET /redoc` → redirige a la Wiki (`/docs`)
 
-Usa la documentación interactiva de Swagger para explorar todos los endpoints fácilmente.
-
-| Recurso    | Endpoint                  |
-|------------|----------------------------|
-| Personajes | `/personajes/`             |
-| Capítulos  | `/capitulos/`              |
-| Temporadas | `/temporadas/`             |
-| Cómics     | `/comics/`                 |
+> Nota: El Swagger/Redoc **interno** de FastAPI está deshabilitado. Usa la Wiki para navegar la documentación. La Wiki puede consumir `/openapi.json` si lo necesita.
 
 ---
 
 ## 📦 Estructura del Proyecto
 
-```
 app/
-├── main.py               # Punto de entrada de la API
-├── config.py             # Configuración general
-├── errors.py             # Manejo centralizado de errores
-├── models.py             # Esquemas Pydantic para validación
+├── main.py # Punto de entrada de la API (con redirecciones a la Wiki)
+├── config.py # Configuración (.env: DEBUG, ALLOWED_ORIGINS, etc.)
+├── errors.py # Manejo centralizado de errores
+├── models.py # Esquemas Pydantic
 ├── data/
-│   ├── personajes.json
-│   ├── capitulos.json
-│   ├── temporadas.json
-│   └── comics.json
-├── routers/
-│   ├── personajes.py
-│   ├── capitulos.py
-│   ├── temporadas.py
-│   └── comics.py
-└── data_manager.py       # Singleton para acceder a los datos
+│ ├── personajes.json
+│ ├── capitulos.json
+│ ├── temporadas.json
+│ └── comics.json
+├── data_manager.py # Singleton de datos con normalización ligera
+└── routers/
+├── personajes.py
+├── capitulos.py
+├── temporadas.py
+└── comics.py
 
 ---
 
@@ -75,24 +70,24 @@ uvicorn app.main:app --reload
 python -m uvicorn app.main:app --reload
 ```
 
-📍 **Documentación local:**
-http://localhost:8000/docs
+## Documentación local: redirigirá a la Wiki
+
+Esquema: http://localhost:8000/openapi.json
 
 ---
 
 ## 📚 Endpoints por recurso
+Parametros comunes:  skip, limit (paginación).
+as respuestas estan validadas por Pydantic
 
 ---
 
 ### 👤 /personajes
 
 #### `GET /personajes`
-Consulta personajes con paginación y filtros opcionales.
 
 Parámetros opcionales:
-- `skip`: desde qué índice comenzar (por defecto 0)
-- `limit`: cuántos personajes devolver (por defecto 10)
-- `nombre`, `raza`, `tipo_personaje`, `profesion`: filtros parciales
+-`filtros`: `nombre`, `raza`, `tipo_personaje`, `estado`, `capitulo_aparicion`
 
 #### `GET /personajes/todos`
 Retorna todos los personajes sin paginación ni filtros.
@@ -149,20 +144,17 @@ Consulta un cómic por su ID (e.g., `COMC001`).
 
 ## 💡 **Ejemplos de uso (producción o local)**
 
-Obtener primeros 5 personajes:
-```
-GET /personajes?skip=0&limit=5
-```
+Obtener 5 personajes:
+-`GET /personajes?skip=0&limit=5`
 
 Filtrar capítulos por temporada:
-```
-GET /capitulos?temporada=1
-```
+-`GET /capitulos?temporada=8`
 
-Obtener cómics de 2014:
-```
-GET /comics?publicacion=2014
-```
+Top 10 capítulos por puntaje descendente:
+-`GET /capitulos/top?limit=10&sort_by=imdb_score&order=desc`
+
+Resumen de temporadas:
+-`GET /temporadas/resumen`
 
 ---
 
@@ -175,8 +167,8 @@ GET /comics?publicacion=2014
 
 ## 🔔 **Preguntas frecuentes (FAQ)**
 
-### ❓ ¿Por qué me devuelve 404 en `/`?
-La API está pensada para usarse vía `/docs` o directamente por los endpoints.
+### ❓ ¿Por qué /docs no muestra Swagger local?
+Redirigimos la documentación a la Wiki. El esquema sigue disponible en /openapi.json.
 
 ### ❓ ¿Cómo reporto un problema?
 Abre un issue en este repositorio o contáctame.
