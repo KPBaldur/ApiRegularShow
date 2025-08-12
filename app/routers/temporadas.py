@@ -56,23 +56,29 @@ def capitulos_por_temporada():
         })
     return resultado
 
-
+# OBTENER MEJOR CAPITULO POR TEMPORADA
 @router.get("/mejor-capitulo-por-temporada", response_model=List[Capitulo])
 def mejor_capitulo_por_temporada():
-    capitulos = data_manager.get_data("capitulos")
-    mejores_por_temporada = {}
+    
+    # Devuelve el mejor capitulo (mayor imdb_score) por cada temporada.
+    caps = data_manager.get_data("capitulos")
+    mejores_por_temp: Dict[int, Dict[str, Any]] = {}
 
-    for cap in capitulos:
-        num_temp = cap.get("temporada")
-        if num_temp is None:
+    for c in caps:
+        num_temp = c.get("temporada")
+        score = _ensure_score(c.get("imdb_score"))
+        if num_temp is None or score is None:
             continue
 
-        score = cap.get("imdb_score", 0)
-        if num_temp not in mejores_por_temporada or score > mejores_por_temporada[num_temp]["imdb_score"]:
-            mejores_por_temporada[num_temp] = cap
+        # Aqui guardamos con score normalizado
+        if (num_temp not in mejores_por_temp) or (score > mejores_por_temp[num_temp]["imdb_score"]):
+            c_norm = dict(c)
+            c_norm["imdb_score"] = score
+            c_norm.setdefault("imagen_url", None)
+            mejores_por_temp[num_temp] = c_norm
 
     # Ordenar por número de temporada
-    return [mejores_por_temporada[temp] for temp in sorted(mejores_por_temporada.keys())]
+    return [mejores_por_temp[temp] for temp in sorted(mejores_por_temp.keys())]
 
 
 @router.get("/", response_model=List[Temporada])
