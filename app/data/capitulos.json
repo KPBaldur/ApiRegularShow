@@ -1999,7 +1999,7 @@
     "fecha_estreno": "2015-06-26",
     "imdb_score": 8.5,
     "sinopsis": "Benson va a despedir a Mordecai si Rigby no puede traerlo de regreso de una extraña ciudad llamada Dumptown.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/YseLK6Q.jpeg"
   },
   {
     "id": "CAP183",
@@ -2007,10 +2007,10 @@
     "numero": 2,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-06-26",
+    "fecha_estreno": "2015-08-06",
     "imdb_score": 8.3,
-    "sinopsis": "El grupo compite por ganar un codiciado premio del parque, pero la competencia se vuelve feroz y llena de trampas.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "sinopsis": "Después de que Benson no consigió llevarse a su casa el premio del mejor encargado del parque del año, los chicos quieren hacer que él se sienta bien.",
+    "imagen_url": "https://i.imgur.com/JBdBAan.jpeg"
   },
   {
     "id": "CAP184",
@@ -2018,10 +2018,10 @@
     "numero": 3,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-01-01",
-    "imdb_score": 8.0,
-    "sinopsis": "Mordecai y Rigby intentan unirse a un club exclusivo de almuerzos, pero deben pasar una serie de pruebas absurdas.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "fecha_estreno": "2015-08-13",
+    "imdb_score": 8.6,
+    "sinopsis": "Rigby arruina el almuerzo lujoso del Señor Maellard, y ahora él o Benson tendrán que escribirle una carta de renuncia.",
+    "imagen_url": "https://i.imgur.com/4JEyk6l.jpeg"
   },
   {
     "id": "CAP185",
@@ -2029,46 +2029,57 @@
     "numero": 4,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-07-09",
-    "imdb_score": 8.0,
-    "sinopsis": "Pops se convierte en una sensación local tras aparecer en las noticias, pero la fama le trae problemas inesperados.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "fecha_estreno": "2015-08-20",
+    "imdb_score": 7.9,
+    "sinopsis": "Margarita realmente desea ser la anfitriona en el segmento semanal de las noticias locales.",
+    "imagen_url": "https://i.imgur.com/vBkq2c0.jpeg"
   },
   {
     "id": "CAP186",
-    "titulo": "Birthday Gift",
+    "titulo": "The Dome Experiment Special",
     "numero": 5,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-07-16",
-    "imdb_score": 8.0,
-    "sinopsis": "Mordecai y Rigby olvidan el cumpleaños de Skips y se embarcan en una misión para encontrar el regalo perfecto a último minuto.",
+    "fecha_estreno": "2015-08-27",
+    "imdb_score": 8.8,
+    "sinopsis": "Benson quiere demostrarle a todos que él tenia razón acerca de la fecha en la que ocurriría el Experimento del Domo.",
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
     "id": "CAP187",
-    "titulo": "Cat Videos",
+    "titulo": "Birthday Gift",
     "numero": 6,
     "temporada": 7,
     "temporada_id": "TEMP07",
-    "fecha_estreno": "2015-07-23",
-    "imdb_score": 8.0,
-    "sinopsis": "El grupo se obsesiona con videos de gatos en internet, pero pronto descubren que hay algo extraño detrás de ellos.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "fecha_estreno": "2015-09-03",
+    "imdb_score": 8.2,
+    "sinopsis": "A pesar de tener un mal historial de regalos, Rigby se propone de darle a Mordecai un buen regalo para su cumpleaños.",
+    "imagen_url": "https://i.imgur.com/95QJ7qc.jpeg"
   },
   {
     "id": "CAP188",
+    "titulo": "Cat Videos",
+    "numero": 7,
+    "temporada": 7,
+    "temporada_id": "TEMP07",
+    "fecha_estreno": "2015-09-10",
+    "imdb_score": 7.6,
+    "sinopsis": "Mordecai y Rigby deben detener a Benson de ver videos de gatos.",
+    "imagen_url": "https://i.imgur.com/o1C8MWR.jpeg"
+  },
+  {
+    "id": "CAP189",
     "titulo": "Struck by Lightning",
     "numero": 7,
     "temporada": 7,
     "temporada_id": "TEMP07",
     "fecha_estreno": "2015-07-30",
-    "imdb_score": 8.0,
+    "imdb_score": 8.1,
     "sinopsis": "Muscle Man es alcanzado por un rayo y desarrolla habilidades extrañas, lo que causa caos en el parque.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/oDgscOC.jpeg"
   },
   {
-    "id": "CAP189",
+    "id": "CAP190",
     "titulo": "Terror Tales of the Park V",
     "numero": 8,
     "temporada": 7,
@@ -2076,10 +2087,10 @@
     "fecha_estreno": "2015-10-29",
     "imdb_score": 8.0,
     "sinopsis": "El grupo cuenta nuevas historias de terror en Halloween, cada una más extraña y sobrenatural que la anterior.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/6XN3n98.jpeg"
   },
   {
-    "id": "CAP190",
+    "id": "CAP191",
     "titulo": "The Return of Party Horse",
     "numero": 9,
     "temporada": 7,
@@ -2087,10 +2098,10 @@
     "fecha_estreno": "2015-11-05",
     "imdb_score": 8.0,
     "sinopsis": "Party Horse regresa al parque buscando ayuda para salvar su planeta, involucrando a todos en una aventura espacial.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/0yxzVFs.jpeg"
   },
   {
-    "id": "CAP191",
+    "id": "CAP192",
     "titulo": "Sleep Cycle",
     "numero": 10,
     "temporada": 7,
@@ -2098,10 +2109,10 @@
     "fecha_estreno": "2015-11-12",
     "imdb_score": 8.0,
     "sinopsis": "Mordecai y Rigby intentan arreglar su ciclo de sueño, pero terminan atrapados en un bucle de pesadillas.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/zllKi7d.jpeg"
   },
   {
-    "id": "CAP192",
+    "id": "CAP193",
     "titulo": "Just Friends",
     "numero": 11,
     "temporada": 7,
@@ -2109,10 +2120,10 @@
     "fecha_estreno": "2015-11-19",
     "imdb_score": 8.0,
     "sinopsis": "Mordecai y Margaret se reencuentran y deben decidir si pueden ser solo amigos o si aún hay sentimientos entre ellos.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/VAYAy2N.jpeg"
   },
   {
-    "id": "CAP193",
+    "id": "CAP194",
     "titulo": "Benson's Pig",
     "numero": 12,
     "temporada": 7,
@@ -2120,10 +2131,10 @@
     "fecha_estreno": "2015-12-03",
     "imdb_score": 8.0,
     "sinopsis": "Benson se convierte en el nuevo dueño de un cerdo, pero las cosas se complican cuando el cerdo se escapa.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/5Njzd4t.jpeg"
   },
   {
-    "id": "CAP194",
+    "id": "CAP195",
     "titulo": "The Eileen Plan",
     "numero": 13,
     "temporada": 7,
@@ -2131,10 +2142,10 @@
     "fecha_estreno": "2015-11-13",
     "imdb_score": 8.0,
     "sinopsis": "Eileen elabora un plan para mejorar el parque, pero sus ideas generan situaciones inesperadas.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/D33Wggt.jpeg"
   },
   {
-    "id": "CAP195",
+    "id": "CAP196",
     "titulo": "Hello China",
     "numero": 13,
     "temporada": 7,
@@ -2142,10 +2153,10 @@
     "fecha_estreno": "2015-11-13",
     "imdb_score": 8.0,
     "sinopsis": "Mordecai y Rigby viajan a China para aprender sobre la cultura, pero terminan enredados en una aventura internacional.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/d799avD.jpeg"
   },
   {
-    "id": "CAP196",
+    "id": "CAP197",
     "titulo": "Crazy Fake Plan",
     "numero": 14,
     "temporada": 7,
@@ -2153,10 +2164,10 @@
     "fecha_estreno": "2015-12-01",
     "imdb_score": 8.0,
     "sinopsis": "El grupo idea un plan falso para engañar a un rival, pero las cosas se salen de control rápidamente.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/9pTjImw.jpeg"
   },
   {
-    "id": "CAP197",
+    "id": "CAP198",
     "titulo": "Win That Prize",
     "numero": 15,
     "temporada": 7,
@@ -2164,10 +2175,10 @@
     "fecha_estreno": "2015-12-02",
     "imdb_score": 8.0,
     "sinopsis": "Papaleta va a la estacion de television YZB para asistir a una grabacion en vivo de un programa de juegos, Win That Prize, pero en cambio esta involucrando en la cadena de television.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/M81g1wm.jpeg"
   },
   {
-    "id": "CAP198",
+    "id": "CAP199",
     "titulo": "Snow Tubing",
     "numero": 16,
     "temporada": 7,
@@ -2175,10 +2186,10 @@
     "fecha_estreno": "2015-12-03",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo A Bunch of Full Grown Geese de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/l35TIec.jpeg"
   },
   {
-    "id": "CAP199",
+    "id": "CAP200",
     "titulo": "Chili Cook-Off",
     "numero": 17,
     "temporada": 7,
@@ -2186,10 +2197,10 @@
     "fecha_estreno": "2016-03-05",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo Fool Me Twice de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/NO3qFUA.jpeg"
   },
   {
-    "id": "CAP200",
+    "id": "CAP201",
     "titulo": "Donut Factory Holiday",
     "numero": 18,
     "temporada": 7,
@@ -2197,10 +2208,10 @@
     "fecha_estreno": "2016-03-12",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo Donut Factory Holiday de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/rJmKjkT.jpeg"
   },
   {
-    "id": "CAP201",
+    "id": "CAP202",
     "titulo": "Gymblonski",
     "numero": 19,
     "temporada": 7,
@@ -2208,10 +2219,10 @@
     "fecha_estreno": "2016-03-19",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo Picking Up Margaret de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/E1fwV0x.jpeg"
   },
   {
-    "id": "CAP202",
+    "id": "CAP203",
     "titulo": "Guys Night 2",
     "numero": 20,
     "temporada": 7,
@@ -2219,10 +2230,10 @@
     "fecha_estreno": "2016-03-26",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo K.I.L.I.T. Radio de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/9EpS7zU.jpeg"
   },
   {
-    "id": "CAP203",
+    "id": "CAP204",
     "titulo": "Gary's Synthesizer",
     "numero": 21,
     "temporada": 7,
@@ -2230,10 +2241,10 @@
     "fecha_estreno": "2016-04-02",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo Gary's Synthesizer de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/UuCkyy4.jpeg"
   },
   {
-    "id": "CAP204",
+    "id": "CAP205",
     "titulo": "California King",
     "numero": 22,
     "temporada": 7,
@@ -2241,10 +2252,10 @@
     "fecha_estreno": "2016-04-09",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo Skips' Stress de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/PsJqrKf.jpeg"
   },
   {
-    "id": "CAP205",
+    "id": "CAP206",
     "titulo": "Cube Bros",
     "numero": 23,
     "temporada": 7,
@@ -2252,10 +2263,10 @@
     "fecha_estreno": "2016-04-16",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo Cool Cubed de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/tJIGU0K.jpeg"
   },
   {
-    "id": "CAP206",
+    "id": "CAP207",
     "titulo": "Maellard's Package",
     "numero": 24,
     "temporada": 7,
@@ -2263,10 +2274,10 @@
     "fecha_estreno": "2016-04-23",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo Maellard's Package de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/NyBsTzU.jpeg"
   },
   {
-    "id": "CAP207",
+    "id": "CAP208",
     "titulo": "Rigby Goes to the Prom",
     "numero": 25,
     "temporada": 7,
@@ -2274,10 +2285,10 @@
     "fecha_estreno": "2016-05-05",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo Rigby Goes to the Prom de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/rrmdTaK.jpeg"
   },
   {
-    "id": "CAP208",
+    "id": "CAP209",
     "titulo": "The Button",
     "numero": 26,
     "temporada": 7,
@@ -2285,10 +2296,10 @@
     "fecha_estreno": "2016-05-12",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo Family BBQ de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/dwQdNMk.jpeg"
   },
   {
-    "id": "CAP209",
+    "id": "CAP210",
     "titulo": "Favorite Shirt",
     "numero": 27,
     "temporada": 7,
@@ -2296,10 +2307,10 @@
     "fecha_estreno": "2016-05-19",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo Favorite Shirt de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/ei2aA1I.jpeg"
   },
   {
-    "id": "CAP210",
+    "id": "CAP211",
     "titulo": "Marvolo the Wizard",
     "numero": 28,
     "temporada": 7,
@@ -2307,10 +2318,10 @@
     "fecha_estreno": "2016-05-26",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo Marvolo the Wizard de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/cUN2dMV.jpeg"
   },
   {
-    "id": "CAP211",
+    "id": "CAP212",
     "titulo": "Pops' Favorite Planet",
     "numero": 29,
     "temporada": 7,
@@ -2318,10 +2329,10 @@
     "fecha_estreno": "2016-06-02",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo Blind Trust de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/2nQGnXt.jpeg"
   },
   {
-    "id": "CAP212",
+    "id": "CAP213",
     "titulo": "Pam I Am",
     "numero": 30,
     "temporada": 7,
@@ -2329,10 +2340,10 @@
     "fecha_estreno": "2016-06-02",
     "imdb_score": 8.0,
     "sinopsis": "Benson comienza a salir con una nueva chica llamada Pam, pero sus amigos sospechan que ella oculta algo.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/JvXaebU.jpeg"
   },
   {
-    "id": "CAP213",
+    "id": "CAP214",
     "titulo": "Lame Lockdown",
     "numero": 31,
     "temporada": 7,
@@ -2340,10 +2351,10 @@
     "fecha_estreno": "2016-06-09",
     "imdb_score": 8.0,
     "sinopsis": "Sinopsis del capítulo Lame Lockdown de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/cMc1CAT.jpeg"
   },
   {
-    "id": "CAP214",
+    "id": "CAP215",
     "titulo": "VIP Members Only",
     "numero": 32,
     "temporada": 7,
@@ -2351,32 +2362,32 @@
     "fecha_estreno": "2016-06-16",
     "imdb_score": 8.0,
     "sinopsis": "Mordecai y Rigby intentan entrar a un club VIP, pero descubren que la exclusividad tiene un precio muy alto.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/IZmTjl3.jpeg"
   },
   {
-    "id": "CAP215",
+    "id": "CAP216",
     "titulo": "Deez Keys",
     "numero": 33,
     "temporada": 7,
     "temporada_id": "TEMP07",
     "fecha_estreno": "2016-06-23",
-    "imdb_score": 8.0,
+    "imdb_score": 8.2,
     "sinopsis": "Mordecai y Rigby intentan recuperar las llaves del parque antes de que Benson se entere.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/93qo7se.jpeg"
   },
   {
-    "id": "CAP216",
+    "id": "CAP217",
     "titulo": "Rigby's Graduation Day Special",
     "numero": 34,
     "temporada": 7,
     "temporada_id": "TEMP07",
     "fecha_estreno": "2016-06-30",
-    "imdb_score": 8.0,
+    "imdb_score": 9.5,
     "sinopsis": "Sinopsis del capítulo Rigby's Graduation Day Special de la temporada 7.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/zgMQicO.jpeg"
   },
   {
-    "id": "CAP217",
+    "id": "CAP218",
     "titulo": "One Space Day at a Time",
     "numero": 1,
     "temporada": 8,
@@ -2387,7 +2398,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP218",
+    "id": "CAP219",
     "titulo": "Cool Bro Bots",
     "numero": 2,
     "temporada": 8,
@@ -2398,7 +2409,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP219",
+    "id": "CAP220",
     "titulo": "Welcome to Space",
     "numero": 3,
     "temporada": 8,
@@ -2409,7 +2420,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP220",
+    "id": "CAP221",
     "titulo": "Space Creds",
     "numero": 4,
     "temporada": 8,
@@ -2420,7 +2431,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP221",
+    "id": "CAP222",
     "titulo": "Lost and Found",
     "numero": 5,
     "temporada": 8,
@@ -2431,7 +2442,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP222",
+    "id": "CAP223",
     "titulo": "Ugly Moons",
     "numero": 6,
     "temporada": 8,
@@ -2442,7 +2453,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP223",
+    "id": "CAP224",
     "titulo": "The Dream Warrior",
     "numero": 7,
     "temporada": 8,
@@ -2453,7 +2464,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP224",
+    "id": "CAP225",
     "titulo": "The Brain of Evil",
     "numero": 8,
     "temporada": 8,
@@ -2464,7 +2475,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP225",
+    "id": "CAP226",
     "titulo": "Fries Night",
     "numero": 9,
     "temporada": 8,
@@ -2475,7 +2486,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP226",
+    "id": "CAP227",
     "titulo": "Spacey McSpaceTree",
     "numero": 10,
     "temporada": 8,
@@ -2486,7 +2497,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP227",
+    "id": "CAP228",
     "titulo": "Can You Ear Me Now?",
     "numero": 11,
     "temporada": 8,
@@ -2497,7 +2508,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP228",
+    "id": "CAP229",
     "titulo": "Stuck in an Elevator",
     "numero": 12,
     "temporada": 8,
@@ -2508,7 +2519,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP229",
+    "id": "CAP230",
     "titulo": "The Space Race",
     "numero": 13,
     "temporada": 8,
@@ -2519,7 +2530,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP230",
+    "id": "CAP231",
     "titulo": "Operation Hear No Evil",
     "numero": 14,
     "temporada": 8,
@@ -2530,7 +2541,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP231",
+    "id": "CAP232",
     "titulo": "Space Escape",
     "numero": 15,
     "temporada": 8,
@@ -2541,7 +2552,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP232",
+    "id": "CAP233",
     "titulo": "New Beds",
     "numero": 16,
     "temporada": 8,
@@ -2552,7 +2563,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP233",
+    "id": "CAP234",
     "titulo": "Mordeby and Rigbecai",
     "numero": 17,
     "temporada": 8,
@@ -2563,7 +2574,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP234",
+    "id": "CAP235",
     "titulo": "Alpha Dome",
     "numero": 18,
     "temporada": 8,
@@ -2574,7 +2585,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP235",
+    "id": "CAP236",
     "titulo": "Terror Tales of the Park VI",
     "numero": 19,
     "temporada": 8,
@@ -2585,7 +2596,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP236",
+    "id": "CAP237",
     "titulo": "The Ice Tape",
     "numero": 20,
     "temporada": 8,
@@ -2596,7 +2607,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP237",
+    "id": "CAP238",
     "titulo": "The Key to the Universe",
     "numero": 21,
     "temporada": 8,
@@ -2607,7 +2618,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP238",
+    "id": "CAP239",
     "titulo": "No Train No Gain",
     "numero": 22,
     "temporada": 8,
@@ -2618,7 +2629,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP239",
+    "id": "CAP240",
     "titulo": "Christmas in Space",
     "numero": 23,
     "temporada": 8,
@@ -2629,7 +2640,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP240",
+    "id": "CAP241",
     "titulo": "Kill ’Em with Kindness",
     "numero": 24,
     "temporada": 8,
@@ -2640,7 +2651,7 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP241",
+    "id": "CAP242",
     "titulo": "Meet the Seer",
     "numero": 25,
     "temporada": 8,
@@ -2651,25 +2662,25 @@
     "imagen_url": "https://i.imgur.com/5pwTHgo.png"
   },
   {
-    "id": "CAP242",
+    "id": "CAP243",
     "titulo": "Cheer Up Pops",
     "numero": 26,
     "temporada": 8,
     "temporada_id": "TEMP08",
     "fecha_estreno": "2017-01-16",
-    "imdb_score": 8.0,
+    "imdb_score": 9.5,
     "sinopsis": "Antes de llegar a Lolliland, intentan animar a Pops grabando recuerdos.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/Zk6UbUO.jpeg"
   },
   {
-    "id": "CAP243",
+    "id": "CAP244",
     "titulo": "A Regular Epic Final Battle",
     "numero": 27,
     "temporada": 8,
     "temporada_id": "TEMP08",
     "fecha_estreno": "2017-01-16",
-    "imdb_score": 9.9,
+    "imdb_score": 9.8,
     "sinopsis": "Llega la batalla final contra Anti-Pops, con un sacrificio que salva el universo.",
-    "imagen_url": "https://i.imgur.com/5pwTHgo.png"
+    "imagen_url": "https://i.imgur.com/35X5YOb.jpeg"
   }
 ]
