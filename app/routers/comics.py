@@ -12,31 +12,18 @@ data_manager = DataManager()
 
 
 def _normalize_comic(c: Dict[str, Any]) -> Dict[str, Any]:
-    """Devuelve una copia del comic con tipos y campos normalizados."""
     cc = dict(c)
-
-    # numero_issues como string limpio
     cc["numero_issues"] = str(cc.get("numero_issues", "")).strip()
-
-    # listas seguras
     autores = cc.get("autores", [])
     ilustradores = cc.get("ilustradores", [])
     cc["autores"] = autores if isinstance(autores, list) else ([autores] if autores else [])
     cc["ilustradores"] = ilustradores if isinstance(ilustradores, list) else ([ilustradores] if ilustradores else [])
-
-    # publicacion como string limpio
     cc["publicacion"] = str(cc.get("publicacion", "")).strip()
-
-    # titulo / tipo como strings limpios por si acaso
     cc["titulo"] = str(cc.get("titulo", "")).strip()
     cc["tipo"] = str(cc.get("tipo", "")).strip()
-
-    # id como string limpio (no cambiamos el valor, solo strip)
     cc["id"] = str(cc.get("id", "")).strip()
 
     return cc
-
-# --- Endpoints --------------------------------------------------
 
 @router.get("/", response_model=List[Comic])
 def obtener_comics(

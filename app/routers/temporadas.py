@@ -13,7 +13,6 @@ data_manager = DataManager()
 # --- Utilidades ----------------------------------------------
 
 def _ensure_score(x) -> Optional[float]:
-    """Normaliza imdb_score a float o None."""
     try:
         if x in (None, "", "null"):
             return None
@@ -22,7 +21,6 @@ def _ensure_score(x) -> Optional[float]:
         return None
 
 def _norm_temporada(t: Dict[str, Any]) -> Dict[str, Any]:
-    """Mapea numero->numero_temporada y asegura campos básicos."""
     temp = dict(t)
     if "numero_temporada" not in temp:
         temp["numero_temporada"] = temp.get("numero")
@@ -30,7 +28,6 @@ def _norm_temporada(t: Dict[str, Any]) -> Dict[str, Any]:
     return temp
 
 def _capitulos_de_temporada(num_temporada: int) -> List[Dict[str, Any]]:
-    """Filtra y normaliza capítulos por número de temporada."""
     caps = data_manager.get_data("capitulos")
     filtrados = [c for c in caps if c.get("temporada") == num_temporada]
     for c in filtrados:
@@ -42,10 +39,6 @@ def _capitulos_de_temporada(num_temporada: int) -> List[Dict[str, Any]]:
 
 @router.get("/capitulos-por-temporada", response_model=List[dict])
 def capitulos_por_temporada():
-    """
-    Para cada temporada devuelve: numero_temporada, total_capitulos y una lista con
-    {id, numero, titulo, imdb_score}.
-    """
     temporadas = [ _norm_temporada(t) for t in data_manager.get_data("temporadas") ]
     resultado = []
 
@@ -71,10 +64,6 @@ def capitulos_por_temporada():
 
 @router.get("/mejor-capitulo-por-temporada", response_model=List[Capitulo])
 def mejor_capitulo_por_temporada():
-    """
-    Devuelve el mejor capítulo (mayor imdb_score) por cada temporada.
-    Ignora capítulos sin puntaje.
-    """
     caps = data_manager.get_data("capitulos")
     mejores_por_temp: Dict[int, Dict[str, Any]] = {}
 
@@ -94,14 +83,6 @@ def mejor_capitulo_por_temporada():
 
 @router.get("/resumen", response_model=List[dict])
 def resumen_temporadas():
-    """
-    Resumen por temporada con:
-    - id
-    - numero_temporada
-    - cantidad_capitulos
-    - anio_estreno
-    - promedio_imdb_score (2 decimales, None si no hay puntajes)
-    """
     temporadas = [ _norm_temporada(t) for t in data_manager.get_data("temporadas") ]
     resumen = []
 
