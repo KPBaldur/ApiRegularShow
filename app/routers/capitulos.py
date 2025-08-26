@@ -12,7 +12,6 @@ router = APIRouter(
 data_manager = DataManager()
 
 def ensure_complete_capitulo(cap_data):
-    """Garantiza campos obligatorios y normaliza imdb_score como float o None."""
     complete_cap = cap_data.copy()
 
     if 'imagen_url' not in complete_cap:

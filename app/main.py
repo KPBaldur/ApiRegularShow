@@ -50,8 +50,6 @@ async def redirect_docs():
 
 @app.get("/redoc", include_in_schema=False)
 async def redirect_redoc():
-    # Si tienes una página específica para redoc, cámbiala aquí
     return RedirectResponse("https://kpbaldur.github.io/RegularShowWiki/docs", status_code=307)
 
-# Global Errors
 configure_error_handlers(app)
