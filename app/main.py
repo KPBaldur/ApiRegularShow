@@ -9,9 +9,9 @@ app = FastAPI(
     title=settings.app_name,
     description="API pública para obtener información de la serie *Regular Show*.",
     version="1.0.0",
-    docs_url=None,           # Deshabilita Swagger UI interno
-    redoc_url=None,          # Deshabilita ReDoc interno
-    openapi_url="/openapi.json",  # Mantén el esquema disponible
+    docs_url=None,
+    redoc_url=None,
+    openapi_url="/openapi.json",
     contact={
         "name": "Kevin P.",
         "url": "https://kpbaldur.github.io/RegularShowWiki/index.html",
@@ -24,13 +24,11 @@ app = FastAPI(
     terms_of_service="https://github.com/KPBaldur/ApiRegularShow#terms"
 )
 
-# Routers
 app.include_router(personajes.router)
 app.include_router(capitulos.router)
 app.include_router(temporadas.router)
 app.include_router(comics.router)
 
-# CORS (controlado por .env)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=settings.allowed_origins,

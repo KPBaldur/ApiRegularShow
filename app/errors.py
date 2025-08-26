@@ -21,12 +21,11 @@ def configure_error_handlers(app):
     async def validation_error_handler(request: Request, exc: RequestValidationError):
         return JSONResponse(
             status_code=status.HTTP_422_UNPROCESSABLE_ENTITY,
-            content={"errors": exc.errors()}  # Clave cambiada a "errors"
+            content={"errors": exc.errors()} 
         )
 
     @app.exception_handler(Exception)
     async def generic_error_handler(request: Request, exc: Exception):
-        # Loguear a consola si estamos en debug
         if settings.debug:
             import traceback
             print("❌ Error interno en la API:")
