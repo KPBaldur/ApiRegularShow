@@ -15,7 +15,8 @@ class Personaje(BaseModel):
 
 class Capitulo(BaseModel):
     id: str = Field(..., description="ID único del capítulo", example="CAP001TEMP01")
-    titulo: str = Field(..., description="Título del capítulo", example="The Power")
+    titulo_eng: str = Field(..., description="Título del capítulo en inglés", example="The Power")
+    titulo_es: str = Field(..., description="Título del capítulo en español", example="El poder")
     temporada: int = Field(..., description="Número de temporada", example=1)
     numero: int = Field(..., description="Número de capítulo en la temporada", example=1)
     fecha_estreno: str = Field(..., description="Fecha de estreno (YYYY-MM-DD)", example="2010-09-06")
