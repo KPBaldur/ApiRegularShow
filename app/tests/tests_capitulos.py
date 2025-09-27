@@ -14,7 +14,7 @@ def test_obtener_capitulos_filtro_titulo():
     response = client.get("/capitulos?titulo=The Power")
     assert response.status_code == 200
     data = response.json()
-    assert all("the power" in cap["titulo"].lower() for cap in data)
+    assert all("the power" in cap["titulo_eng"].lower() or "the power" in cap.get("titulo_es", "").lower() for cap in data)
 
 
 def test_obtener_capitulos_filtro_temporada():
@@ -47,3 +47,17 @@ def test_obtener_capitulo_por_id_inexistente():
     response = client.get("/capitulos/INVENTADO999")
     assert response.status_code == 404
     assert response.json()["detail"] == "Capítulo no encontrado"
+
+
+def test_buscar_capitulo_por_titulo_ingles():
+    response = client.get("/capitulos/nombre/The Power")
+    assert response.status_code == 200
+    data = response.json()
+    assert len(data) > 0
+
+
+def test_buscar_capitulo_por_titulo_espanol():
+    response = client.get("/capitulos/nombre/El Poder")
+    assert response.status_code == 200
+    data = response.json()
+    assert len(data) > 0

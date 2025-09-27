@@ -40,7 +40,9 @@ def obtener_capitulos(
     data = [ensure_complete_capitulo(c) for c in data]
 
     if titulo:
-        data = [c for c in data if titulo.lower() in c.get("titulo", "").lower()]
+        data = [c for c in data if 
+                titulo.lower() in c.get("titulo_eng", "").lower() or 
+                titulo.lower() in c.get("titulo_es", "").lower()]
     if temporada:
         data = [c for c in data if c.get("temporada") == temporada]
     if numero:
@@ -55,8 +57,8 @@ def buscar_capitulo_nombre(nombre: str):
     data = data_manager.get_data("capitulos")
     titulos_map = {}
     for c in data:
-        if c.get("titulo"):
-            titulos_map[c["titulo"]] = c
+        if c.get("titulo_eng"):
+            titulos_map[c["titulo_eng"]] = c
         if c.get("titulo_es"):
             titulos_map[c["titulo_es"]] = c
 
@@ -66,7 +68,7 @@ def buscar_capitulo_nombre(nombre: str):
     if not resultado:
         resultado = [
             ensure_complete_capitulo(c) for c in data
-            if nombre.lower() in c.get("titulo", "").lower()
+            if nombre.lower() in c.get("titulo_eng", "").lower()
             or nombre.lower() in c.get("titulo_es", "").lower()
         ]
 
