@@ -76,9 +76,49 @@ Esquema: http://localhost:8000/openapi.json
 
 ---
 
+## 🆔 **Formato de IDs**
+
+La API utiliza un sistema de identificadores únicos para cada recurso. Aquí se detalla el formato de cada tipo:
+
+### 👤 **Personajes**
+- **Formato**: `CHARCT###` (donde ### es un número secuencial de 3 dígitos)
+- **Ejemplos**: 
+  - `CHARCT001` - Mordecai
+  - `CHARCT002` - Rigby
+  - `CHARCT003` - Benson
+- **Rango**: CHARCT001 hasta CHARCT999+
+
+### 📺 **Capítulos**
+- **Formato**: `CAP###` (donde ### es un número secuencial de 3 dígitos)
+- **Ejemplos**:
+  - `CAP001` - "The Power" (S01E01)
+  - `CAP002` - "Just Set Up the Chairs" (S01E02)
+  - `CAP050` - Capítulo 50 de la serie
+- **Rango**: CAP001 hasta CAP261 (total de capítulos de la serie)
+- **Nota**: Los capítulos también incluyen el campo `temporada_id` que referencia a la temporada correspondiente
+
+### 📖 **Temporadas**
+- **Formato**: `TEMP##` (donde ## es un número secuencial de 2 dígitos)
+- **Ejemplos**:
+  - `TEMP01` - Temporada 1 (2010)
+  - `TEMP02` - Temporada 2 (2010-2011)
+  - `TEMP08` - Temporada 8 (2017)
+- **Rango**: TEMP01 hasta TEMP08 (8 temporadas totales)
+
+### 📘 **Cómics**
+- **Formato**: `COMC###` (donde ### es un número secuencial de 3 dígitos)
+- **Ejemplos**:
+  - `COMC001` - Primer cómic de la serie
+  - `COMC025` - Cómic número 25
+- **Rango**: COMC001 hasta COMC999+
+
+> 💡 **Tip**: Todos los IDs son **case-sensitive** y deben usarse exactamente como se muestran en los ejemplos.
+
+---
+
 ## 📚 Endpoints por recurso
 Parametros comunes:  skip, limit (paginación).
-as respuestas estan validadas por Pydantic
+Las respuestas están validadas por Pydantic
 
 ---
 
@@ -99,7 +139,9 @@ Devuelve 6 personajes aleatorios.
 Devuelve 10 personajes aleatorios.
 
 #### `GET /personajes/{id}`
-Busca un personaje por su ID (e.g., `CHARCT001`).
+Busca un personaje por su ID.
+- **Parámetro**: `id` - ID del personaje (formato: `CHARCT###`)
+- **Ejemplo**: `/personajes/CHARCT001` (obtiene información de Mordecai)
 
 ---
 
@@ -113,7 +155,9 @@ Parámetros:
 - `titulo`, `temporada`, `anio_emision`, `rating_min`, `rating_max`
 
 #### `GET /capitulos/{id}`
-Consulta un capítulo por su ID (e.g., `CAP001TEMP01`).
+Consulta un capítulo por su ID.
+- **Parámetro**: `id` - ID del capítulo (formato: `CAP###`)
+- **Ejemplo**: `/capitulos/CAP001` (obtiene información del primer capítulo "The Power")
 
 ---
 
@@ -125,7 +169,9 @@ Listado de temporadas con filtros por:
 - `numero_temporada`
 
 #### `GET /temporadas/{id}`
-Consulta una temporada por su ID (e.g., `TEMP03`).
+Consulta una temporada por su ID.
+- **Parámetro**: `id` - ID de la temporada (formato: `TEMP##`)
+- **Ejemplo**: `/temporadas/TEMP03` (obtiene información de la temporada 3)
 
 --
 
@@ -138,7 +184,9 @@ Parámetros:
 - `titulo`, `tipo`, `autor`, `publicacion`
 
 #### `GET /comics/{id}` 
-Consulta un cómic por su ID (e.g., `COMC001`).
+Consulta un cómic por su ID.
+- **Parámetro**: `id` - ID del cómic (formato: `COMC###`)
+- **Ejemplo**: `/comics/COMC001` (obtiene información del primer cómic)
 
 ---
 
