@@ -14,7 +14,7 @@ class Personaje(BaseModel):
     imagen_url: str = Field(..., description="URL de la imagen del personaje", example="https://i.imgur.com/abcd123.png")
 
 class Capitulo(BaseModel):
-    id: str = Field(..., description="ID único del capítulo", example="CAP001TEMP01")
+    id: str = Field(..., description="ID único del capítulo", example="CAP001")
     titulo_eng: str = Field(..., description="Título del capítulo en inglés", example="The Power")
     titulo_es: str = Field(..., description="Título del capítulo en español", example="El poder")
     temporada: int = Field(..., description="Número de temporada", example=1)
@@ -31,7 +31,7 @@ class Temporada(BaseModel):
     numero_capitulos: int = Field(..., description="Cantidad de capítulos en la temporada", example=12)
     anio_estreno: int = Field(..., description="Año de estreno", example=2010)
     resumen: str = Field(..., description="Resumen de la temporada", example="Mordecai y Rigby, dos amigos flojos...")
-    capitulos: Optional[List[str]] = Field(default_factory=list, description="ID's de capitulos de la temporada", example=["CAP001TEMP01", "CAP002TEMP01"])
+    capitulos: Optional[List[str]] = Field(default_factory=list, description="ID's de capitulos de la temporada", example=["CAP001", "CAP002"])
 
 
 class Comic(BaseModel):

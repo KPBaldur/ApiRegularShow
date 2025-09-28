@@ -8,7 +8,7 @@ from fastapi.responses import RedirectResponse
 app = FastAPI(
     title=settings.app_name,
     description="API pública para obtener información de la serie *Regular Show*.",
-    version="1.0.0",
+    version="1.1.0",
     docs_url=None,
     redoc_url=None,
     openapi_url="/openapi.json",
