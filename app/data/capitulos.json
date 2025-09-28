@@ -198,7 +198,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-01-24",
     "imdb_score": 8.3,
-    "sinopsis": "Pops debe dar un discurso, pero sufre de miedo escénico. Mordecai y Rigby lo ayudan a enfrentarlo entrando en su mente.",
+    "sinopsis": "Papaleta tiene que dar un importante discurso, pero tiene pánico escénico, por lo que Mordecai y Rigby intentan ayudarle a sobrellevarlo.",
     "imagen_url": "https://i.imgur.com/y3Hrgy5.jpeg",
     "titulo_eng": "Dizzy",
     "titulo_es": "Mareados"
@@ -210,7 +210,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-01-31",
     "imdb_score": 8.0,
-    "sinopsis": "Mordecai y Rigby deben soportar las bromas de Muscle Man y High-Five Ghost, pero todo se complica cuando los chistes se salen de control.",
+    "sinopsis": "Benson pone a Musculoso y a Fantasmín como supervisores de Mordecai y Rigby, pero ellos no soportan los chistes de Musculoso sobre su madre.",
     "imagen_url": "https://i.imgur.com/uqMho8p.jpeg",
     "titulo_eng": "My Mom",
     "titulo_es": "Mi Mami"
@@ -258,7 +258,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-02-25",
     "imdb_score": 8.9,
-    "sinopsis": "Mordecai ve a Pops desnudo y hará todo lo posible por olvidar la imagen, incluso usando una extraña cinta de video.",
+    "sinopsis": "Mordecai queda traumatizado luego de ver accidentalmente a Papaleta desnudo, por lo que Rigby trata de ayudar a eliminar ese recuerdo.",
     "imagen_url": "https://i.imgur.com/NzsMZDP.jpeg",
     "titulo_eng": "Brain Eraser",
     "titulo_es": "Borrando la Memoria"
@@ -282,7 +282,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-03-07",
     "imdb_score": 8.5,
-    "sinopsis": "Mordecai y Rigby intentan devolver un juego de mesa defectuoso, pero el gerente los atrapa dentro del juego y deben escapar.",
+    "sinopsis": "Mordecai y Rigby compran un supuesto juego de acción llamado \"El Reino de Darthon\", pero no les gusta y quieren pedir un reembolso.",
     "imagen_url": "https://i.imgur.com/gIYEzxj.jpeg",
     "titulo_eng": "But I Have a Receipt",
     "titulo_es": "Pero si Tengo el Recibo"
@@ -306,7 +306,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-04-04",
     "imdb_score": 7.5,
-    "sinopsis": "Muscle Man termina con su novia Starla y Mordecai y Rigby intentan reunirlos, pero Starla se enamora de Mordecai.",
+    "sinopsis": "Musculoso se encuentra muy deprimido después de haber roto con su novia Starla, por lo que Mordecai y Rigby tratan de reconciliarlos.",
     "imagen_url": "https://i.imgur.com/P3ExvsT.jpeg",
     "titulo_eng": "Muscle Woman",
     "titulo_es": "Mujer Musculosa"
@@ -342,7 +342,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-04-25",
     "imdb_score": 7.8,
-    "sinopsis": "Muscle Man no invita a Mordecai y Rigby a una fiesta. Ellos intentan colarse y terminan convertidos en fantasmas por accidente.",
+    "sinopsis": "Mordecai y Rigby se enteran de que Musculoso está preparando una fiesta de cumpleaños para Fantasmín pero no los invitó, por lo que ellos intentan entrar.",
     "imagen_url": "https://i.imgur.com/biGQ8Lh.jpeg",
     "titulo_eng": "See You There",
     "titulo_es": "Alli nos Vemos"
@@ -354,7 +354,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-05-02",
     "imdb_score": 8.5,
-    "sinopsis": "Mordecai y Rigby se hacen favores mutuos, pero la situación se complica cuando un favor amenaza con destruir la casa.",
+    "sinopsis": "Mordecai y Rigby se la pasan haciéndose favores, pero las cosas se complican cuando Rigby acepta salir con Eileen para que Mordecai salga con Margarita.",
     "imagen_url": "https://i.imgur.com/4PXpHq5.jpeg",
     "titulo_eng": "Do Me a Solid",
     "titulo_es": "Hazme un Favor"
@@ -366,7 +366,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-05-09",
     "imdb_score": 9.3,
-    "sinopsis": "Durante una noche de cine en el cementerio, Mordecai y Rigby accidentalmente despiertan a los zombis y deben salvar a todos.",
+    "sinopsis": "Mordecai y Rigby organizan un evento en el viejo cementerio, proyectando la película \"Zombycalipsis en 3D\" para que Benson les de un día libre.",
     "imagen_url": "https://i.imgur.com/8iD53WT.jpeg",
     "titulo_eng": "Grave Sights",
     "titulo_es": "El Cementerio"
@@ -378,7 +378,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-05-16",
     "imdb_score": 8.5,
-    "sinopsis": "Mordecai y Rigby quieren ir a un evento de lucha libre, pero deben cuidar a Pops, quien termina participando en el ring.",
+    "sinopsis": "Mordecai, Rigby y Papaleta planean ir a un encuentro de \"Lucha Realmente Real\", pero Benson se los prohíbe porque Papaleta quedó lastimado.",
     "imagen_url": "https://i.imgur.com/tHgM2iS.jpeg",
     "titulo_eng": "Really Real Wrestling",
     "titulo_es": "Lucha Realmente Real"
@@ -390,7 +390,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-05-23",
     "imdb_score": 9.1,
-    "sinopsis": "Skips pierde en un concurso de fuerza contra Rigby y debe enfrentarse a la Muerte para recuperar el alma de su amigo.",
+    "sinopsis": "Todos se llevan una sorpresa cuando Rigby vence a Skips en las fuercitas, por lo que Skips decide investigar cómo lo hizo y enfrentarle a una revancha.",
     "imagen_url": "https://i.imgur.com/4JOHtDs.jpeg",
     "titulo_eng": "Over the Top",
     "titulo_es": "La Revancha"
@@ -402,7 +402,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-05-30",
     "imdb_score": 9.0,
-    "sinopsis": "Mordecai, Rigby, Muscle Man y High-Five Ghost compiten en un concurso de radio para ganar un auto, pero el presentador los engaña.",
+    "sinopsis": "Mordecai y Rigby deciden trabajar en equipo por primera vez con Musculoso y Fantasmín para ganar el concurso del Búho y compartir un nuevo automóvil.",
     "imagen_url": "https://i.imgur.com/R5qfJb9.jpeg",
     "titulo_eng": "The Night Owl",
     "titulo_es": "El Buho"
@@ -438,7 +438,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-07-11",
     "imdb_score": 8.7,
-    "sinopsis": "Mordecai y Rigby compiten por una silla en su primer día de trabajo, repitiendo la historia del episodio piloto.",
+    "sinopsis": "Episodio donde se muestra como fue el primer día de Mordecai y Rigby en el parque, cómo consiguieron el empleo y su primer problema por un sillón.",
     "imagen_url": "https://i.imgur.com/xkoPvp3.jpeg",
     "titulo_eng": "First Day",
     "titulo_es": "El Primer Dia"
@@ -450,7 +450,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-07-18",
     "imdb_score": 8.9,
-    "sinopsis": "Muscle Man reta a Mordecai y Rigby a crear el video viral más popular, desatando una competencia absurda.",
+    "sinopsis": "Mordecai y Rigby le apuestan a Musculoso y Fantasmín que pueden lograr más visitas en Internet con sus videos para el fín de semana.",
     "imagen_url": "https://i.imgur.com/Tb1W7aU.jpeg",
     "titulo_eng": "Go Viral",
     "titulo_es": "El Super Video"
@@ -462,7 +462,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-07-25",
     "imdb_score": 8.7,
-    "sinopsis": "Rigby es rociado por una mofeta y busca desesperadamente cómo quitarse el olor antes de una cita importante.",
+    "sinopsis": "Rigby es atacado por un zorrillo que resulta ser un Lobo-Zorrillo, ahora debe de encontrar una cura para su peste o se convertirá en un zorrillo para siempre.",
     "imagen_url": "https://i.imgur.com/r5fSo4J.jpeg",
     "titulo_eng": "Skunked",
     "titulo_es": "El Lobo-Zorrillo"
@@ -474,7 +474,7 @@
     "temporada_id": "TEMP02",
     "fecha_estreno": "2011-08-01",
     "imdb_score": 9.1,
-    "sinopsis": "Mordecai y Rigby deben recuperar un video vergonzoso de karaoke antes de que sus amigos lo vean.",
+    "sinopsis": "Mordecai y Rigby son filmados en un karaoke mientras decían cosas malas de sus compañeros de trabajo, así que tienen que evitar que ellos vean el video.",
     "imagen_url": "https://i.imgur.com/Ir9JdNt.jpeg",
     "titulo_eng": "Karaoke Video",
     "titulo_es": "El Video del Karaoke"
@@ -486,7 +486,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2011-09-19",
     "imdb_score": 8.5,
-    "sinopsis": "Benson tira la mesa de hockey de Mordecai y Rigby, pero luego se siente culpable y trata de recuperarla para ellos.",
+    "sinopsis": "Benson les dice a Mordecai y Rigby que les regalará su Mini-Hockey si terminan su trabajo a tiempo, pero en lugar de eso, lo regala a la caridad.",
     "imagen_url": "https://i.imgur.com/YlFGJ1Y.jpeg",
     "titulo_eng": "Stick Hockey",
     "titulo_es": "Juego Mortal"
@@ -498,7 +498,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2011-09-26",
     "imdb_score": 8.5,
-    "sinopsis": "Rigby gana una apuesta y obliga a Mordecai a hacerse un permanente rubio, lo que causa situaciones graciosas en el parque.",
+    "sinopsis": "Rigby hace trampa para ganarle una apuesta a Mordecai y que este se tenga que teñir el cabello de rubio, pero Mordecai se junta más con unos Rubios.",
     "imagen_url": "https://i.imgur.com/ACc481S.jpeg",
     "titulo_eng": "Bet to Be Blonde",
     "titulo_es": "Rubio por Apuesta"
@@ -510,7 +510,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2011-10-03",
     "imdb_score": 8.5,
-    "sinopsis": "Skips demuestra ser un excelente jugador de bolos, pero debe enfrentarse al equipo de la Muerte para salvar a sus amigos.",
+    "sinopsis": "Mordecai, Rigby, Benson y Skips forman un equipo de bolos y llegan al campeonato, pero uno de los equipos a enfrentar es el equipo de la Muerte.",
     "imagen_url": "https://i.imgur.com/Uk1YAM3.jpeg",
     "titulo_eng": "Skips Strikes",
     "titulo_es": "Skips hace Chuza"
@@ -522,7 +522,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2011-10-10",
     "imdb_score": 8.5,
-    "sinopsis": "Los empleados del parque cuentan historias de terror durante la noche, cada una con un giro sobrenatural y divertido.",
+    "sinopsis": "Papaleta, Musculoso y Rigby empiezan a contar historias de terror, sobre muñecos embrujados, camionetas fantasmales y casas sangrientas.",
     "imagen_url": "https://i.imgur.com/7fayU7v.jpeg",
     "titulo_eng": "Terror Tales of the Park",
     "titulo_es": "Cuentos de Terror del Parque"
@@ -534,7 +534,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2011-10-17",
     "imdb_score": 8.5,
-    "sinopsis": "Mordecai quiere impresionar a Margaret durante un campamento, pero las cosas no salen como esperaba.",
+    "sinopsis": "Mordecai y Rigby planean ir de campamento, e invitan a Margarita y Eileen para que los acompañen, ya que Margarita nunca había acampado antes.",
     "imagen_url": "https://i.imgur.com/o4Z49lZ.jpeg",
     "titulo_eng": "Camping Can Be Cool",
     "titulo_es": "Acampar Puede ser Genial"
@@ -546,7 +546,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2011-10-24",
     "imdb_score": 8.5,
-    "sinopsis": "Mordecai y Rigby retan a Muscle Man y High-Five Ghost a un partido de baloncesto para ganar tiempo en la computadora.",
+    "sinopsis": "Mordecai y Musculoso juegan un partido de basquet apostando su tiempo en Internet, ya que Mordecai quiere crear un sitio web para Margarita.",
     "imagen_url": "https://i.imgur.com/xt4aBf0.jpeg",
     "titulo_eng": "Slam Dunk",
     "titulo_es": "Juego Celestial"
@@ -558,10 +558,10 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2011-11-07",
     "imdb_score": 8.5,
-    "sinopsis": "Mordecai y Rigby intentan impresionar a Benson para recuperar el acceso al carrito del parque.",
+    "sinopsis": "Mordecai y Rigby intentan que Benson admita que son cool para que les devuelva su carrito, así que compran ropa nueva y se vuelvan demasiado cool.",
     "imagen_url": "https://i.imgur.com/5BPHnBs.jpeg",
     "titulo_eng": "Cool Bikes",
-    "titulo_es": "Bicicle"
+    "titulo_es": "Bicicletas Cool"
   },
   {
     "id": "CAP048",
@@ -570,7 +570,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2011-11-14",
     "imdb_score": 8.5,
-    "sinopsis": "Cansados de las reglas de Benson, Mordecai y Rigby deciden vivir sin ellas, pero pronto se dan cuenta de las consecuencias.",
+    "sinopsis": "Mordecai y Rigby deciden que no tolerarán las nuevas reglas de Benson impone en la casa, por lo que se van a buscar otro lugar que no haya reglas.",
     "imagen_url": "https://i.imgur.com/zr5yiby.jpeg",
     "titulo_eng": "House Rules",
     "titulo_es": "Las Reglas de la Casa"
@@ -582,7 +582,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2011-11-21",
     "imdb_score": 8.5,
-    "sinopsis": "Pops entra a una batalla de rap para demostrar que no es un perdedor, sorprendiendo a todos con su talento.",
+    "sinopsis": "Papaleta se mete en una batalla con un grupo de raperos en el parque, por lo que Mordecai y Rigby intentan ayudarlo a practicar rap en vez de poesía.",
     "imagen_url": "https://i.imgur.com/52f2j6m.jpeg",
     "titulo_eng": "Rap It Up",
     "titulo_es": "A Rapear"
@@ -594,7 +594,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2011-11-28",
     "imdb_score": 8.5,
-    "sinopsis": "Mordecai y Rigby apuestan con Margaret y Eileen que pueden conseguir el número de una chica durante una salida nocturna.",
+    "sinopsis": "Mordecai y Rigby le apuestan una cena a Margarita y Eileen a que pueden conseguir los números de teléfono de algunas chicas.",
     "imagen_url": "https://i.imgur.com/X8u2fSZ.jpeg",
     "titulo_eng": "Cruisin'",
     "titulo_es": "Paseando"
@@ -606,7 +606,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2011-12-12",
     "imdb_score": 8.5,
-    "sinopsis": "Mordecai y Rigby deben eliminar grafitis en el parque, enfrentándose a desafíos inesperados.",
+    "sinopsis": "Mordecai y Rigby culpan a Musculoso de haber pintado el parque con graffiti, y por eso Benson lo despide, pero resulta que el culpable era otro.",
     "imagen_url": "https://i.imgur.com/tuQqGKT.jpeg",
     "titulo_eng": "Under the Hood",
     "titulo_es": "El Encapuchado"
@@ -618,7 +618,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-01-16",
     "imdb_score": 8.5,
-    "sinopsis": "Mordecai y Rigby dejan inconsciente a Benson accidentalmente y tratan de ocultarlo para evitar problemas.",
+    "sinopsis": "Mordecai y Rigby causan un accidente que deja inconsciente a Benson, ambos lo llevan a su departamento, pero antes, se detienen a una fiesta.",
     "imagen_url": "https://i.imgur.com/3cwYthu.jpeg",
     "titulo_eng": "Weekend at Benson's",
     "titulo_es": "Un Picante Fin de Semana"
@@ -630,7 +630,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-01-23",
     "imdb_score": 8.5,
-    "sinopsis": "Rigby intercambia galletas de la fortuna con Benson, lo que desencadena una serie de eventos extraños.",
+    "sinopsis": "Rigby está celoso de la buena suerte que tiene Benson últimamente y decide intercambiar sus galletas de la fortuna, así que Benson tiene mala suerte.",
     "imagen_url": "https://i.imgur.com/th8q4YZ.jpeg",
     "titulo_eng": "Fortune Cookie",
     "titulo_es": "La Galleta de la Suerte"
@@ -642,7 +642,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-01-30",
     "imdb_score": 8.5,
-    "sinopsis": "Pops le pide a Benson que deje de gritarle a Mordecai y Rigby, lo que cambia la dinámica en el parque.",
+    "sinopsis": "Papaleta está cansado de oír a Benson gritándoles a Mordecai y Rigby, y como su jefe, le prohíbe hacerlo o lo despedirá, por lo que Benson trata de aguantar.",
     "imagen_url": "https://i.imgur.com/UF0zWA3.jpeg",
     "titulo_eng": "Think Positive",
     "titulo_es": "Piensa Positivo"
@@ -654,7 +654,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-02-06",
     "imdb_score": 8.5,
-    "sinopsis": "Skips intenta ayudar a Mordecai y Rigby con problemas de computadora, enfrentándose a la tecnología moderna.",
+    "sinopsis": "Skips está orgulloso de poder reparar todo lo que no funciona en el parque, pero Mordecai y Rigby le piden que repare la PC, algo que él no sabe hacer.",
     "imagen_url": "https://i.imgur.com/rZ6BKvB.jpeg",
     "titulo_eng": "Skips vs. Technology",
     "titulo_es": "Skips contra la Tecnologia"
@@ -666,7 +666,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-02-13",
     "imdb_score": 8.7,
-    "sinopsis": "Mordecai envía accidentalmente un mensaje vergonzoso a Margaret y hará todo para recuperarlo antes de que lo escuche.",
+    "sinopsis": "Mordecai accidentalmente llama por teléfono a Margarita mientras cantaba una canción sobre su amor por ella, así que trata de eliminar el mensaje a tiempo.",
     "imagen_url": "https://i.imgur.com/9A9ZeT4.jpeg",
     "titulo_eng": "Butt Dial",
     "titulo_es": "Por Marcar con el Trasero"
@@ -678,7 +678,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-02-27",
     "imdb_score": 9.6,
-    "sinopsis": "Mordecai quiere ganar un sombrero para Rigby en un concurso de comer huevos, enfrentando un reto extremo.",
+    "sinopsis": "Rigby cae en coma después de intentar ganar una gorra en el desafío de un restaurante, su único deseo es que Mordecai gane esa gorra para él.",
     "imagen_url": "https://i.imgur.com/myZeVQC.jpeg",
     "titulo_eng": "Eggscellent",
     "titulo_es": "Extrahuevordinario"
@@ -690,7 +690,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-03-05",
     "imdb_score": 7.0,
-    "sinopsis": "Muscle Man se convierte en modelo de abdomen, pero la fama trae problemas inesperados.",
+    "sinopsis": "Musculoso se convierte en modelo de barrigas, solamente por la esperanza de que sus amigos se den cuenta de cuanto lo necesitan en el parque.",
     "imagen_url": "https://i.imgur.com/h3SKmA8.jpeg",
     "titulo_eng": "Gut Model",
     "titulo_es": "Modelo de Barrigas"
@@ -702,7 +702,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-03-26",
     "imdb_score": 9.1,
-    "sinopsis": "Mordecai y Skips participan en un torneo de videojuegos, mientras Rigby se pone celoso.",
+    "sinopsis": "La amistad de Mordecai y Rigby corre peligro cuando Mordecai entra en una competencia de videojuegos junto con Skips porque Rigby no es bueno en eso.",
     "imagen_url": "https://i.imgur.com/uWpE9Sc.jpeg",
     "titulo_eng": "Video Game Wizards",
     "titulo_es": "Amos de los Videojuegos"
@@ -714,7 +714,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-04-02",
     "imdb_score": 7.8,
-    "sinopsis": "Mordecai y Rigby le dan a Muscle Man un boleto de lotería falso, lo que desencadena una serie de enredos.",
+    "sinopsis": "Mordecai y Rigby le regalan un boleto de lotería falso a Musculoso para jugarle una broma, pero luego temen su reacción cuando le digan la verdad.",
     "imagen_url": "https://i.imgur.com/OdPEG2W.jpeg",
     "titulo_eng": "Big Winner",
     "titulo_es": "El Gran Ganador"
@@ -726,7 +726,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-04-09",
     "imdb_score": 7.4,
-    "sinopsis": "Mordecai y Rigby deben terminar sus tareas para poder probar la mejor hamburguesa del mundo.",
+    "sinopsis": "Mordecai y Rigby quieren comer unas hamburguesas que sólo se hacen cada cien años, pero Benson se los prohíbe hasta que terminen su trabajo.",
     "imagen_url": "https://i.imgur.com/WKKT6oQ.jpeg",
     "titulo_eng": "The Best Burger in the World",
     "titulo_es": "La Mejor Hamburguesa del Mundo"
@@ -738,7 +738,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-04-16",
     "imdb_score": 7.4,
-    "sinopsis": "Mordecai y Rigby descubren que Benson planea reemplazarlos y buscan la forma de evitarlo.",
+    "sinopsis": "Mordecai y Rigby se enteran que Benson puso a prueba a dos posibles empleados, así que tienen que sacarlos, o de lo contrario, perderán su trabajo.",
     "imagen_url": "https://i.imgur.com/aClEE9f.jpeg",
     "titulo_eng": "Replaced",
     "titulo_es": "Reemplazados"
@@ -750,7 +750,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-04-23",
     "imdb_score": 8.8,
-    "sinopsis": "Rigby cambia su nombre a Trash Boat para ser más genial, pero las cosas no salen como esperaba.",
+    "sinopsis": "Rigby decide cambiar su nombre por \"Barco Basurero\" porque piensa que todos pensarán que es genial, pero en realidad, todos se burlan de él.",
     "imagen_url": "https://i.imgur.com/Jo33tYS.jpeg",
     "titulo_eng": "Trash Boat",
     "titulo_es": "Barco Basurero"
@@ -762,7 +762,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-04-30",
     "imdb_score": 8.4,
-    "sinopsis": "Mordecai y Rigby deben hacer todas las tareas de Skips por un día, enfrentando grandes desafíos.",
+    "sinopsis": "Skips usa un vale que Mordecai y Rigby le dieron en su cumpleaños para que hagan todo su trabajo de un día, ya que él tiene una tarea secreta.",
     "imagen_url": "https://i.imgur.com/VvILs8A.jpeg",
     "titulo_eng": "Fists of Justice",
     "titulo_es": "Puños Justicierons"
@@ -774,7 +774,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-05-07",
     "imdb_score": 8.4,
-    "sinopsis": "Mordecai busca una nueva chica para olvidar a Margaret, pero la situación se complica.",
+    "sinopsis": "Mordecai cree haber visto a Margarita comprometiéndose con otro hombre, en donde esta deprimido por un tiempo, así que empieza conocer otras chicas.",
     "imagen_url": "https://i.imgur.com/Ojlwp6i.jpeg",
     "titulo_eng": "Yes Dude Yes",
     "titulo_es": "Si, Cielo, Si"
@@ -786,7 +786,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-05-14",
     "imdb_score": 8.5,
-    "sinopsis": "Mordecai y Rigby dañan el carrito del parque y deben acompañar a Benson en un viaje para repararlo.",
+    "sinopsis": "Luego de que Mordecai y Rigby dejaran el carrito de golf en pésimas condiciones, Benson tiene que viajar hasta la concesionaria para arreglarlo.",
     "imagen_url": "https://i.imgur.com/UdNQlF6.jpeg",
     "titulo_eng": "Busted Cart",
     "titulo_es": "Carro Golf Extremo"
@@ -798,7 +798,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-05-28",
     "imdb_score": 8.2,
-    "sinopsis": "Mordecai y Rigby deben cuidar al hijo de la Muerte, enfrentando situaciones paranormales.",
+    "sinopsis": "Luego de un choque, la Muerte viene a recoger el alma de Musculoso, pero Mordecai y Rigby hacen un trato: serán niñeros del hijo de la Muerte Thomas.",
     "imagen_url": "https://i.imgur.com/EPB1XgQ.jpeg",
     "titulo_eng": "Dead at Eight",
     "titulo_es": "Muerte a las Ocho"
@@ -810,7 +810,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-06-04",
     "imdb_score": 8.5,
-    "sinopsis": "Mordecai y Rigby quieren ir a la fiesta de cumpleaños de Margaret en un club exclusivo y harán lo imposible por entrar.",
+    "sinopsis": "Es el cumpleaños de Margarita y ella decide festejarlo en un club, el problema es que el guardia no deja entrar a Mordecai y Rigby porque no están en la lista.",
     "imagen_url": "https://i.imgur.com/GMjTYN8.jpeg",
     "titulo_eng": "Access Denied",
     "titulo_es": "Acceso Denegado"
@@ -822,7 +822,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-06-11",
     "imdb_score": 7.8,
-    "sinopsis": "Rigby recibe mentoría de Muscle Man para mejorar en el trabajo, pero el entrenamiento es extremo.",
+    "sinopsis": "Benson intenta echar a Rigby, pero Papaleta sugiere que lo ponga a prueba con un instructor, por lo que Benson elije a Musculoso para que lo instruya.",
     "imagen_url": "https://i.imgur.com/ryVIppg.jpeg",
     "titulo_eng": "Muscle Mentor",
     "titulo_es": "Muscu-Instructor"
@@ -834,7 +834,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-06-18",
     "imdb_score": 8.1,
-    "sinopsis": "Mordecai y Rigby ayudan a Muscle Man a llevar las cenizas de su padre al Salón de la Fama de los Camioneros.",
+    "sinopsis": "El padre de Musculoso muere, y su último deseo es que sus cenizas sean esparcidas en el Salón Trailero de la Fama, y Mordecai y Rigby lo ayudan.",
     "imagen_url": "https://i.imgur.com/yWnhoNB.jpeg",
     "titulo_eng": "Trucker Hall of Fame",
     "titulo_es": "Salon Trailero de la Fama"
@@ -846,7 +846,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-06-25",
     "imdb_score": 7.8,
-    "sinopsis": "Mordecai y Rigby destruyen accidentalmente el carrito del parque y deben encontrar una manera de reemplazarlo antes de que Benson se entere.",
+    "sinopsis": "Benson compra un carrito nuevo y les dice a Mordecai y Rigby que tiren el antiguo a la basura, pero antes de hacerlo, el carrito viejo cobra vida.",
     "imagen_url": "https://i.imgur.com/p2dhzHs.jpeg",
     "titulo_eng": "Out of Commission",
     "titulo_es": "Fuera de Servicio"
@@ -858,7 +858,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-07-16",
     "imdb_score": 7.8,
-    "sinopsis": "Mordecai y Margaret van a una cita en un restaurante elegante, pero Rigby y Eileen los siguen y causan problemas.",
+    "sinopsis": "Mordecai y Rigby ayudan a Musculoso que está nervioso porque tiene que conocer a los padres de su novia Starla en un restaurante muy lujoso.",
     "imagen_url": "https://i.imgur.com/rTPbTzT.jpeg",
     "titulo_eng": "Fancy Restaurant",
     "titulo_es": "El Restaurante de Lujo"
@@ -870,7 +870,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-07-23",
     "imdb_score": 9.0,
-    "sinopsis": "Rigby encuentra el diario de Mordecai y lo lee en secreto, lo que provoca un conflicto entre los amigos.",
+    "sinopsis": "Margarita le encarga a Mordecai que riege sus plantas mientras ella no está, pero algo sale mal y Mordecai y Rigby destruyen su diario intimo.",
     "imagen_url": "https://i.imgur.com/eaVvTD1.jpeg",
     "titulo_eng": "Diary",
     "titulo_es": "El Diario"
@@ -882,7 +882,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-07-30",
     "imdb_score": 7.8,
-    "sinopsis": "Mordecai y Rigby buscan la mejor cinta VHS para impresionar a sus amigos, pero la competencia es feroz.",
+    "sinopsis": "Mordecai y Rigby querían alquilar unos VHS, pero resulta que no devolvieron uno llamado \"El Mejor VHS en el Mundo\", por lo que ellos deben de encontrarlo.",
     "imagen_url": "https://i.imgur.com/xQjRipw.jpeg",
     "titulo_eng": "The Best VHS in the World",
     "titulo_es": "El mejor VHS del Mundo"
@@ -894,7 +894,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-08-06",
     "imdb_score": 8.1,
-    "sinopsis": "Mordecai y Rigby deciden dejar de hacer bromas, pero pronto descubren que la vida sin ellas es aburrida.",
+    "sinopsis": "Luego de que una de sus bromas saliera mal y lastimara a Papaleta, Musculoso decide que nunca volvera a hacer una broma, pero el parque lo necesita.",
     "imagen_url": "https://i.imgur.com/Cfuispz.jpeg",
     "titulo_eng": "Prankless",
     "titulo_es": "Sin Bromas"
@@ -906,7 +906,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-08-13",
     "imdb_score": 9.0,
-    "sinopsis": "Mordecai y Rigby deben enfrentarse a un oso peligroso que fue traído accidentalmente al parque.",
+    "sinopsis": "Mordecai y Rigby planeaban una noche de películas con Margarita y Eileen, pero luego deciden investigar la leyenda urbana de \"El Oso de la Muerte\".",
     "imagen_url": "https://i.imgur.com/AnwWH8G.jpeg",
     "titulo_eng": "Death Bear",
     "titulo_es": "El Oso de la Muerte"
@@ -918,7 +918,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-08-20",
     "imdb_score": 8.9,
-    "sinopsis": "Mordecai y Rigby encuentran unos dados de peluche con poderes misteriosos que complican su día.",
+    "sinopsis": "Para su cumpleaños, Papaleta desea unos dados de peluche, por lo que los demás tendrán que entrar en \"La Zona Muy Muy Divertida\" para conseguirlos.",
     "imagen_url": "https://i.imgur.com/LQgaRLW.jpeg",
     "titulo_eng": "Fuzzy Dice",
     "titulo_es": "Dardos de Peluche"
@@ -930,7 +930,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-08-27",
     "imdb_score": 8.3,
-    "sinopsis": "El parque se queda sin azúcar y Mordecai y Rigby deben conseguir más antes de que Benson se enoje.",
+    "sinopsis": "Benson les encarga a Mordecai y Rigby que compren las donas para la junta de la mañana, pero también traen unos peligrosos buñuelos azucarados.",
     "imagen_url": "https://i.imgur.com/x4Q49M1.jpeg",
     "titulo_eng": "Sugar Rush",
     "titulo_es": "Azucarador"
@@ -942,7 +942,7 @@
     "temporada_id": "TEMP03",
     "fecha_estreno": "2012-09-03",
     "imdb_score": 9.0,
-    "sinopsis": "Mordecai arruina su primer beso con Margaret y viaja en el tiempo con Rigby para intentar arreglarlo.",
+    "sinopsis": "Mordecai finalmente besa a Margarita, pero algo sale mal, ella cree que tiene mal aliento. Por lo que Rigby saca una máquina del tiempo para arreglarlo.",
     "imagen_url": "https://i.imgur.com/ehR6TuG.jpeg",
     "titulo_eng": "Bad Kiss",
     "titulo_es": "Un Mal Beso"
@@ -954,7 +954,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2012-10-01",
     "imdb_score": 9.7,
-    "sinopsis": "Un villano del pasado regresa para destruir el parque y los empleados deben unir fuerzas para salvarlo de la desaparición.",
+    "sinopsis": "Thomas, el nuevo empleado, aparece cuando un hombre les borra la mente a todos, excepto a Mordecai y Rigby, para desatar una aventura épica.",
     "imagen_url": "https://i.imgur.com/LUFILIL.jpeg",
     "titulo_eng": "Exit 9B",
     "titulo_es": "Salida 9B"
@@ -966,7 +966,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2012-10-08",
     "imdb_score": 7.3,
-    "sinopsis": "Mordecai y Rigby compran un paquete de inicio para adultos, pero terminan atrapados en una rutina aburrida y monótona.",
+    "sinopsis": "Durante su primera semana, todos les juegan una broma a Thomas como parte de su iniciación, pero después, Musculoso sigue con sus bromas.",
     "imagen_url": "https://i.imgur.com/AxB7wk3.jpeg",
     "titulo_eng": "Starter Pack",
     "titulo_es": "La Novatada"
@@ -978,7 +978,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2012-10-15",
     "imdb_score": 8.8,
-    "sinopsis": "Los empleados del parque cuentan nuevas historias de terror durante Halloween, cada una con un giro sobrenatural.",
+    "sinopsis": "De camino a una fiesta, Mordecai, Margarita y Benson cuentan historias de terror sobre fantasmas, un autobús de la muerte y un maligno tapizador.",
     "imagen_url": "https://i.imgur.com/FU1a7uD.jpeg",
     "titulo_eng": "Terror Tales of the Park II",
     "titulo_es": "Cuentos de Terror del Parque II"
@@ -990,7 +990,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2012-10-22",
     "imdb_score": 7.9,
-    "sinopsis": "Mordecai y Rigby participan en un concurso de pasteles, pero la competencia se vuelve peligrosa y fuera de control.",
+    "sinopsis": "El parque realiza un concurso de pies, y Mordecai y Rigby le piden a Benson de ser jueces del concurso porque piensan que es un trabajo fácil.",
     "imagen_url": "https://i.imgur.com/iTgMH85.jpeg",
     "titulo_eng": "Pie Contest",
     "titulo_es": "Concurso de Pays"
@@ -1002,7 +1002,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2012-10-29",
     "imdb_score": 8.9,
-    "sinopsis": "Mordecai y Rigby compran un kit de herramientas, pero armarlo resulta ser una tarea mucho más difícil de lo esperado.",
+    "sinopsis": "El parque presentará el concierto de \"Caballero al Trono\", y Benson menciona que solía tocar un difícil solo de batería, pero nadie le cree.",
     "imagen_url": "https://i.imgur.com/870U1Ys.jpeg",
     "titulo_eng": "150 Piece Kit",
     "titulo_es": "Bateria de 150 Piezas"
@@ -1014,7 +1014,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2012-11-05",
     "imdb_score": 6.8,
-    "sinopsis": "Muscle Man descubre que tiene una calva y hará todo lo posible para ocultarla antes de su boda.",
+    "sinopsis": "Musculoso se da cuenta de que esta calvo y piensa en un método para que su novia Starla no se de cuenta: Mover sus pectorales diariamente.",
     "imagen_url": "https://i.imgur.com/dwQhhtb.jpeg",
     "titulo_eng": "Bald Spot",
     "titulo_es": "Calvo"
@@ -1026,7 +1026,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2012-11-12",
     "imdb_score": 8.3,
-    "sinopsis": "Benson organiza una noche de chicos, pero la diversión se complica cuando deciden ir a un club exclusivo.",
+    "sinopsis": "Mordecai, Rigby, Musculoso y Fantasmín celebran otra noche de chicos, pero Papaleta quiere unirse, por lo que tendra que hacer el reto de la leche.",
     "imagen_url": "https://i.imgur.com/jnkCJP4.jpeg",
     "titulo_eng": "Guy's Night",
     "titulo_es": "Noche de Chicos"
@@ -1038,7 +1038,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2012-11-19",
     "imdb_score": 8.6,
-    "sinopsis": "Rigby intenta hacer una sola dominada para impresionar a los demás, pero se enfrenta a un reto inesperado.",
+    "sinopsis": "Los trabajadores del parque tienen que pasar por un examen físico para conservar sus empleos, pero Rigby tiene muchos problemas con la barra.",
     "imagen_url": "https://i.imgur.com/kiYmDEC.jpeg",
     "titulo_eng": "One Pull Up",
     "titulo_es": "La Barra Fija"
@@ -1050,7 +1050,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2012-12-03",
     "imdb_score": 9.4,
-    "sinopsis": "El parque debe proteger un regalo especial de Navidad que podría salvar el mundo de una gran amenaza.",
+    "sinopsis": "Durante una fiesta, Mordecai y Rigby tienen un encuentro inesperado con Santa Claus, y se enteran que un malvado elfo quiere destruir la Navidad.",
     "imagen_url": "https://i.imgur.com/qfUmlz3.jpeg",
     "titulo_eng": "The Christmas Special",
     "titulo_es": "Especial de Navidad"
@@ -1062,7 +1062,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2012-12-10",
     "imdb_score": 8.8,
-    "sinopsis": "Mordecai y Rigby intentan hacer que los martes sean más divertidos, pero sus planes se salen de control.",
+    "sinopsis": "Es la última noche libre de Margarita, así que Mordecai, Rigby y Eileen planean hacerle una fiesta a pesar de que sea martes y nadie festeja.",
     "imagen_url": "https://i.imgur.com/mlHzZKb.jpeg",
     "titulo_eng": "T.G.I. Tuesday",
     "titulo_es": "Gracias a Dios es Martes"
@@ -1074,7 +1074,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-01-07",
     "imdb_score": 8.3,
-    "sinopsis": "El grupo debe conseguir fuegos artificiales para una fiesta, enfrentándose a una peligrosa banda rival.",
+    "sinopsis": "Accidentalmente, Musculoso enciende los fuegos artificiales para el festejo de 04 de Julio antes de la ceremonia, por lo que debe de conseguir otros.",
     "imagen_url": "https://i.imgur.com/mc2LiFQ.jpeg",
     "titulo_eng": "Firework Run",
     "titulo_es": "Carrera por los Fuegos Artificiales"
@@ -1086,7 +1086,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-01-14",
     "imdb_score": 6.7,
-    "sinopsis": "Muscle Man y Starla intentan pasar un fin de semana juntos, pero los amigos de Muscle Man complican sus planes.",
+    "sinopsis": "Luego de ver una película romántica, Starla obliga a Musculoso a estar un fín de semana lejos de ella como una prueba de su amor.",
     "imagen_url": "https://i.imgur.com/kui6FQn.jpeg",
     "titulo_eng": "The Longest Weekend",
     "titulo_es": "El Mas Largo Fin de Semana"
@@ -1098,7 +1098,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-01-21",
     "imdb_score": 9.0,
-    "sinopsis": "Mordecai y Rigby deben conseguir un sándwich especial para salvar a Benson de un destino mortal.",
+    "sinopsis": "Mordecai y Rigby compran un sándwich de la muerte, en donde si no la comes bien mueres, pero Benson no sabía eso, así que deben de curarlo.",
     "imagen_url": "https://i.imgur.com/V4cUfpi.jpeg",
     "titulo_eng": "Sandwich of Death",
     "titulo_es": "El Sandwich de la Muerte"
@@ -1110,7 +1110,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-01-28",
     "imdb_score": 7.7,
-    "sinopsis": "Mordecai y Rigby intentan demostrar que una leyenda urbana sobre un rockero es real.",
+    "sinopsis": "Mordecai y Rigby descubren que Ace Balthazar, una estrella de rock que se creía muerta, está viviendo en el parque con la memoria perdida.",
     "imagen_url": "https://i.imgur.com/DL4SOYH.jpeg",
     "titulo_eng": "Ace Balthazar Lives",
     "titulo_es": "Ace Balthazar Vive"
@@ -1122,7 +1122,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-02-04",
     "imdb_score": 8.2,
-    "sinopsis": "Benson hace una apuesta con Mordecai y Rigby: si no terminan su trabajo, deberán usar pañales por un día.",
+    "sinopsis": "Mordecai acepta la apuesta de Musculoso para hacerlo de una vez, si no besa a Margarita antes de que termine el viernes usará un pañal.",
     "imagen_url": "https://i.imgur.com/2s60enV.jpeg",
     "titulo_eng": "Do or Diaper",
     "titulo_es": "Beso o Pañal"
@@ -1134,7 +1134,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-02-11",
     "imdb_score": 7.1,
-    "sinopsis": "El primo de Skips, Quips, visita el parque y causa problemas con sus bromas constantes.",
+    "sinopsis": "Todos están de mal humor en el parque por la visita de Quips, el molesto primo de Skips que se la pasa contando chistes malos.",
     "imagen_url": "https://i.imgur.com/d046Bi6.jpeg",
     "titulo_eng": "Quips",
     "titulo_es": "El Primo Quips"
@@ -1146,7 +1146,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-02-18",
     "imdb_score": 7.6,
-    "sinopsis": "Mordecai y Rigby encuentran a un cavernícola congelado y tratan de adaptarlo a la vida moderna.",
+    "sinopsis": "Mordecai y Rigby descongelan a un cavernícola y lo civilizan para que Benson lo deje quedarse en el parque.",
     "imagen_url": "https://i.imgur.com/UwA8s82.jpeg",
     "titulo_eng": "Caveman",
     "titulo_es": "El Cavernicola"
@@ -1158,7 +1158,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-02-25",
     "imdb_score": 8.1,
-    "sinopsis": "Mordecai y Rigby intentan recuperar un televisor antiguo que tiene un valor sentimental para Pops.",
+    "sinopsis": "Mordecai y Rigby ayudan a un famoso televisor-actor a escapar de los productores de TV, que lo tienen prisionero desde hace muchos años.",
     "imagen_url": "https://i.imgur.com/tkMGV1Y.jpeg",
     "titulo_eng": "That's My Television",
     "titulo_es": "Esa es mi Television"
@@ -1170,7 +1170,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-03-04",
     "imdb_score": 9.4,
-    "sinopsis": "El parque es invadido por gansos agresivos y los empleados deben encontrar la forma de expulsarlos.",
+    "sinopsis": "Un montón de Gansos abusivos se apoderan del parque y es tarea de Mordecai y Rigby de deshacerse de ellos, por lo que los Patitos los ayudan.",
     "imagen_url": "https://i.imgur.com/G6PglAG.jpeg",
     "titulo_eng": "A Bunch of Full Grown Geese",
     "titulo_es": "Un Monton de Gansos Adultos"
@@ -1182,7 +1182,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-03-11",
     "imdb_score": 8.3,
-    "sinopsis": "Mordecai y Rigby planean una gran broma para el Día de los Inocentes, pero las cosas se complican.",
+    "sinopsis": "Mordecai, Rigby y Benson son transportados hasta Japón para prácticar en un loco programa de juegos con la oportunidad de ganar un premio.",
     "imagen_url": "https://i.imgur.com/PB6b7zO.jpeg",
     "titulo_eng": "Fool Me Twice",
     "titulo_es": "Engañame Dos Veces"
@@ -1194,7 +1194,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-03-18",
     "imdb_score": 8.0,
-    "sinopsis": "Mordecai y Rigby alquilan una limusina para almorzar, pero el paseo se convierte en una aventura peligrosa.",
+    "sinopsis": "Mordecai y Rigby tenían que limpiar la limusina del Sr. Maellard, pero accidentalmente la ensucian, por lo que tienen que arreglarlo.",
     "imagen_url": "https://i.imgur.com/tK9fC8l.jpeg",
     "titulo_eng": "Limousine Lunchtime",
     "titulo_es": "Almorzar en la Limusina"
@@ -1206,7 +1206,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-03-25",
     "imdb_score": 9.0,
-    "sinopsis": "Mordecai y Rigby ayudan a Margaret a mudarse, pero el día se complica con una serie de obstáculos.",
+    "sinopsis": "Mordecai le promete a Margarita que pasará por ella a tiempo para llevarla al aeropuerto, pero tiene que pasar por la ruta amenazada por \"Los Mazos\".",
     "imagen_url": "https://i.imgur.com/ZyfHYOu.jpeg",
     "titulo_eng": "Picking Up Margaret",
     "titulo_es": "Pasando por Margarita"
@@ -1218,7 +1218,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-04-01",
     "imdb_score": 7.8,
-    "sinopsis": "El grupo intenta ganar un concurso de radio, pero deben enfrentarse a desafíos absurdos para lograrlo.",
+    "sinopsis": "Musculoso no descansará hasta que el DJ de \"Radio M.Á.T.A.L.O\" pase la canción que escribió para Starla por su aniversario de su primer beso.",
     "imagen_url": "https://i.imgur.com/OdIdGFu.jpeg",
     "titulo_eng": "K.I.L.I.T. Radio",
     "titulo_es": "Radio M.A.T.A.L.O."
@@ -1230,7 +1230,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-04-08",
     "imdb_score": 8.0,
-    "sinopsis": "Mordecai y Rigby se obsesionan con una serie de televisión y terminan involucrados en una aventura similar a la del show.",
+    "sinopsis": "Mordecai y Rigby entrenan con Musculoso dando giros en su carrito para ganar un concurso y salir en una serie de policías.",
     "imagen_url": "https://i.imgur.com/o22opW8.jpeg",
     "titulo_eng": "Carter and Briggs",
     "titulo_es": "Carter y Briggs"
@@ -1242,7 +1242,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-04-15",
     "imdb_score": 8.8,
-    "sinopsis": "Skips sufre de estrés y los demás intentan ayudarlo a relajarse, pero sus métodos no funcionan como esperaban.",
+    "sinopsis": "El estrés de Skips llega a niveles peligrosos por tanto estrés del trabajo, debe de tocar la campana anti-estrés lo antes posible o puede morir.",
     "imagen_url": "https://i.imgur.com/Nxawk8Y.jpeg",
     "titulo_eng": "Skips' Stress",
     "titulo_es": "El Estres de Skips"
@@ -1254,7 +1254,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-04-22",
     "imdb_score": 7.5,
-    "sinopsis": "Mordecai y Rigby intentan ser más geniales usando un cubo especial, pero terminan en problemas.",
+    "sinopsis": "Mordecai, Rigby y Papaleta incitan a Thomas a que se tome un raspado ultra frío, pero Thomas queda con el cerebro casi congelado.",
     "imagen_url": "https://i.imgur.com/SKAAKfH.jpeg",
     "titulo_eng": "Cool Cubed",
     "titulo_es": "Ultra Frio"
@@ -1266,7 +1266,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-04-29",
     "imdb_score": 7.8,
-    "sinopsis": "El grupo debe limpiar un tráiler abandonado, pero descubren que está embrujado.",
+    "sinopsis": "Un nuevo inspector de salubridad revisa el parque y le dice a Musculoso que no puede conservar su tráiler, a menos que lo limpie en 24 horas.",
     "imagen_url": "https://i.imgur.com/wtHijsC.jpeg",
     "titulo_eng": "Trailer Trashed",
     "titulo_es": "Trailer Chatarra"
@@ -1278,7 +1278,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-05-06",
     "imdb_score": 9.1,
-    "sinopsis": "Mordecai busca el valor para invitar a Margaret a bailar durante una lluvia de meteoritos.",
+    "sinopsis": "Rigby le hacer ver a Mordecai que debería actuar rápido con Margarita, o de lo contrario, quedará en la zona de amigos para siempre.",
     "imagen_url": "https://i.imgur.com/C0KKt68.jpeg",
     "titulo_eng": "Meteor Moves",
     "titulo_es": "Lluvia de Meteoros"
@@ -1290,7 +1290,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-05-13",
     "imdb_score": 8.9,
-    "sinopsis": "Benson organiza una barbacoa familiar en el parque, pero la reunión se sale de control.",
+    "sinopsis": "Margarita invita a Mordecai a una parrillada en casa de sus padres, Mordecai hace lo posible para caerle bien a su padre y estrechar su mano.",
     "imagen_url": "https://i.imgur.com/4aihLCB.jpeg",
     "titulo_eng": "Family BBQ",
     "titulo_es": "Parrillada Familiar"
@@ -1302,7 +1302,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-05-20",
     "imdb_score": 9.0,
-    "sinopsis": "Mordecai y Rigby buscan el último reproductor de Laserdisc para ver una película rara.",
+    "sinopsis": "Mordecai, Rigby, Musculoso y Fantasmín encuentran la edición limitada de una película en formato LaserDisc y quieren verla.",
     "imagen_url": "https://i.imgur.com/iHrdZA0.jpeg",
     "titulo_eng": "The Last Laserdisc Player",
     "titulo_es": "El Ultimo Reproductor de LaserDisc"
@@ -1314,7 +1314,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-06-03",
     "imdb_score": 7.7,
-    "sinopsis": "El grupo intenta entrar a un club campestre exclusivo, enfrentando desafíos absurdos para lograrlo.",
+    "sinopsis": "Mordecai y Rigby intentan recuperar el carrito de golf que fue secuestrado por los vecinos estirados del Club Campestre.",
     "imagen_url": "https://i.imgur.com/PkYEQ6V.jpeg",
     "titulo_eng": "Country Club",
     "titulo_es": "Club Campestre"
@@ -1326,7 +1326,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-06-10",
     "imdb_score": 8.4,
-    "sinopsis": "Mordecai y Rigby deben confiar ciegamente el uno en el otro para completar una tarea importante.",
+    "sinopsis": "Papaleta lleva a Benson, Mordecai y Rigby a la cima de una montaña para que Benson aprenda a confiar en sus incompetentes empleados.",
     "imagen_url": "https://i.imgur.com/QQY02t4.jpeg",
     "titulo_eng": "Blind Trust",
     "titulo_es": "Fe Ciega"
@@ -1338,7 +1338,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-06-17",
     "imdb_score": 7.9,
-    "sinopsis": "Benson compite por el título de mejor jefe del mundo, pero la competencia es más dura de lo que esperaba.",
+    "sinopsis": "Los empleados del parque quieren regalarle una taza de \"El Mejor Jefe del Mundo\" a Benson por su aniversario, pero primero tienen que encontrarlo.",
     "imagen_url": "https://i.imgur.com/WmuNvCU.jpeg",
     "titulo_eng": "World's Best Boss",
     "titulo_es": "El Mejor Jefe del Mundo"
@@ -1350,7 +1350,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-06-24",
     "imdb_score": 7.3,
-    "sinopsis": "Mordecai y Rigby creen que será su última comida antes de enfrentar un gran peligro en el parque.",
+    "sinopsis": "Musculoso le promete a Starla que hará una dieta, pero antes, necesita una gran despedida de toda la comida grasosa que le gusta en la ciudad.",
     "imagen_url": "https://i.imgur.com/6xKhOsy.jpeg",
     "titulo_eng": "Last Meal",
     "titulo_es": "La Ultima Cena"
@@ -1362,7 +1362,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-07-01",
     "imdb_score": 7.9,
-    "sinopsis": "El grupo compite en una batalla de lucha libre mientras duermen, sin recordar nada al despertar.",
+    "sinopsis": "Musculoso comienza a golpear a los demás mientras duerme, por lo que los demás intenta averiguar qué es lo que estará soñado para ponerse así.",
     "imagen_url": "https://i.imgur.com/RsImwmu.jpeg",
     "titulo_eng": "Sleep Fighter",
     "titulo_es": "Luchando contra un Sueño"
@@ -1374,7 +1374,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-07-08",
     "imdb_score": 7.9,
-    "sinopsis": "Mordecai y Rigby intentan recrear la mejor fiesta de la historia, pero nada sale como antes.",
+    "sinopsis": "De un día al otro, Benson comienza a trabajar para la corporación fiestera en la que trabaja Beto Bullicio, y los demás deben de averiguar porque.",
     "imagen_url": "https://i.imgur.com/X4HLJ3j.jpeg",
     "titulo_eng": "Party Re-Pete",
     "titulo_es": "El Regreso de Beto Bullicio"
@@ -1386,7 +1386,7 @@
     "temporada_id": "TEMP04",
     "fecha_estreno": "2013-08-12",
     "imdb_score": 9.3,
-    "sinopsis": "Mordecai planea una cita especial con Margaret, pero una serie de obstáculos pone en riesgo su relación.",
+    "sinopsis": "Mordecai prepara una gran cita con Margarita en un elegante restaurante llamado Amadeus, allí planea pedirle que sea su novia, pero algo anda mal.",
     "imagen_url": "https://i.imgur.com/FLLzQx4.jpeg",
     "titulo_eng": "Steak Me Amadeus",
     "titulo_es": "La Carne de Amadeus"
@@ -1398,7 +1398,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2013-09-02",
     "imdb_score": 8.8,
-    "sinopsis": "Mordecai y Rigby intentan lavar su ropa antes de que Margaret regrese, pero la lavadora se convierte en un problema mayor.",
+    "sinopsis": "Mordecai intenta seguir con su vida con la ayuda de sus amigos, pero un suéter de Margarita hace que la locura por ella regrese.",
     "imagen_url": "https://i.imgur.com/hF1e1F6.jpeg",
     "titulo_eng": "Laundry Woes",
     "titulo_es": "Lavanderia del Infortunio"
@@ -1410,7 +1410,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2013-09-02",
     "imdb_score": 7.8,
-    "sinopsis": "El grupo encuentra una estatua de plata que les concede deseos, pero pronto descubren que tiene un precio oculto.",
+    "sinopsis": "Mordecai y Rigby intentan reunir dinero para un videojuego con un acto callejero, pero un tipo plateado siempre les copia sus trucos.",
     "imagen_url": "https://i.imgur.com/LY4gCWA.jpeg",
     "titulo_eng": "Silver Dude",
     "titulo_es": "Hombre de Plata"
@@ -1422,7 +1422,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2013-09-09",
     "imdb_score": 7.9,
-    "sinopsis": "Mordecai y Rigby dañan el auto de Benson y deben repararlo antes de que él se entere.",
+    "sinopsis": "Mordecai y Rigby accidentalmente rompen el parabrisas del auto de Benson, y mientras lo llevan para arreglarlo, Benson piensa que le robaron su auto.",
     "imagen_url": "https://i.imgur.com/60b5JTZ.jpeg",
     "titulo_eng": "Benson's Car",
     "titulo_es": "El auto de Benson"
@@ -1434,7 +1434,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2013-09-16",
     "imdb_score": 7.9,
-    "sinopsis": "Mordecai y Rigby buscan el legendario burrito con todas las carnes, enfrentando desafíos absurdos en el camino.",
+    "sinopsis": "Mordecai, Rigby, Musculoso y Fantasmín tienen como meta probar unos nuevos burritos que contiene carne de varios tipos de animales.",
     "imagen_url": "https://i.imgur.com/U5WButx.jpeg",
     "titulo_eng": "Every Meat Burritos",
     "titulo_es": "Burrito Multicarne"
@@ -1446,7 +1446,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2013-09-23",
     "imdb_score": 7.2,
-    "sinopsis": "El grupo instala un sistema de organización en la pared, pero la tecnología se vuelve en su contra.",
+    "sinopsis": "Benson una vez más amenaza con despedir a Mordecai y Rigby, esta vez porque la habitación que comparten está llena de basura de Rigby.",
     "imagen_url": "https://i.imgur.com/DOvFgBd.jpeg",
     "titulo_eng": "Wall Buddy",
     "titulo_es": "Amiga Pared"
@@ -1458,7 +1458,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2013-09-30",
     "imdb_score": 8.9,
-    "sinopsis": "Skips viaja en el tiempo para corregir un error del pasado, pero las cosas se complican aún más.",
+    "sinopsis": "Durante una gran tormenta, un singular visitante llega al parque: el Skips del siglo XVIII, conocido en esos tiempos como Walks.",
     "imagen_url": "https://i.imgur.com/431m1c0.jpeg",
     "titulo_eng": "A Skips in Time",
     "titulo_es": "Skips Viaja en el Tiempo"
@@ -1470,7 +1470,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2013-10-07",
     "imdb_score": 8.3,
-    "sinopsis": "Benson lleva al grupo a un campamento de supervivencia, pero nadie está preparado para los retos que enfrentan.",
+    "sinopsis": "Mordecai y Rigby desearán haber prestado atención durante el curso de supervivencia de Benson luego de quedar varados en el bosque.",
     "imagen_url": "https://i.imgur.com/fLkyZ54.jpeg",
     "titulo_eng": "Survival Skills",
     "titulo_es": "Metodos de Supervivencia"
@@ -1482,7 +1482,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2013-10-14",
     "imdb_score": 8.9,
-    "sinopsis": "Los empleados del parque cuentan historias de terror en Halloween, cada una más extraña que la anterior.",
+    "sinopsis": "En una apuesta, Rigby, Musculoso y Benson empiezan a contar historias de terror para ver cuál fue la mejor, entre camas asesinas, calabazas y brujos.",
     "imagen_url": "https://i.imgur.com/HRuPciJ.jpeg",
     "titulo_eng": "Terror Tales of the Park III",
     "titulo_es": "Cuentos de Terror del Parque III"
@@ -1494,7 +1494,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2013-10-21",
     "imdb_score": 7.8,
-    "sinopsis": "Mordecai y Rigby compran pantalones de moda, pero terminan en una competencia de baile inesperada.",
+    "sinopsis": "Papaleta les regala un par de \"pantesas\" (Mitad Pantalón, Mitad Mesas) a Mordecai y Rigby, pero ellos no se dan cuenta de lo mucho que significa.",
     "imagen_url": "https://i.imgur.com/uEegMbM.jpeg",
     "titulo_eng": "Tants",
     "titulo_es": "Pantesas"
@@ -1506,7 +1506,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2013-10-28",
     "imdb_score": 9.0,
-    "sinopsis": "Rigby se enfrenta a un jugador profesional de billar para salvar el parque de una gran deuda.",
+    "sinopsis": "Rigby es bueno lanzando el balón con tiros de rebote porque siempre sigue sus instintos, pero esta vez, sus instintos fallan y lo meten en problemas.",
     "imagen_url": "https://i.imgur.com/3ZRRgXY.jpeg",
     "titulo_eng": "Bank Shot",
     "titulo_es": "Tiro con Rebote"
@@ -1518,7 +1518,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2013-11-04",
     "imdb_score": 7.2,
-    "sinopsis": "El grupo compite por el control de una torre de poder, pero la competencia se vuelve peligrosa.",
+    "sinopsis": "Musculoso necesita ganar una competencia de físico-culturismo para que un tipo del gimnasio deje de molestarlo a él y a sus amigos.",
     "imagen_url": "https://i.imgur.com/68GqPre.jpeg",
     "titulo_eng": "Power Tower",
     "titulo_es": "La Torre de Poder"
@@ -1530,7 +1530,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2013-11-25",
     "imdb_score": 9.2,
-    "sinopsis": "El parque celebra el Día de Acción de Gracias, pero una competencia culinaria pone en riesgo la festividad.",
+    "sinopsis": "Mordecai y Rigby accidentalmente arruinan el pavo del Día de Acción de Gracias y deben de encontrar una manera de arreglarlo.",
     "imagen_url": "https://i.imgur.com/esc0OfP.jpeg",
     "titulo_eng": "The Thanksgiving Special",
     "titulo_es": "Especial del Dia de Accion de Gracias"
@@ -1542,7 +1542,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2013-12-02",
     "imdb_score": 7.8,
-    "sinopsis": "Muscle Man quiere convertirse en doble de acción y pone a prueba su valentía con un truco extremo.",
+    "sinopsis": "Mordecai, Rigby, Musculoso y Fantasmín intentan recibirse como dobles de riesgo a tiempo para ser el entretenimiento de una fiesta de cumpleaños.",
     "imagen_url": "https://i.imgur.com/tqx6ysA.jpeg",
     "titulo_eng": "The Heart of a Stuntman",
     "titulo_es": "El Corazon de un Doble"
@@ -1554,7 +1554,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2013-12-31",
     "imdb_score": 9.1,
-    "sinopsis": "Mordecai espera besar a Margaret en Año Nuevo, pero una serie de obstáculos amenaza con arruinar el momento.",
+    "sinopsis": "Rigby recibe una misión de su yo del futuro: tiene que impedir que Mordecai se bese con una chica durante una fiesta de año nuevo.",
     "imagen_url": "https://i.imgur.com/vZzeqTu.jpeg",
     "titulo_eng": "New Year's Kiss",
     "titulo_es": "El beso de Año Nuevo"
@@ -1566,7 +1566,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-01-13",
     "imdb_score": 8.8,
-    "sinopsis": "El grupo participa en un torneo de quemados, enfrentando a un equipo rival muy competitivo.",
+    "sinopsis": "Mordecai es el jugador estrella en el equipo de quemados de Benson, pero su concentración se arruina cuando se entera de que CJ participará en el torneo.",
     "imagen_url": "https://i.imgur.com/02Ni1gQ.jpeg",
     "titulo_eng": "Dodge This",
     "titulo_es": "Esquiva esto"
@@ -1578,7 +1578,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-01-20",
     "imdb_score": 8.6,
-    "sinopsis": "Mordecai y Rigby compran un baño portátil, pero descubren que esconde un portal a otra dimensión.",
+    "sinopsis": "Mientras cumplían un reto de CJ, Mordecai y Rigby quedan atrapados en un baño portátil y deben de salir, o de lo contrario, morirán.",
     "imagen_url": "https://i.imgur.com/6BqE6X1.jpeg",
     "titulo_eng": "Portable Toilet",
     "titulo_es": "Baño Portatil"
@@ -1590,7 +1590,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-01-27",
     "imdb_score": 8.3,
-    "sinopsis": "Mordecai recibe una postal de Margaret y se embarca en una misión para encontrarla.",
+    "sinopsis": "Fantasmín recibe una postal de una chica que conoció hace cuatro años, tiene una cita, pero no puede leer de dónde y cuándo será.",
     "imagen_url": "https://i.imgur.com/fy604MB.jpeg",
     "titulo_eng": "The Postcard",
     "titulo_es": "La Postal"
@@ -1602,7 +1602,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-02-10",
     "imdb_score": 7.8,
-    "sinopsis": "Rigby come un burrito gigante y tiene una experiencia surrealista en el cielo.",
+    "sinopsis": "Rigby tiene que saltar desde un avión con un paracaídas mientras come un burrito para probarle a sus ex-compañeros de clase que hizo algo interesante.",
     "imagen_url": "https://i.imgur.com/J0zYN11.jpeg",
     "titulo_eng": "Rigby in the Sky with Burrito",
     "titulo_es": "Rigby en el Cielo con un Burrito"
@@ -1614,7 +1614,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-02-17",
     "imdb_score": 8.0,
-    "sinopsis": "El grupo explora un pozo misterioso en el parque y descubre secretos ocultos.",
+    "sinopsis": "Mordecai, Rigby, Musculoso y Fantasmín tienen que bajar al sumidero conocido como \"El Pozo de los Autos\" para recuperar una cámara de video del parque.",
     "imagen_url": "https://i.imgur.com/00R8Fuv.jpeg",
     "titulo_eng": "Journey to the Bottom of the Crash Pit",
     "titulo_es": "Viaje al Fondo del Pozo de los Autos"
@@ -1626,7 +1626,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-02-24",
     "imdb_score": 8.3,
-    "sinopsis": "Mordecai y Rigby intentan ahorrar tiempo usando un reloj especial, pero las cosas se complican.",
+    "sinopsis": "Accidentalmente, Benson rompe una valiosa guitarra eléctrica autografiada del Sr. Maellard, y le pide ayuda a Mordecai y Rigby para poder reemplazarla.",
     "imagen_url": "https://i.imgur.com/3C2bp0i.jpeg",
     "titulo_eng": "Saving Time",
     "titulo_es": "Ganando Tiempo"
@@ -1638,7 +1638,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-03-03",
     "imdb_score": 8.3,
-    "sinopsis": "Mordecai y Rigby encuentran una guitarra legendaria que les otorga poderes musicales extraordinarios.",
+    "sinopsis": "Accidentalmente, Benson rompe una valiosa guitarra eléctrica autografiada del Sr. Maellard, y le pide ayuda a Mordecai y Rigby para poder reemplazarla.",
     "imagen_url": "https://i.imgur.com/JpBtraD.jpeg",
     "titulo_eng": "Guitar of Rock",
     "titulo_es": "La Guitarra del Rock"
@@ -1650,7 +1650,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-03-10",
     "imdb_score": 9.6,
-    "sinopsis": "Skips revela su pasado y la razón de su inmortalidad en una emotiva historia.",
+    "sinopsis": "Skips le cuenta a Mordecai y Rigby la historia de cómo llego a ser inmortal, recordando su relación amorosa con Mona, y su rivalidad con Klorgbane.",
     "imagen_url": "https://i.imgur.com/1d1GmnE.jpeg",
     "titulo_eng": "Skips' Story",
     "titulo_es": "La Historia de Skips"
@@ -1662,7 +1662,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-03-17",
     "imdb_score": 8.1,
-    "sinopsis": "Mordecai y Rigby intentan revivir su antigua banda para un concurso musical en el parque.",
+    "sinopsis": "Mordecai y Rigby reúnen a su banda de rock, pero esta vez acompañados de los demás empleados, con la esperanza de ganar un aire acondicionado.",
     "imagen_url": "https://i.imgur.com/Aj7ipsW.jpeg",
     "titulo_eng": "Return of Mordecai and the Rigbys",
     "titulo_es": "El Regreso de Mordecai y de los Rigby's"
@@ -1674,7 +1674,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-03-24",
     "imdb_score": 7.9,
-    "sinopsis": "Mordecai y Rigby destruyen accidentalmente un retrato importante y deben reemplazarlo antes de que Benson lo note.",
+    "sinopsis": "Mordecai y Rigby arruinan una importante pintura, un retrato de Benson para un evento, así que Mordecai decide re-pintarla él mismo.",
     "imagen_url": "https://i.imgur.com/9cQKryv.jpeg",
     "titulo_eng": "Bad Portrait",
     "titulo_es": "Mal Retrato"
@@ -1686,7 +1686,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-03-31",
     "imdb_score": 7.9,
-    "sinopsis": "El grupo toma una clase de video para mejorar sus habilidades, pero la tarea final se sale de control.",
+    "sinopsis": "Eileen tiene que grabar un video musical para su clase de introducción al cine, así que le pide ayuda a Mordecai y Rigby para mejorarlo.",
     "imagen_url": "https://i.imgur.com/87PiDtz.jpeg",
     "titulo_eng": "Video 101",
     "titulo_es": "Video Musical"
@@ -1698,7 +1698,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-04-07",
     "imdb_score": 8.8,
-    "sinopsis": "Rigby se enamora de una chica nueva y hace todo lo posible para impresionarla.",
+    "sinopsis": "Mordecai se divierte con CJ, siendo solamente su amigo, pero un error de mensaje de texto pone todo en riesgo cuando el texto dice \"Me gustas tú\".",
     "imagen_url": "https://i.imgur.com/npN03Rj.jpeg",
     "titulo_eng": "I Like You Hi",
     "titulo_es": "Me gustar Tú"
@@ -1710,7 +1710,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-04-14",
     "imdb_score": 8.7,
-    "sinopsis": "Mordecai y Rigby cuidan a la hija de un amigo, pero la tarea resulta ser más difícil de lo esperado.",
+    "sinopsis": "Mordecai planeaba una gran cita con CJ, pero la Muerte llega y le pide ser niñero de su hijo malcriado Thomas una vez más.",
     "imagen_url": "https://i.imgur.com/IGKwg7B.jpeg",
     "titulo_eng": "Play Date",
     "titulo_es": "Hora de Juego"
@@ -1722,7 +1722,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-04-21",
     "imdb_score": 8.1,
-    "sinopsis": "El grupo participa en un concurso de conocimientos, pero deben demostrar si son expertos o mentirosos.",
+    "sinopsis": "Rigby es humillado en un programa de preguntas y respuestas llamado \"Experto o Mentiroso\" y ahora tiene que encontrar una manera de remidirse.",
     "imagen_url": "https://i.imgur.com/69OyfhJ.jpeg",
     "titulo_eng": "Expert or Liar",
     "titulo_es": "Experto o Mentiroso"
@@ -1734,7 +1734,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-04-28",
     "imdb_score": 7.6,
-    "sinopsis": "Mordecai y Rigby intentan aprender a surfear para impresionar a sus amigos en la playa.",
+    "sinopsis": "Papaleta intenta \"ser uno con la naturaleza\" a través del surf, pero un grupo de surfistas bravucones se burlan de su gran cabeza, pero Papaleta no se rinde.",
     "imagen_url": "https://i.imgur.com/y5ohU0t.jpeg",
     "titulo_eng": "Catching the Wave",
     "titulo_es": "Atrapa la Ola"
@@ -1746,7 +1746,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-05-05",
     "imdb_score": 8.6,
-    "sinopsis": "Benson pierde su reloj de oro y el grupo lo ayuda a buscarlo por todo el parque.",
+    "sinopsis": "Benson iba a recibir un premio por llegar puntualmente al trabajo mil veces seguidas, pero la noche anterior decide correr un riesgo.",
     "imagen_url": "https://i.imgur.com/D2U822A.jpeg",
     "titulo_eng": "Gold Watch",
     "titulo_es": "Reloj de Oro"
@@ -1758,7 +1758,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-05-12",
     "imdb_score": 7.7,
-    "sinopsis": "Mordecai y Rigby deben pintar una casa, pero el trabajo se convierte en una competencia caótica.",
+    "sinopsis": "Mordecai y Rigby arruinan la pintura de la casa y tienen que arreglarlo, pero Mordecai comete el error de dejar a Rigby a cargo mientras él va con CJ.",
     "imagen_url": "https://i.imgur.com/Ar6qI3K.jpeg",
     "titulo_eng": "Paint Job",
     "titulo_es": "Pintar"
@@ -1770,7 +1770,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-05-19",
     "imdb_score": 8.0,
-    "sinopsis": "El grupo compite por el último pedazo de pastel en una fiesta, desatando una guerra de postres.",
+    "sinopsis": "Es el cumpleaños del Sr. Maellard y Benson quiere sorprenderlo con una fiesta, pero comete el error de enviar a Mordecai y Rigby de recoger el pastel.",
     "imagen_url": "https://i.imgur.com/tUtmRPi.jpeg",
     "titulo_eng": "Take the Cake",
     "titulo_es": "Toma el Pastel"
@@ -1782,7 +1782,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-06-02",
     "imdb_score": 7.9,
-    "sinopsis": "Skips debe montar un toro mecánico para salvar el parque de una apuesta peligrosa.",
+    "sinopsis": "Skips decide que es hora de volver a las andadas y conseguir una cita, pero después de 200 años, puede ser que el viejo yeti esté un poco oxidado.",
     "imagen_url": "https://i.imgur.com/14hqDZ2.jpeg",
     "titulo_eng": "Skips in the Saddle",
     "titulo_es": "Skips vuelve al Juego"
@@ -1794,7 +1794,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-06-09",
     "imdb_score": 8.6,
-    "sinopsis": "Thomas se enfrenta a un enemigo del pasado y demuestra su verdadero valor al grupo.",
+    "sinopsis": "Thomas se entera de que Benson planea despedirlo, así que tiene que demostrar que es un empleado valioso para el parque.",
     "imagen_url": "https://i.imgur.com/nZrTyll.jpeg",
     "titulo_eng": "Thomas Fights Back",
     "titulo_es": "Thomas se Defiende"
@@ -1806,7 +1806,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-06-16",
     "imdb_score": 7.6,
-    "sinopsis": "El grupo organiza una despedida de soltero para Muscle Man, pero la fiesta se sale de control.",
+    "sinopsis": "Quips, el molesto primo de Skips, decide casarse y le pide que sea su padrino. Skips tiene que organizar la despedida, y lo más importante: conseguir alitas.",
     "imagen_url": "https://i.imgur.com/Hvc8I7t.jpeg",
     "titulo_eng": "Bachelor Party! Zingo!!",
     "titulo_es": "Despedida de Soltero"
@@ -1818,7 +1818,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-06-23",
     "imdb_score": 7.4,
-    "sinopsis": "Mordecai y Rigby intentan armar una tienda de campaña, pero terminan atrapados en una dimensión alterna.",
+    "sinopsis": "Mordecai y Rigby accidentalmente destruyen la nueva tienda acampadora de lujo de CJ y necesitan $200 dólares para reemplazarla.",
     "imagen_url": "https://i.imgur.com/NBMJufS.jpeg",
     "titulo_eng": "Tent Trouble",
     "titulo_es": "Problema con la Tienda"
@@ -1830,7 +1830,7 @@
     "temporada_id": "TEMP05",
     "fecha_estreno": "2014-08-14",
     "imdb_score": 8.9,
-    "sinopsis": "Mordecai y CJ finalmente tienen una cita real, pero una serie de eventos desafortunados pone a prueba su relación.",
+    "sinopsis": "Mordecai y CJ deciden tener su primera cita real, pero un vaquero de un sitio de Internet amenaza con arruinar la velada solamente por beneficio de su sitio.",
     "imagen_url": "https://i.imgur.com/K6S3Eaz.jpeg",
     "titulo_eng": "Real Date",
     "titulo_es": "Una Cita Real"
@@ -2613,7 +2613,7 @@
     "sinopsis": "Tras la graduación de Rigby, la pandilla del parque debe adaptarse a vivir y sobrevivir en el espacio.",
     "imagen_url": "https://i.imgur.com/uScWKJt.jpeg",
     "titulo_eng": "One Space Day at a Time",
-    "titulo_es": ""
+    "titulo_es": "Un Dia Espacial a la Vez"
   },
   {
     "id": "CAP219",
@@ -2625,7 +2625,7 @@
     "sinopsis": "Unos robots ‘bro’ aparecen para ayudar, pero Mordecai y Rigby sospechan de sus verdaderas intenciones.",
     "imagen_url": "https://i.imgur.com/h5TZDVG.jpeg",
     "titulo_eng": "Cool Bro Bots",
-    "titulo_es": ""
+    "titulo_es": "Hermanobots Buena Onda"
   },
   {
     "id": "CAP220",
@@ -2634,10 +2634,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2016-09-27",
     "imdb_score": 8.6,
-    "sinopsis": "El equipo descubre la verdadera misión espacial mientras Benson insiste en volver a casa.",
+    "sinopsis": "El domo llega a la estación del Árbol Espacial y son recibidos por el Colonel Rawls, pero Benson no quiere quedarse allí y quiere regresar a la Tierra.",
     "imagen_url": "https://i.imgur.com/gANER4b.jpeg",
     "titulo_eng": "Welcome to Space",
-    "titulo_es": ""
+    "titulo_es": "Bienvenidos al Espacio"
   },
   {
     "id": "CAP221",
@@ -2649,7 +2649,7 @@
     "sinopsis": "Aceptan rescatar al ex de una científica a cambio de ‘space creds’ para comprar zapatillas flotantes.",
     "imagen_url": "https://i.imgur.com/qzA1Z7L.jpeg",
     "titulo_eng": "Space Creds",
-    "titulo_es": ""
+    "titulo_es": "Crédito Espacial"
   },
   {
     "id": "CAP222",
@@ -2661,7 +2661,7 @@
     "sinopsis": "Chance Sureshot pierde su billetera y el equipo viaja al Planeta Mantis para recuperarla.",
     "imagen_url": "https://i.imgur.com/QFIU3m8.jpeg",
     "titulo_eng": "Lost and Found",
-    "titulo_es": ""
+    "titulo_es": "Artículos Perdidos"
   },
   {
     "id": "CAP223",
@@ -2673,7 +2673,7 @@
     "sinopsis": "Rawls contrata a Musculoso para gastar una broma a la Estación Bush.",
     "imagen_url": "https://i.imgur.com/eWv2MAf.jpeg",
     "titulo_eng": "Ugly Moons",
-    "titulo_es": ""
+    "titulo_es": "Lunas Feas"
   },
   {
     "id": "CAP224",
@@ -2685,7 +2685,7 @@
     "sinopsis": "Pops sufre pesadillas sobre un alien y todos intentan ayudarlo a enfrentarlas.",
     "imagen_url": "https://i.imgur.com/OuBLokF.jpeg",
     "titulo_eng": "The Dream Warrior",
-    "titulo_es": ""
+    "titulo_es": "El Guerrero del Sueño"
   },
   {
     "id": "CAP225",
@@ -2697,7 +2697,7 @@
     "sinopsis": "Rigby libera por accidente a un cerebro maligno y deben detenerlo antes de que cause más caos.",
     "imagen_url": "https://i.imgur.com/hzytN68.jpeg",
     "titulo_eng": "The Brain of Evil",
-    "titulo_es": ""
+    "titulo_es": "El Cerebro del Mal"
   },
   {
     "id": "CAP226",
@@ -2706,10 +2706,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2016-10-04",
     "imdb_score": 8.1,
-    "sinopsis": "Benson, deprimido por una ruptura, busca ingredientes de papas fritas junto a un asteroide llamado Roxy.",
+    "sinopsis": "Cuando Benson ha sido abandonado por su novia Pam, él va a por patatas fritas para rellenar el vacío dejado en su corazón.",
     "imagen_url": "https://i.imgur.com/k0njUE7.jpeg",
     "titulo_eng": "Fries Night",
-    "titulo_es": ""
+    "titulo_es": "Noche de Papas"
   },
   {
     "id": "CAP227",
@@ -2718,10 +2718,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2016-10-05",
     "imdb_score": 7.8,
-    "sinopsis": "Rigby entrena en seguridad con un insoportable ‘árbol espacial’.",
+    "sinopsis": "Rigby debe pasar el test de seguridad del Árbol Espacial con ayuda de su nuevo maestreo Spacey McÁrbol Espacial.",
     "imagen_url": "https://i.imgur.com/YgtEJF9.jpeg",
     "titulo_eng": "Spacey McSpaceTree",
-    "titulo_es": ""
+    "titulo_es": "Spacey McÁrbol Espacial"
   },
   {
     "id": "CAP228",
@@ -2733,7 +2733,7 @@
     "sinopsis": "Causan un desastre sonoro en un planeta de oídos sensibles y son llevados a juicio.",
     "imagen_url": "https://i.imgur.com/qt1o5d7.jpeg",
     "titulo_eng": "Can You Ear Me Now?",
-    "titulo_es": ""
+    "titulo_es": "¿Puedes Oírme?"
   },
   {
     "id": "CAP229",
@@ -2745,7 +2745,7 @@
     "sinopsis": "Intentan ver a Fist Pump pero quedan atrapados en un ascensor espacial.",
     "imagen_url": "https://i.imgur.com/9DVzCsY.jpeg",
     "titulo_eng": "Stuck in an Elevator",
-    "titulo_es": ""
+    "titulo_es": "Atrapados en el Ascensor"
   },
   {
     "id": "CAP230",
@@ -2754,10 +2754,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2016-10-10",
     "imdb_score": 9.1,
-    "sinopsis": "Compiten en una peligrosa carrera contra la Estación Space Bush.",
+    "sinopsis": "Mordecai y Rigby compiten en una carrera espacial contra otras estaciones espaciales.",
     "imagen_url": "https://i.imgur.com/3xhYC4P.jpeg",
     "titulo_eng": "The Space Race",
-    "titulo_es": ""
+    "titulo_es": "La Carrera Espacial"
   },
   {
     "id": "CAP231",
@@ -2766,10 +2766,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2016-10-11",
     "imdb_score": 8.6,
-    "sinopsis": "Intentan evitar spoilers de su serie favorita mientras Benson busca venganza.",
+    "sinopsis": "Mordecai y Rigby intentan evitar spoilers de su programa de televisión favorito.",
     "imagen_url": "https://i.imgur.com/NHpBLlf.jpeg",
     "titulo_eng": "Operation Hear No Evil",
-    "titulo_es": ""
+    "titulo_es": "Operación: No Oigo el Mal"
   },
   {
     "id": "CAP232",
@@ -2778,10 +2778,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2016-10-12",
     "imdb_score": 9.5,
-    "sinopsis": "Anti-Pops aparece y todos deben evacuar la Estación Árbol.",
+    "sinopsis": "Los chicos tratan de escapar del Árbol Espacial y salvar a sus amigos de Anti-Papaleta.",
     "imagen_url": "https://i.imgur.com/uxJhECX.jpeg",
     "titulo_eng": "Space Escape",
-    "titulo_es": ""
+    "titulo_es": "Escape Espacial"
   },
   {
     "id": "CAP233",
@@ -2790,10 +2790,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2016-10-13",
     "imdb_score": 8.5,
-    "sinopsis": "En una parada para comprar camas nuevas se topan con un cazarrecompensas que busca a Pops.",
+    "sinopsis": "Mordecai y Rigby tratan de comprar una nueva cama para Papaleta luego de escapar de Anti-Papaleta.",
     "imagen_url": "https://i.imgur.com/wU8cg95.jpeg",
     "titulo_eng": "New Beds",
-    "titulo_es": ""
+    "titulo_es": "Camas Nuevas"
   },
   {
     "id": "CAP234",
@@ -2802,10 +2802,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2016-10-14",
     "imdb_score": 8.4,
-    "sinopsis": "Un teletransportador intercambia sus cuerpos y luego otras partes; piden ayuda a Musculoso.",
+    "sinopsis": "Mordecai y Rigby van a través de máquinas tele transportadoras y accidentalmente cambian de cuerpos.",
     "imagen_url": "https://i.imgur.com/foB70pm.jpeg",
     "titulo_eng": "Mordeby and Rigbecai",
-    "titulo_es": ""
+    "titulo_es": "Mordeby y Rigbecai"
   },
   {
     "id": "CAP235",
@@ -2814,10 +2814,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2016-10-20",
     "imdb_score": 8.3,
-    "sinopsis": "Encuentran el primer domo enviado al espacio, cuyos habitantes creen vivir en 1690.",
+    "sinopsis": "El equipo del parque encuentra el Domo Alpha, la primera cúpula enviada al espacio. Cuando la tripulación va a investigar encuentran que sus habitantes creen que es 1690.",
     "imagen_url": "https://i.imgur.com/5jUin2j.jpeg",
     "titulo_eng": "Alpha Dome",
-    "titulo_es": ""
+    "titulo_es": "Domo Alfa"
   },
   {
     "id": "CAP236",
@@ -2826,10 +2826,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2016-10-27",
     "imdb_score": 8.5,
-    "sinopsis": "Especial de Halloween con tres historias de terror en el espacio.",
+    "sinopsis": "El equipo del parque se encuentran con un agujero negro mientras cuentan historias en Halloween.",
     "imagen_url": "https://i.imgur.com/Bp8oJ7n.jpeg",
     "titulo_eng": "Terror Tales of the Park VI",
-    "titulo_es": ""
+    "titulo_es": "Cuentos de Terror del Parque VI"
   },
   {
     "id": "CAP237",
@@ -2838,10 +2838,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2016-11-03",
     "imdb_score": 8.7,
-    "sinopsis": "Deben reproducir un VHS de hielo para conocer el origen de Pops.",
+    "sinopsis": "Los chicos tienen que reproducir una cinta de VHS especial para saber quien es realmente Papaleta.",
     "imagen_url": "https://i.imgur.com/GVzdwxD.jpeg",
     "titulo_eng": "The Ice Tape",
-    "titulo_es": ""
+    "titulo_es": "La Cinta de Hielo"
   },
   {
     "id": "CAP238",
@@ -2850,10 +2850,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2016-11-10",
     "imdb_score": 8.5,
-    "sinopsis": "Earl entrena a Pops para enfrentar a Anti-Pops, pero él duda si debe hacerlo.",
+    "sinopsis": "Los chicos aprenden sobre los verdaderos orígenes de Papaleta quien comienza su entrenamiento con Earl para derrotar a Anti-Papaleta.",
     "imagen_url": "https://i.imgur.com/1dUga5C.jpeg",
     "titulo_eng": "The Key to the Universe",
-    "titulo_es": ""
+    "titulo_es": "La Llave del Universo"
   },
   {
     "id": "CAP239",
@@ -2862,10 +2862,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2016-11-17",
     "imdb_score": 9.5,
-    "sinopsis": "Un montaje de entrenamiento manipula el espacio-tiempo y atrapa al equipo en una canción.",
+    "sinopsis": "Los chicos ayudan a entrenar a Papaleta.",
     "imagen_url": "https://i.imgur.com/fw9TJoj.jpeg",
     "titulo_eng": "No Train No Gain",
-    "titulo_es": ""
+    "titulo_es": "Sin Entrenar No Puedes Ganar"
   },
   {
     "id": "CAP240",
@@ -2874,10 +2874,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2016-12-01",
     "imdb_score": 8.5,
-    "sinopsis": "Navidad en el espacio con historias de monstruos de hielo y visitas del Krampus.",
+    "sinopsis": "Los chicos celebran su primera Navidad en el espacio compartiendo historias y abriendo regalos, pero a Benson le molesta que las historias tengan elementos de miedo.",
     "imagen_url": "https://i.imgur.com/YKWXAEj.jpeg",
     "titulo_eng": "Christmas in Space",
-    "titulo_es": ""
+    "titulo_es": "Navidad en el Espacio"
   },
   {
     "id": "CAP241",
@@ -2886,10 +2886,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2017-01-14",
     "imdb_score": 9.2,
-    "sinopsis": "Pops busca resolver el conflicto con Anti-Pops usando la amabilidad.",
+    "sinopsis": "Papaleta todavía no quiere pelear con Anti-Papaleta. En vez de eso prefiere hacer las paces y volverse su amigo.",
     "imagen_url": "https://i.imgur.com/iVoo0SC.jpeg",
     "titulo_eng": "Kill ’Em with Kindness",
-    "titulo_es": ""
+    "titulo_es": "Acábalos con Gentileza"
   },
   {
     "id": "CAP242",
@@ -2898,10 +2898,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2017-01-14",
     "imdb_score": 9.6,
-    "sinopsis": "Se reencuentran con los Guardianes de Formatos Obsoletos y conocen a la Vidente.",
+    "sinopsis": "La tripulación debe encontrar al vidente en el Planeta Nielsen.",
     "imagen_url": "https://i.imgur.com/SVuynOD.jpeg",
     "titulo_eng": "Meet the Seer",
-    "titulo_es": ""
+    "titulo_es": "Conozcan a la vidente"
   },
   {
     "id": "CAP243",
@@ -2910,10 +2910,10 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2017-01-16",
     "imdb_score": 9.5,
-    "sinopsis": "Antes de llegar a Lolliland, intentan animar a Pops grabando recuerdos.",
+    "sinopsis": "La tripulación del domo intenta animar a Papaleta para su futura pelea.",
     "imagen_url": "https://i.imgur.com/Zk6UbUO.jpeg",
     "titulo_eng": "Cheer Up Pops",
-    "titulo_es": ""
+    "titulo_es": "Alégrate Papaleta"
   },
   {
     "id": "CAP244",
@@ -2922,9 +2922,9 @@
     "temporada_id": "TEMP08",
     "fecha_estreno": "2017-01-16",
     "imdb_score": 9.8,
-    "sinopsis": "Llega la batalla final contra Anti-Pops, con un sacrificio que salva el universo.",
+    "sinopsis": "En este épico final de la serie, el destino del universo será decidido en una batalla final entre Papaleta y su gemelo malvado Anti-Papaleta en el planeta Lollilandia. Mientras Mordecai, Rigby y el resto de los protagonistas planean cambiar la historia y salvar al Universo.",
     "imagen_url": "https://i.imgur.com/35X5YOb.jpeg",
     "titulo_eng": "A Regular Epic Final Battle",
-    "titulo_es": ""
+    "titulo_es": "Una Épica Batalla Final Más"
   }
 ]
